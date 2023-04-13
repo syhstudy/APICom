@@ -1,0 +1,2000 @@
+util arrays aslist
+arrays aslist
+system arraycopy
+lang system arraycopy
+io file renameto
+renameto
+util stream collectors tomap
+collectors tomap
+round
+lang math round
+lang system gc
+gc
+double isnan
+lang double isnan
+imageio read
+imageio imageio read
+lang string replaceall
+string replaceall
+forname
+lang class forname
+walkfiletree
+nio file files walkfiletree
+sleep
+lang thread sleep
+sort
+util collections sort
+lang string replace
+deeptostring
+lang thread suspend
+thread suspend
+sort
+collections sort
+system gc
+gc
+awt component setbounds
+component getbounds
+lang class isassignablefrom
+clone
+lang string split
+string split
+string split
+split
+lang runtime exec
+exec
+walk
+files walk
+sort
+util collections sort
+lang integer parseint
+parseint
+util hashtable get
+synchronizedmap
+util map remove
+map remove
+random
+util collections synchronizedlist
+sleep
+thread sleep
+util random nextint
+nextint
+getruntime
+runtime exec
+compile
+lang string split
+lang string split
+split
+collections synchronizedlist
+util collections synchronizedlist
+synchronizedlist
+util collections synchronizedlist
+lang enum valueof
+valueof
+arrays sort
+util arrays sort
+addall
+list addall
+util arrays aslist
+arrays aslist
+lang string split
+parseint
+class getinterfaces
+lang class getinterfaces
+collections sort
+reverse
+math pow
+lang math pow
+util collections sort
+collections sort
+net ssl httpsurlconnection setdefaultsslsocketfactory
+ssl httpsurlconnection setdefaultsslsocketfactory
+lang thread sleep
+thread sleep
+concurrent completablefuture runasync
+blockingqueue take
+lang thread sleep
+sleep
+util collections sort
+collections sort
+lang string format
+string format
+lang thread sleep
+thread sleep
+lang thread sleep
+sleep
+lang string split
+split
+util collections synchronizedlist
+synchronizedlist
+util arrays aslist
+arrays aslist
+reset
+io objectoutputstream reset
+sleep
+thread sleep
+sort
+util collections sort
+util arrays sort
+sort
+util collections sort
+sort
+lang string indexof
+indexof
+class getdeclaredconstructor
+forname
+lang string format
+format
+setdefaultcloseoperation
+jframe setdefaultcloseoperation
+lang system nanotime
+system nanotime
+thread sleep
+lang thread sleep
+lang string getbytes
+intern
+emptylist
+util collections emptylist
+lang string trim
+string trim
+lang string substring
+substring
+aslist
+arrays deeptostring
+showConfirmDialog
+swing joptionpane showConfirmDialog
+replaceall
+string replaceall
+matches
+string matches
+runtime exec
+lang runtime exec
+util collections unmodifiablelist
+collections unmodifiablelist
+replacefirst
+string replacefirst
+thread sleep
+sleep
+lang string valueof
+integer tostring
+transferFrom
+channels filechannel transferFrom
+system setout
+lang system setout
+io datainputstream readfully
+readfully
+collections sort
+sort
+tostring
+lang integer tostring
+thread sleep
+sleep
+sort
+util collections sort
+math random
+random
+getId
+thread getid
+sleep
+awt window pack
+lang character valueof
+character valueof
+lang system nanotime
+nanotime
+openconnection
+net url openconnection
+thread sleep
+lang thread sleep
+collections synchronizedmap
+synchronizedmap
+swingutilities invokelater
+swing jtable jtable
+forname
+lang class forname
+system setproperty
+setproperty
+lang system arraycopy
+system arraycopy
+lang reflect method invoke
+method invoke
+system console
+console
+string split
+split
+string format
+lang string format
+aslist
+arrays aslist
+lang reflect array newinstance
+reflect array newinstance
+readline
+io bufferedreader readline
+parse
+localdate parse
+util collections sort
+collections sort
+system getenv
+getenv
+util concurrent concurrenthashmap computeifabsent
+concurrenthashmap putifabsent
+toarray
+arrays copyof
+setselected
+abstractbutton isselected
+lang string split
+split
+string format
+replacefirst
+executors newfixedthreadpool
+concurrent executors newfixedthreadpool
+math hypot
+lang math hypot
+thread sleep
+lang thread sleep
+synchronizedmap
+concurrent concurrenthashmap putifabsent
+string split
+split
+util arrays tostring
+arrays tostring
+ofnullable
+map get
+util comparator comparing
+comparator comparing
+toarray
+list toarray
+lang boolean tostring
+boolean tostring
+remove
+collections unmodifiablelist
+system exit
+exit
+integer valueof
+lang integer valueof
+sort
+util collections sort
+lang math abs
+abs
+sslsocket setenabledciphersuites
+net ssl sslsocket setenabledciphersuites
+serversocket accept
+setsotimeout
+loadlibrary
+lang class forname
+exec
+runtime exec
+lang class getresourceasstream
+properties load
+util linkedlist removeif
+system currenttimemillis
+thread sleep
+sleep
+pattern matcher
+matcher
+clone
+lang object clone
+lang reflect method getparameterannotations
+getdeclaredannotationsbytype
+util collections sort
+sort
+valueof
+lang integer valueof
+system loadlibrary
+lang system loadlibrary
+swing joptionpane showmessagedialog
+showmessagedialog
+hashcode
+object hashcode
+net url getpath
+getfile
+reflect array newinstance
+newinstance
+lang system arraycopy
+system arraycopy
+thread join
+lang thread join
+remove
+iterator remove
+groupingby
+collectors groupingby
+system getproperty
+getenv
+showInputDialog
+joptionpane showinputdialog
+util collections sort
+sort
+exec
+runtime exec
+lang long parselong
+long parselong
+collections sort
+equals
+repaint
+awt component repaint
+collections shuffle
+shuffle
+text simpledateformat parse
+parse
+lang string split
+split
+arrays tostring
+tostring
+string format
+lang string format
+lang thread currentthread
+executors newfixedthreadpool
+string getbytes
+getbytes
+removeif
+collection removeif
+isarray
+reflect array newinstance
+sort
+util collections sort
+parseint
+util scanner nextint
+thread sleep
+sleep
+arrays aslist
+aslist
+lang system currenttimemillis
+system currenttimemillis
+shuffle
+collections shuffle
+arrays aslist
+aslist
+util arrays sort
+collections sort
+readline
+io bufferedreader readline
+start
+lang thread start
+util calendar getinstance
+getinstance
+lang object hashcode
+object hashcode
+arrays sort
+sort
+integer parseint
+parseint
+object toString
+tostring
+math pow
+pow
+format
+integer valueof
+lang thread sleep
+thread sleep
+lang system exit
+exit
+imageio read
+read
+sort
+util collections sort
+toarray
+arrays tostring
+swing jtabbedpane settabicon
+jtabbedpane settabicon
+class forname
+lang class forname
+getconnection
+sql drivermanager getconnection
+sort
+util collections sort
+toarray
+collection toarray
+forname
+lang reflect method invoke
+round
+lang math round
+math biginteger multiply
+valueof
+util stream stream of
+spliterator getExactSizeIfKnown
+split
+string split
+random
+math random
+executors newsinglethreadscheduledexecutor
+newsinglethreadscheduledexecutor
+newinstance
+array newinstance
+util collections shuffle
+collections shuffle
+lang system gc
+gc
+class forname
+forname
+util scanner nextdouble
+double parsedouble
+showMessageDialog
+joptionpane showmessagedialog
+gettime
+calendar getinstance
+lang long parselong
+arrays stream
+lang integer tostring
+tostring
+format
+lang string format
+pow
+lang math pow
+util collections synchronizedlist
+collections synchronizedlist
+system getproperty
+lang system getproperty
+math pow
+pow
+lang integer valueof
+valueof
+arrays aslist
+set
+string compareto
+lang string compareto
+split
+lang string split
+comparator compare
+util comparator compare
+class forname
+lang class forname
+thread sleep
+lang thread sleep
+bufferedimage getsubimage
+graphics drawimage
+short tobinarystring
+format
+string substring
+lang string substring
+lang double compare
+comparator compare
+lang string split
+string split
+class forname
+lang class forname
+stop
+thread stop
+lang thread yield
+yield
+parseint
+util arrays stream
+lang string split
+split
+lang system gc
+system gc
+integer tohexstring
+tohexstring
+sort
+arrays sort
+imageio imageio read
+read
+object clone
+clone
+util arrays aslist
+add
+util collections sort
+sort
+objects equals
+util objects equals
+system exit
+lang system exit
+collections sort
+sort
+sort
+util collections sort
+concat
+string concat
+invokelater
+swing jframe pack
+lang class forname
+forname
+lang runtime exec
+exec
+tostring
+lang string format
+lang string split
+split
+simpledateformat parse
+text simpledateformat parse
+util arrays aslist
+aslist
+class forname
+lang class forname
+lang long valueof
+long valueof
+string split
+lang string split
+collections sort
+sort
+lang runtime exec
+runtime exec
+getdeclaredmethods
+class getdeclaredmethods
+string intern
+intern
+sort
+collections sort
+getbytes
+lang string getbytes
+file createtempfile
+io file createtempfile
+lang thread sleep
+thread sleep
+date equals
+util date equals
+math round
+lang math round
+intern
+string intern
+io file mkdirs
+getparent
+lang integer valueof
+valueof
+hashcode
+lang system identityhashcode
+system gc
+gc
+isdirectory
+util zip zipfile getinputstream
+string getchars
+lang string getchars
+split
+lang string split
+collections unmodifiableset
+unmodifiableset
+collections sort
+sort
+optional ofnullable
+util optional ofnullable
+util arrays aslist
+toarray
+registry locateregistry createregistry
+getregistry
+arrays sort
+sort
+getpath
+net url getpath
+net inetaddress getallbyname
+inetaddress getallbyname
+fxcollections observablelist
+collections fxcollections observablearraylist
+lang system setout
+system setout
+file
+filewriter filewriter
+lang thread currentthread
+thread currentthread
+init
+crypto cipher init
+future get
+util concurrent executorservice invokeall
+invokelater
+swing swingutilities invokelater
+double parsedouble
+lang double parsedouble
+util concurrent executors newfixedthreadpool
+concurrent executors newfixedthreadpool
+invokelater
+swing swingutilities invokelater
+uimanager put
+swing uimanager put
+imageio read
+swing joptionpane showmessagedialog
+sublist
+list sublist
+lang system exit
+exit
+system gc
+gc
+util collections unmodifiablelist
+collections unmodifiablelist
+util collections sort
+collections sort
+collections unmodifiablelist
+util collections unmodifiablelist
+getsource
+awt event mouseevent getclickcount
+swing jcomponent paintimmediately
+paintcomponent
+math pow
+sqrt
+class forname
+sleep
+time format datetimeformatter rfc
+localdate now
+util arrays aslist
+aslist
+system gc
+lang system gc
+gc
+system gc
+lang system nanotime
+currenttimemillis
+lang system gc
+gc
+system console
+lang system console
+objects requirenonnull
+util objects requirenonnull
+lang system arraycopy
+arraycopy
+valueof
+lang double valueof
+system arraycopy
+arraycopy
+util concurrent future get
+future get
+getwindowancestor
+swing swingutilities invokelater
+util collections shuffle
+collections shuffle
+scene node getparent
+doc-files cssref typecolor
+aslist
+util arrays aslist
+io objectinputstream readobject
+readobject
+collections synchronizedlist
+util collections newsetfrommap
+sort
+util collections sort
+jtable getcolumnclass
+swing jtable getcolumnclass
+lang object getclass
+sort
+util collections sort
+collections sort
+lang thread sleep
+system currenttimemillis
+collections sort
+sort
+util collections synchronizedlist
+sort
+invokelater
+jscrollpane jscrollpane
+registry locateregistry createregistry
+rmi registry locateregistry createregistry
+sql resultset last
+last
+lang float compare
+compare
+files newbufferedreader
+file files newbufferedreader
+string replace
+replace
+text simpledateformat parse
+system nanotime
+format
+string format
+aslist
+util arrays aslist
+util arrays aslist
+arrays aslist
+bind
+net socket bind
+arrays aslist
+aslist
+util arrays aslist
+arrays aslist
+frequency
+list contains
+max
+collections max
+net url openconnection
+openconnection
+collections sort
+sort
+clone
+object clone
+util arrays aslist
+arrays aslist
+swing jlist getselectedvalue
+jlist getselectedvalue
+util map get
+integer parseint
+node gettextcontent
+dom node gettextcontent
+lang string intern
+intern
+lang thread setdefaultuncaughtexceptionhandler
+concurrent future get
+string split
+lang string split
+split
+lang string split
+lang string isempty
+isBlank
+integer parseint
+valueof
+tooltipmanager sharedinstance
+doc-files cssref typeurl
+lang class newinstance
+newinstance
+aslist
+util list add
+collections unmodifiablemap
+util collections unmodifiablemap
+reverseorder
+util collections sort
+lang math random
+random
+gc
+lang system exit
+naming directory searchcontrols setreturningpassword
+ldapcontext reconnect
+lang math random
+random
+pow
+lang math pow
+double parsedouble
+valueof
+lang string replaceall
+regex pattern compile
+util collections shuffle
+shuffle
+byte parsebyte
+parsebyte
+invokelater
+joptionpane showmessagedialog
+net socket connect
+connect
+util treeset add
+treeset put
+lang system exit
+system exit
+aslist
+arrays aslist
+of
+zoneddatetime now
+map put
+lang system identityhashcode
+util arrays deeptostring
+intstream range
+lang string format
+setstring
+pattern quote
+regex pattern quote
+thread sleep
+nanotime
+getinstance
+lang system currenttimemillis
+equals
+lang string equals
+lang string getbytes
+string getbytes
+exit
+system exit
+split
+lang string split
+lang string split
+string split
+split
+string split
+util collections sort
+collections sort
+concurrent executors newfixedthreadpool
+executors newfixedthreadpool
+object tostring
+lang object tostring
+arrays aslist
+aslist
+shuffle
+util collections shuffle
+ceil
+lang math ceil
+aslist
+util arrays aslist
+equals
+string equals
+tostring
+thread sleep
+lang string split
+string split
+lang class forname
+forname
+lang math pow
+tobinarystring
+util collections sort
+collections sort
+collections synchronizedlist
+synchronizedlist
+sql statement executeupdate
+executeupdate
+getRuntime
+runtime exec
+format
+math pow
+string intern
+lang string intern
+math abs
+abs
+swing joptionpane showmessagedialog
+joptionpane showmessagedialog
+sort
+collections sort
+lang system loadlibrary
+loadlibrary
+lang object equals
+equals
+exit
+system exit
+exit
+lang system exit
+collections synchronizedlist
+util collections synchronizedlist
+drivermanager getconnection
+setlogintimeout
+lang system currenttimemillis
+integer parseint
+class forname
+lang class forname
+lang thread sleep
+concurrent executors newfixedthreadpool
+string getbytes
+io datainputstream readline
+constructor newinstance
+newproxyinstance
+inetaddress getbyname
+accept
+setout
+lang system setout
+sort
+collections sort
+locks reentrantlock newcondition
+park
+getlogger
+logger getlogger
+swing joptionpane showmessagedialog
+showmessagedialog
+parseint
+lang integer parseint
+lang thread isinterrupted
+thread sleep
+util concurrent completablefuture supplyasync
+complete
+object equals
+lang object equals
+string split
+lang string split
+util collections shuffle
+shuffle
+util set replace
+replace
+swingutilities invokelater
+invokelater
+thread join
+sleep
+min
+util collections min
+object equals
+lang object equals
+sleep
+thread sleep
+system gc
+gc
+nanotime
+system nanotime
+lang thread sleep
+thread sleep
+string substring
+substring
+read
+imageio read
+lang string split
+split
+joptionpane showmessagedialog
+showmessagedialog
+joptionpane showMessageDialog
+showMessageDialog
+synchronizedlist
+collections synchronizedlist
+load
+lang system loadlibrary
+sql resultset getint
+resultset getint
+awt component addmouselistener
+eventobject getsource
+console
+double parsedouble
+exit
+system exit
+lang class forname
+forname
+swingutilities invokelater
+invokelater
+node setondragdetected
+tablecellrenderer gettablecellrenderercomponent
+collections shuffle
+util random nextint
+util collections emptylist
+emptylist
+system exit
+exit
+util collections shuffle
+shuffle
+lang class getmethod
+class forname
+io file createnewfile
+file createnewfile
+lang system setproperty
+system setproperty
+sort
+util arrays sort
+arrays aslist
+aslist
+parseint
+integer parseint
+file listfiles
+listfiles
+time format datetimeformatter ofpattern
+weekofweek years
+lang runtime getruntime
+getruntime
+swing swingutilities invokelater
+invokelater
+remove
+util collections synchronizedlist
+lang string equals
+string equals
+nio file files move
+file files move
+parseint
+integer parseint
+substring
+string indexof
+arrays aslist
+util arrays aslist
+collections unmodifiablelist
+unmodifiablelist
+lang boolean valueof
+valueof
+lang object clone
+clone
+file createnewfile
+createnewfile
+format
+string format
+unmodifiablelist
+util collections newsetfrommap
+min
+math max
+currenttimemillis
+system currenttimemillis
+map containskey
+aslist
+class forname
+forname
+sort
+collections sort
+thread sleep
+sleep
+util map submap
+unmodifiablemap
+getenumconstants
+lang enum valueof
+concurrenthashmap putIfAbsent
+concurrent concurrentmap putIfAbsent
+sort
+util arrays sort
+util collections sort
+collections sort
+lang string split
+string split
+unmodifiablelist
+collections unmodifiablelist
+lang string concat
+string concat
+lang string getbytes
+fill
+image bufferedimage getrgb
+getrgb
+newbufferedreader
+files newbufferedreader
+util arrays aslist
+arrays aslist
+locale getdefault
+util locale getdefault
+imageio read
+imageio imageio read
+lang object equals
+object equals
+format
+lang string format
+unmodifiablemap
+util collections unmodifiablemap
+util stream collectors summingint
+collectors summingint
+console
+system console
+throwable getstacktrace
+lang throwable getstacktrace
+lang string split
+string split
+getresourceasstream
+class getresourceasstream
+collections sort
+sort
+flowlayout flowlayout
+getdefaulttoolkit
+thread start
+util concurrent locks reentrantlock unlock
+split
+lang string split
+split
+string split
+exec
+runtime exec
+lang runtime exec
+exec
+collections sort
+sort
+class forname
+forname
+indexof
+lang string indexof
+thread sleep
+lang thread sleep
+util arrays aslist
+aslist
+sort
+util collections sort
+imageio write
+write
+lang reflect field set
+field set
+sort
+arrays sort
+format
+string format
+nextint
+scanner nextline
+swing swingutilities invokelater
+invokelater
+io bufferedreader readline
+readline
+swing joptionpane showmessagedialog
+showmessagedialog
+string split
+lang string split
+lang object clone
+object clone
+setproperty
+lang system setproperty
+arrays fill
+emptylist
+parseint
+lang integer parseint
+collections reverse
+util collections reverse
+runtime exec
+lang runtime exec
+math random
+lang math random
+lang system exit
+system exit
+lang thread sleep
+sleep
+lang string getbytes
+string getbytes
+swingutilities invokelater
+invokelater
+math bigdecimal multiply
+bigdecimal multiply
+lang object equals
+equals
+collections binarysearch
+max
+util collections sort
+sort
+jtable preparerenderer
+put
+lang math abs
+math abs
+concurrent completablefuture runasync
+stream of
+thread sleep
+lang thread sleep
+awt component addmouselistener
+component addmouselistener
+lang thread sleep
+thread sleep
+thread sleep
+sleep
+net socket getinputstream
+socket getinputstream
+exec
+lang runtime exec
+xml parsers documentbuilder parse
+newinstance
+math pow
+lang math pow
+joptionpane showmessagedialog
+swing swingutilities invokelater
+random nextdouble
+nextdouble
+lang object hashcode
+hashcode
+system gc
+lang system gc
+thread sleep
+sleep
+file files newoutputstream
+io file createtempfile
+math pow
+lang math pow
+map get
+util map get
+system loadlibrary
+lang runtime exec
+sort
+util arrays sort
+class forname
+lang class forname
+swingutilities invokelater
+swing swingutilities invokelater
+valueof
+lang boolean valueof
+string intern
+intern
+integer parseint
+lang integer parseint
+arrays copyof
+util arrays copyof
+system currenttimemillis
+lang system currenttimemillis
+plus
+math addexact
+setvalueat
+swing joptionpane showmessagedialog
+thread sleep
+sleep
+integer valueof
+parseint
+util collections shuffle
+shuffle
+duration parse
+time duration parse
+aslist
+arrays aslist
+lang string split
+string split
+arrays aslist
+aslist
+sort
+collections sort
+util collections frequency
+collections frequency
+pattern compile
+util regex pattern compile
+min
+math min
+util collections unmodifiablelist
+trysplit
+util concurrent executorservice invokeall
+executors newfixedthreadpool
+system currenttimemillis
+lang system currenttimemillis
+string format
+lang string format
+util arrays aslist
+aslist
+lang string split
+split
+lang class forname
+class forname
+linkedlist add
+unmodifiablelist
+util stream collectors tocollection
+stream collectors tomap
+exit
+lang system exit
+lang thread sleep
+sleep
+invoke
+method invoke
+exit
+runtime addshutdownhook
+compile
+regex pattern compile
+collections frequency
+util collections frequency
+addfirst
+util collections synchronizedlist
+regex pattern quote
+pattern quote
+util collections sort
+collections sort
+entry
+lang class forname
+string format
+lang string format
+util arrays aslist
+aslist
+thread sleep
+lang thread sleep
+runtime addshutdownhook
+lang runtime addshutdownhook
+trim
+lang string trim
+arrays aslist
+util arrays aslist
+lang thread setdefaultuncaughtexceptionhandler
+system setout
+lang class cast
+class cast
+sleep
+thread sleep
+lang string format
+string format
+split
+lang string split
+getencoded
+security addprovider
+util arrays sort
+sort
+lang object hashcode
+hashcode
+cardlayout next
+show
+join
+thread join
+net urlconnection getcontentlength
+tostring
+math bigdecimal equals
+bigdecimal equals
+class isinstance
+forname
+tostring
+arrays tostring
+runtime exec
+lang runtime exec
+parseint
+lang string split
+util logging logger getlogger
+logger getlogger
+lang string replace
+replace
+sublist
+util stream intstream range
+collections sort
+util collections sort
+io file exists
+file exists
+lang class forname
+forname
+fxml doc-files introduction_to_fxml controller
+showmessagedialog
+integer parseint
+parseint
+date date
+text simpledateformat parse
+NaN
+double valueof
+collection contains
+util arrays aslist
+imageio read
+read
+sleep
+lang thread sleep
+equals
+object equals
+format
+string format
+getmethod
+lang class getdeclaredmethod
+synchronizedlist
+util collections synchronizedlist
+bigdecimal divide
+lang math round
+sort
+util collections sort
+getmidideviceinfo
+midisystem getmidideviceinfo
+awt window pack
+integer valueof
+string split
+lang string split
+accessibleobject setaccessible
+setaccessible
+sort
+collections sort
+forname
+lang class forname
+bytebuffer wrap
+wrap
+lang system exit
+exit
+getcaretposition
+doc-files cssref text
+jsplitpane addpropertychangelistener
+swing jsplitpane addpropertychangelistener
+lang thread sleep
+sleep
+serversocket serversocket
+lang system getproperty
+range
+util stream intstream range
+charat
+lang character isdigit
+lang integer parseint
+getconnection
+hashcode
+lang object hashcode
+awt toolkit getdefaulttoolkit
+trayicon setimageobserver
+system gc
+gc
+util collections sort
+sort
+lang string split
+system console
+io bufferedreader close
+bufferedreader close
+util collections sort
+sort
+matches
+regex pattern matches
+join
+lang thread join
+stream stream flatmap
+aslist
+newinstance
+xml bind jaxbcontext newinstance
+add
+collections unmodifiablelist
+lang string matches
+parseint
+net socket getinputstream
+datainputstream readline
+class getresourceasstream
+lang system getproperty
+sort
+util collections sort
+lang integer parseint
+parseint
+swingutilities invokelater
+swing swingutilities invokelater
+gc
+system gc
+object equals
+lang object equals
+exit
+lang thread sleep
+getinputstream
+lang runtime exec
+regex pattern quote
+lang stringbuilder deletecharat
+matches
+lang long parselong
+of
+stream collectors groupingby
+math round
+lang math round
+setout
+system getproperty
+regex pattern quote
+compile
+swing swingutilities invokelater
+read
+integer parseint
+lang integer parseint
+arrays aslist
+util arrays aslist
+replaceall
+lang string replaceall
+lang system arraycopy
+system arraycopy
+util collections sort
+compare
+lang string replace
+string replace
+awt graphicsenvironment isheadless
+ordinal
+util calendar getinstance
+of
+inputstreamreader inputstreamreader
+lang class getresourceasstream
+integer parseint
+parseint
+collections frequency
+util collections frequency
+math random
+random
+toarray
+arrays tostring
+swing uimanager setlookandfeel
+getlookandfeeldefaults
+swing joptionpane showmessagedialog
+parse
+invokelater
+swing swingutilities invokelater
+class isassignablefrom
+isassignablefrom
+character tochars
+tohexstring
+next
+scanner next
+remove
+lang system gc
+util concurrent atomic atomicinteger getandincrement
+double valueof
+load
+arrays aslist
+endswith
+class getdeclaredmethods
+runtime exec
+destroy
+lang class cast
+class cast
+invokelater
+swingutilities invokelater
+nio file files probecontenttype
+urlconnection getcontenttype
+thread currentthread
+lang thread currentthread
+toString
+object toString
+comparator compare
+lang integer compare
+string equals
+equals
+system arraycopy
+lang system arraycopy
+ofseconds
+format datetimeformatterbuilder appendzonetext
+util stream collectors tomap
+stream
+lang class isenum
+class isenum
+collections sort
+addall
+util collections sort
+collections sort
+lang object equals
+object equals
+class getresourceasstream
+getresourceasstream
+util random nextfloat
+keyset
+calendar getinstance
+lang system currenttimemillis
+string matches
+util regex pattern compile
+gc
+object finalize
+string valueof
+arraycopy
+lang byte valueof
+integer parseint
+getdeclaredconstructor
+io objectinputstream readobject
+string split
+lang string split
+concurrent executors newfixedthreadpool
+getencoder
+getdeclaredtype
+class isassignablefrom
+system gc
+lang system gc
+lang string split
+pattern compile
+lang class getresourceasstream
+getinputstream
+reflect method getgenericparametertypes
+lang reflect method getgenericparametertypes
+tochararray
+lang string tochararray
+lang runtime exec
+runtime exec
+read
+omg corba portable inputstream read
+lang class isassignablefrom
+collections sort
+matcher appendreplacement
+quote
+file getparentfile
+getparent
+scanner hasnextint
+hasnextint
+getinstance
+lang class cast
+lang system currenttimemillis
+system currenttimemillis
+synchronizedlist
+lang thread start
+valueof
+util arrays aslist
+setout
+lang runtime exec
+jfilechooser getselectedfile
+swing jfilechooser getselectedfile
+thread currentthread
+lang throwable fillinstacktrace
+getcomponentat
+awt event mouseevent getclickcount
+urlconnection getcontenttype
+getinputstream
+newoutputstream
+files newoutputstream
+object equals
+equals
+equals
+object equals
+multiply
+math bigdecimal multiply
+update
+concurrent executorservice submit
+tobinarystring
+byte tobinarystring
+jframe setdefaultcloseoperation
+swing jframe setdefaultcloseoperation
+class getresourceasstream
+getnumericvalue
+valueof
+lang class isinstance
+string tochararray
+reverse
+swing swingutilities invokelater
+invokelater
+stream collectors averagingdouble
+util stream collectors averagingdouble
+lang class getresourceasstream
+inputstream available
+printstream print
+print
+lang system gc
+wait
+isinstance
+class forname
+object wait
+join
+stream stream of
+stream allmatch
+forname
+system getproperty
+gridbaglayout
+awt toolkit getdefaulttoolkit
+readline
+file exists
+class getresourceasstream
+getproperty
+system getproperty
+equals
+hasnext
+lang character isletter
+awt image bufferedimage getrgb
+math round
+copy
+io file createtempfile
+addmouselistener
+lang thread sleep
+lang enum ordinal
+toarray
+synchronizedlist
+collections synchronizedlist
+showmessagedialog
+jcomponent paintcomponent
+collections sort
+sort
+tohexstring
+integer tohexstring
+setactioncommand
+swing joptionpane showmessagedialog
+lang enum valueof
+noneof
+string split
+lang class getdeclaredfields
+lang reflect method invoke
+isassignablefrom
+lang reflect field gettype
+getgenericparametertypes
+util concurrent concurrenthashmap computeifabsent
+putifabsent
+nextint
+lang thread sleep
+io inputstream close
+append
+integer valueof
+valueof
+lang string split
+split
+collections unmodifiablelist
+util collections unmodifiablelist
+lang string format
+string format
+math pow
+lang math pow
+charset defaultcharset
+forname
+lang string matches
+string matches
+io objectinputstream readfields
+readobject
+util concurrent concurrenthashmap computeifabsent
+println
+get
+concurrent executorservice awaittermination
+lang class isinstance
+getproperty
+class forname
+forname
+lang long valueof
+valueof
+currentthread
+thread currentthread
+readline
+bufferedreader readline
+parselong
+math biginteger biginteger
+string matches
+lang string matches
+sql preparedstatement executequery
+string equals
+printf
+lang string format
+system currenttimemillis
+sleep
+lang class forname
+getfile
+scene doc-files cssref typefloat
+doc-files cssref typefloat
+lang class getresourceasstream
+inputstreamreader inputstreamreader
+getyear
+text dateformat setlenient
+lang string contains
+hasnextline
+intstream range
+arrays rotate
+io objectinputstream readobject
+getdeclaredmethods
+tochararray
+system arraycopy
+setdefault
+util locale forlanguagetag
+toarray
+lang string split
+sleep
+reflect method invoke
+util stream intstream range
+aslist
+hashcode
+system identityhashcode
+valueof
+double valueof
+lang thread setdefaultuncaughtexceptionhandler
+getstacktrace
+setfileselectionmode
+swing jfilechooser setfileselectionmode
+blockingqueue put
+get
+lang string split
+tostring
+util date tostring
+tostring
+offsetdatetime parse
+parse
+security signature getinstance
+getinstance
+singletonlist
+collections unmodifiablemap
+time localdate now
+localdate now
+lang system currenttimemillis
+calendar getinstance
+string intern
+lang string intern
+audiosystem getaudioinputstream
+read
+io filewriter filewriter
+filewriter
+lang string intern
+string intern
+inputstream read
+corba portable inputstream read
+executors newfixedthreadpool
+util concurrent executorservice awaittermination
+arrays aslist
+aslist
+string equals
+util scanner scanner
+arrays fill
+lang math pow
+lang system getproperty
+mkdirs
+contains
+util set contains
+equals
+string equals
+forname
+lang class forname
+io bufferedreader close
+close
+lang math sqrt
+equals
+thread sleep
+random
+abstractclass isassignablefrom
+sort
+system currenttimemillis
+tostring
+concurrent executors newfixedthreadpool
+newfixedthreadpool
+runtime exec
+lang runtime exec
+stream collectors groupingby
+util stream collectors groupingby
+util zip zipfile getentry
+substring
+getwindows
+window dispose
+lang string matches
+string matches
+arrays aslist
+add
+stream stream of
+util stream stream of
+regex pattern compile
+lang string split
+io file list
+endswith
+getparametermetadata
+sql preparedstatement setobject
+lang string split
+pattern compile
+io bufferedreader readline
+scanner nextint
+statement close
+getconnection
+util list remove
+aslist
+currentthread
+util collections unmodifiablelist
+string getbytes
+lang string getbytes
+math sin
+awt point setx
+applet getcodebase
+awt toolkit getdefaulttoolkit
+map put
+put
+valueof
+lang integer tobitset
+arrays stream
+stream
+Transparency
+bufferedimage setrgb
+thread currentthread
+util concurrent executors newsinglethreadexecutor
+util function function apply
+of
+runtime exec
+io file createtempfile
+system gc
+gc
+biginteger equals
+math biginteger valueof
+arrays aslist
+contains
+stream collectors tomap
+entryset
+gc
+lang class getresourceasstream
+parseint
+util scanner nextint
+lang object hashcode
+hashmap
+tochararray
+string intern
+sql drivermanager getconnection
+forname
+awt toolkit getdefaulttoolkit
+toolkit getdefaulttoolkit
+arrays aslist
+aslist
+cipher getinstance
+getinstance
+gettimeinmillis
+time duration between
+readshort
+net inetaddress getbyname
+time duration parse
+parse
+swing swingutilities invokelater
+invokelater
+util arrays copyof
+list toarray
+lang math mod
+biginteger modinverse
+split
+lang string split
+lang system setin
+console readline
+jtextarea append
+getcaretposition
+regex pattern quote
+find
+forname
+lang thread currentthread
+lang system getproperty
+runtime getruntime
+lang class forname
+drivermanager getconnection
+randomaccessfile seek
+io randomaccessfile seek
+biginteger biginteger
+math biginteger biginteger
+getchannel
+lang class getresourceasstream
+atan2
+util collections sort
+string format
+tohexstring
+createelement
+swing jeditorpane setpage
+biginteger multiply
+valueof
+system arraycopy
+util arrays copyof
+of
+stream collectors tolist
+lang object wait
+currentthread
+optional ofnullable
+requirenonnull
+collections shuffle
+util collections shuffle
+file files createdirectories
+files createdirectories
+class getdeclaredfields
+getproperty
+util collections newsetfrommap
+concurrenthashmap putifabsent
+gettableheader
+swing jtable jtable
+swingutilities invokelater
+setdefaultlookandfeeldecorated
+lang system arraycopy
+system arraycopy
+io printwriter flush
+printwriter flush
+lang class forname
+listfiles
+getkeystroke
+swing swingutilities invokelater
+parse
+instant parse
+collections sort
+util collections sort
+time duration years
+duration years
+string getbytes
+exit
+nextint
+scanner nextint
+sort
+lang object tostring
+util collections binarysearch
+arraycopy
+util collections sort
+arraylist arraylist
+stream collectors tomap
+util stream collectors tomap
+currentthread
+lang thread stop
+string contains
+contains
+lang system currenttimemillis
+simpledateformat is
+lang system currenttimemillis
+concurrent scheduledexecutorservice schedulewithfixeddelay
+valueof
+biginteger multiply
+arrays aslist
+util arrays aslist
+utc
+format datetimeformatterbuilder append
+string split
+parselong
+throwable getstacktrace
+lang throwable getstacktrace
+lang string split
+split
+lang system currenttimemillis
+url openconnection
+swing swingutilities invokelater
+setactioncommand
+value
+thread currentthread
+unmodifiablelist
+collections unmodifiablelist
+runtime exec
+lang runtime exec
+aslist
+util arrays aslist
+net inetaddress getbyname
+bind
+random
+math random
+lang system identityhashcode
+concat
+util collections synchronizedmap
+aslist
+lang class getmethod
+put
+util hashtable tostring
+tostring
+lang string split
+getdelimiter
+util collections shuffle
+collections shuffle
+lang class forname
+forname
+lang string split
+string split
+getinstance
+calendar getinstance
+sort
+lang class isassignablefrom
+string replace
+replace
+store
+keystore store
+stream intstream range
+lang integer valueof
+lang system nanotime
+thread sleep
+integer valueof
+lang integer valueof
+biginteger multiply
+valueof
+lang system gc
+system gc
+substring
+lang string split
+collections sort
+util collections sort
+util regex matcher matches
+string matches
+lang string substring
+math substring
+simpledateformat parse
+getinstance
+thread setdefaultuncaughtexceptionhandler
+lang thread setdefaultuncaughtexceptionhandler
+security messagedigest getinstance
+string getbytes
+issynthetic
+lang class isassignablefrom
+nextline
+io bufferedreader readline
+replaceall
+matcher replaceall
+gc
+system exit
+util optional ofnullable
+system nanotime
+util stream intstream range
+stream intstream range
+runtime exec
+lang runtime exec
+util collections singletonmap
+nanotime
+file mkdirs
+mkdirs
+string replace
+replace
+thread sleep
+sleep
+net inetaddress getbyname
+serversocket accept
+integer parseint
+tostring
+getlookandfeeldefaults
+swing swingutilities invokelater
+exec
+lang runtime exec
+unmodifiablemap
+lang system gc
+fontmetrics stringwidth
+getheight
+print
+io printwriter printwriter

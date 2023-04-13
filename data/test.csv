@@ -1,0 +1,2001 @@
+title,answer
+java <extra_id_0> Arrays.asList(outer array).containsAll(Arrays.asList(inner array)) returns false when it shouldn't,util Arrays asList
+java util <extra_id_0> Arrays.asList(outer array).containsAll(Arrays.asList(inner array)) returns false when it shouldn't,Arrays asList
+java lang <extra_id_0> Inserting items at a specific index in an array - IndexOutOfBounds exception,System arraycopy
+java <extra_id_0> Inserting items at a specific index in an array - IndexOutOfBounds exception,lang System arraycopy
+java <extra_id_0> File.renameTo() doesn't have any effect,io File renameTo
+java io File <extra_id_0> File.renameTo() doesn't have any effect,renameTo
+java <extra_id_0> How to convert a stream to a HashMap (not Map) in Java 8,util stream Collectors toMap
+java util stream <extra_id_0> How to convert a stream to a HashMap (not Map) in Java 8,Collectors toMap
+java lang Math <extra_id_0> Faster implementation of Math.round?,round
+java <extra_id_0> Faster implementation of Math.round?,lang Math round
+java <extra_id_0> Memory leaks ram java program with opencv and processing,lang System gc
+java lang System <extra_id_0> Memory leaks ram java program with opencv and processing,gc
+java lang <extra_id_0> why doesnt Double.infinite return true for infinite fractions?,Double isInfinite
+java <extra_id_0> why doesnt Double.infinite return true for infinite fractions?,lang Double isInfinite
+javax imageio <extra_id_0> Disguising Image Files In Java,ImageIO read
+javax <extra_id_0> Disguising Image Files In Java,imageio ImageIO read
+"java <extra_id_0> How replaceAll ""/"" in java String to format URL?",lang String replaceAll
+"java lang <extra_id_0> How replaceAll ""/"" in java String to format URL?",String replaceAll
+java lang Class <extra_id_0> Java Reflection library - using Class.forName() without package info,forName
+java <extra_id_0> Java Reflection library - using Class.forName() without package info,lang Class forName
+java nio file Files <extra_id_0> How do I find/list a file or directory with specific name inside a directory and its subdirectories in Java?,walkFileTree
+java <extra_id_0> How do I find/list a file or directory with specific name inside a directory and its subdirectories in Java?,nio file Files walkFileTree
+"java lang Thread <extra_id_0> driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS) does not working",sleep
+"java <extra_id_0> driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS) does not working",lang Thread sleep
+java util Collections <extra_id_0> Want to sort an ArrayList of objects by several different attributes,sort
+java <extra_id_0> Want to sort an ArrayList of objects by several different attributes,util Collections sort
+java <extra_id_0> StringBuffer's replace method is not working as it's supposed to be,util Arrays fill
+java util Arrays <extra_id_0> StringBuffer's replace method is not working as it's supposed to be,fill
+java <extra_id_0> Java Thread suspend does not work,lang Thread sleep
+java lang <extra_id_0> Java Thread suspend does not work,Thread sleep
+java util Collections <extra_id_0> Java: Sorting objects in an ArrayList with conditions,sort
+java util <extra_id_0> Java: Sorting objects in an ArrayList with conditions,Collections sort
+java lang <extra_id_0> How to clear memory properly?,System gc
+java lang System <extra_id_0> How to clear memory properly?,gc
+java <extra_id_0> How do I modify the setBounds method for JComponents?,awt Component setBounds
+java awt <extra_id_0> How do I modify the setBounds method for JComponents?,Component setBounds
+java <extra_id_0> Effective Java. Clonable interface,lang Object clone
+java lang Object <extra_id_0> Effective Java. Clonable interface,clone
+java <extra_id_0> How to improve string parser method for 2 columns (reading 2 string on a line),lang String split
+java lang <extra_id_0> How to improve string parser method for 2 columns (reading 2 string on a line),String split
+java lang <extra_id_0> Escape comma when using String.split,String split
+java lang String <extra_id_0> Escape comma when using String.split,split
+java <extra_id_0> using Runtime.exec() in Java,lang Runtime exec
+java lang Runtime <extra_id_0> using Runtime.exec() in Java,exec
+java nio file Files <extra_id_0> How to read files recursively in Java 7?,walkFileTree
+java nio file <extra_id_0> How to read files recursively in Java 7?,Files walkFileTree
+java util Collections <extra_id_0> Sorting arraylist. Comparation by int value,sort
+java <extra_id_0> Sorting arraylist. Comparation by int value,util Collections sort
+java <extra_id_0> Grabbing ints from a string in java,lang Integer parseInt
+java lang Integer <extra_id_0> Grabbing ints from a string in java,parseInt
+"java <extra_id_0> For general cases, when either one would work, which is better to use, a hashmap or a hashtable?",util Collections synchronizedMap
+"java util Collections <extra_id_0> For general cases, when either one would work, which is better to use, a hashmap or a hashtable?",synchronizedMap
+java <extra_id_0> How to convert Java 8 map.remove to Java 1.6?,util Map remove
+java util <extra_id_0> How to convert Java 8 map.remove to Java 1.6?,Map remove
+java lang Math <extra_id_0> How does ThreadLocalRandom results in less Contention?,random
+java <extra_id_0> How does ThreadLocalRandom results in less Contention?,lang Math random
+"java lang Thread <extra_id_0> using sleep method in gui, not working",sleep
+"java lang <extra_id_0> using sleep method in gui, not working",Thread sleep
+java <extra_id_0> Randomize when something happens,util Random nextInt
+java util Random <extra_id_0> Randomize when something happens,nextInt
+java lang Runtime <extra_id_0> Method.invoke() vs. RunTime.exec(),exec
+java lang <extra_id_0> Method.invoke() vs. RunTime.exec(),Runtime exec
+java util regex Pattern <extra_id_0> Pattern.compile() with an argument,compile
+java <extra_id_0> Pattern.compile() with an argument,util regex Pattern compile
+java <extra_id_0> String tokenizer and piping symbol,lang String split
+java lang String <extra_id_0> String tokenizer and piping symbol,split
+java util <extra_id_0> Multiple threads editing an ArrayList and its objects,Collections synchronizedList
+java <extra_id_0> Multiple threads editing an ArrayList and its objects,util Collections synchronizedList
+java util Collections <extra_id_0> Android: Sharing lists between two threads,synchronizedList
+java <extra_id_0> Android: Sharing lists between two threads,util Collections synchronizedList
+"java <extra_id_0> When class is detected as it extends Enum, how to call its valueOf() method?",lang Enum valueOf
+"java lang Enum <extra_id_0> When class is detected as it extends Enum, how to call its valueOf() method?",valueOf
+"java util <extra_id_0> How to sort an array that is combined by ""null"" and Strings?",Arrays sort
+"java <extra_id_0> How to sort an array that is combined by ""null"" and Strings?",util Arrays sort
+java util List <extra_id_0> How to myList.addAll(newList) will put new items of newList to top & push the existing items of myList to the bottom?,addAll
+java util <extra_id_0> How to myList.addAll(newList) will put new items of newList to top & push the existing items of myList to the bottom?,List addAll
+java <extra_id_0> How to create a List of Object arrays that has only one array?,util Arrays asList
+java util <extra_id_0> How to create a List of Object arrays that has only one array?,Arrays asList
+java <extra_id_0> json parse error inside a Asyntask in android,lang Integer parseInt
+java lang Integer <extra_id_0> json parse error inside a Asyntask in android,parseInt
+java lang <extra_id_0> How do I find the Java interface whose method is implemented in a given class?,Class getInterfaces
+java <extra_id_0> How do I find the Java interface whose method is implemented in a given class?,lang Class getInterfaces
+java util <extra_id_0> Java Functional - reversing ANY List type of ANY object,Collections reverse
+java util Collections <extra_id_0> Java Functional - reversing ANY List type of ANY object,reverse
+java lang <extra_id_0> Car Payment App involving an equation with negative exponents,Math pow
+java <extra_id_0> Car Payment App involving an equation with negative exponents,lang Math pow
+java <extra_id_0> How to sort color codes from light to dark in Java,util Collections sort
+java util <extra_id_0> How to sort color codes from light to dark in Java,Collections sort
+javax <extra_id_0> Difference of getHandShakeStatus() in SSLEngine and SSLEngineResults in java,net ssl SSLEngineResult getHandshakeStatus
+javax net <extra_id_0> Difference of getHandShakeStatus() in SSLEngine and SSLEngineResults in java,ssl SSLEngineResult getHandshakeStatus
+java <extra_id_0> Updating textView with while loop?,lang Thread sleep
+java lang <extra_id_0> Updating textView with while loop?,Thread sleep
+java util <extra_id_0> I am getting NullPointerException inside Consumer,concurrent PriorityBlockingQueue poll
+java util concurrent <extra_id_0> I am getting NullPointerException inside Consumer,PriorityBlockingQueue poll
+java <extra_id_0> JAVA bouncing ball is freezing,lang Thread sleep
+java lang Thread <extra_id_0> JAVA bouncing ball is freezing,sleep
+java <extra_id_0> Sort List of Objects by values from array;,util Collections sort
+java util <extra_id_0> Sort List of Objects by values from array;,Collections sort
+"java <extra_id_0> returning a printf(), cannot find symbol",lang String format
+"java lang <extra_id_0> returning a printf(), cannot find symbol",String format
+java <extra_id_0> Java equivalent of JavaScript Timeout functions,lang Thread sleep
+java lang <extra_id_0> Java equivalent of JavaScript Timeout functions,Thread sleep
+java <extra_id_0> Is it possible to create a pause in the middle of Swing application?,lang Thread sleep
+java lang Thread <extra_id_0> Is it possible to create a pause in the middle of Swing application?,sleep
+java <extra_id_0> Java's String.split() drops trailing empty entries,lang String split
+java lang String <extra_id_0> Java's String.split() drops trailing empty entries,split
+java <extra_id_0> syncrhonize access on arrayList,util Collections synchronizedList
+java util Collections <extra_id_0> syncrhonize access on arrayList,synchronizedList
+java <extra_id_0> Most efficient way to check if an array contains a value in Java?,util Arrays asList
+java util <extra_id_0> Most efficient way to check if an array contains a value in Java?,Arrays asList
+java io ObjectOutputStream <extra_id_0> ObjectOutputStream is causing memory leak and reset() throws error,reset
+java <extra_id_0> ObjectOutputStream is causing memory leak and reset() throws error,io ObjectOutputStream reset
+java lang Thread <extra_id_0> How to use Thread.sleep in a basic RPG game,sleep
+java lang <extra_id_0> How to use Thread.sleep in a basic RPG game,Thread sleep
+java util Collections <extra_id_0> Sorting a generic collection,sort
+java <extra_id_0> Sorting a generic collection,util Collections sort
+java <extra_id_0> Java: Sort an array according to matching string / pattern,util Arrays sort
+java util Arrays <extra_id_0> Java: Sort an array according to matching string / pattern,sort
+java <extra_id_0> sorting an array that contains Methods by modifiers,util Arrays sort
+java util Arrays <extra_id_0> sorting an array that contains Methods by modifiers,sort
+java <extra_id_0> Java search String(kmp),lang String indexOf
+java lang String <extra_id_0> Java search String(kmp),indexOf
+java lang <extra_id_0> instantiating a Scala class using reflection Java's `newInstance`,Class newInstance
+java lang Class <extra_id_0> instantiating a Scala class using reflection Java's `newInstance`,newInstance
+java <extra_id_0> Format an Integer using Java String Format,lang String format
+java lang String <extra_id_0> Format an Integer using Java String Format,format
+javax swing JFrame <extra_id_0> Close window - but don't stop program - JAVA,setDefaultCloseOperation
+javax swing <extra_id_0> Close window - but don't stop program - JAVA,JFrame setDefaultCloseOperation
+java <extra_id_0> in multi threaded code does System.nanoTime() produces small inaccuracy,lang System nanoTime
+java lang <extra_id_0> in multi threaded code does System.nanoTime() produces small inaccuracy,System nanoTime
+java lang <extra_id_0> Recursive loop Selenium Webdriver,Thread sleep
+java <extra_id_0> Recursive loop Selenium Webdriver,lang Thread sleep
+java <extra_id_0> java: readLine method put string into string literal pool?,lang String intern
+java lang String <extra_id_0> java: readLine method put string into string literal pool?,intern
+java util Collections <extra_id_0> Collections.emptyList() vs. new instance,emptyList
+java <extra_id_0> Collections.emptyList() vs. new instance,util Collections emptyList
+java <extra_id_0> How to trim a string from carriage returns in java,lang String trim
+java lang <extra_id_0> How to trim a string from carriage returns in java,String trim
+java <extra_id_0> StringIndexOutOfBoundsException: string index out of range,lang String substring
+java lang String <extra_id_0> StringIndexOutOfBoundsException: string index out of range,substring
+java util Arrays <extra_id_0> Default detail formatter for arrays in Eclipse,toString
+java util <extra_id_0> Default detail formatter for arrays in Eclipse,Arrays toString
+javax swing JOptionPane <extra_id_0> How can I requestFocus on component in JOptionPane.showConfirmDialog?,showConfirmDialog
+javax <extra_id_0> How can I requestFocus on component in JOptionPane.showConfirmDialog?,swing JOptionPane showConfirmDialog
+java lang String <extra_id_0> String's replace all is replacing none,replaceAll
+java lang <extra_id_0> String's replace all is replacing none,String replaceAll
+java lang String <extra_id_0> Java using regex to match a pattern for quizzes,matches
+java lang <extra_id_0> Java using regex to match a pattern for quizzes,String matches
+java lang <extra_id_0> Executing imagemagick commands with java gives no output,Runtime exec
+java <extra_id_0> Executing imagemagick commands with java gives no output,lang Runtime exec
+java <extra_id_0> Unmodifiable lists in java,util Collections unmodifiableList
+java util <extra_id_0> Unmodifiable lists in java,Collections unmodifiableList
+java lang String <extra_id_0> Replace first occurrence of character in Android/Java?,replaceFirst
+java lang <extra_id_0> Replace first occurrence of character in Android/Java?,String replaceFirst
+"java lang <extra_id_0> Android, how to make a thread sleep?",Thread sleep
+"java lang Thread <extra_id_0> Android, how to make a thread sleep?",sleep
+java <extra_id_0> What are the differences between these int to String approaches,lang Integer toString
+java lang <extra_id_0> What are the differences between these int to String approaches,Integer toString
+java nio channels FileChannel <extra_id_0> How to get number of bytes that FileChannel.transferFrom wrote during it's writting,transferFrom
+java nio <extra_id_0> How to get number of bytes that FileChannel.transferFrom wrote during it's writting,channels FileChannel transferFrom
+java lang <extra_id_0> How to write Java system.out 'helper'?,System setOut
+java <extra_id_0> How to write Java system.out 'helper'?,lang System setOut
+java <extra_id_0> Does DataInputStrem::readFully increment the position of the stream?,io DataInputStream readFully
+java io DataInputStream <extra_id_0> Does DataInputStrem::readFully increment the position of the stream?,readFully
+"java util <extra_id_0> (java) Quick sort to sort a number-char pair by number first, then char",Arrays sort
+"java util Arrays <extra_id_0> (java) Quick sort to sort a number-char pair by number first, then char",sort
+java lang Integer <extra_id_0> Problems converting Integer to String,toString
+java <extra_id_0> Problems converting Integer to String,lang Integer toString
+java lang <extra_id_0> How can I change JLabel after a period of time?,Thread sleep
+java lang Thread <extra_id_0> How can I change JLabel after a period of time?,sleep
+java util Collections <extra_id_0> How do I compare and order two arraylists in Java,sort
+java <extra_id_0> How do I compare and order two arraylists in Java,util Collections sort
+java lang <extra_id_0> Math.random() v/s Random class,Math random
+java lang Math <extra_id_0> Math.random() v/s Random class,random
+java lang Thread <extra_id_0> Does there exist and impossible/invalid value for `Thread.getId()`?,getId
+java lang <extra_id_0> Does there exist and impossible/invalid value for `Thread.getId()`?,Thread getId
+java lang Thread <extra_id_0> Java android - ImageView scrolling causes crashing?,sleep
+java <extra_id_0> Java android - ImageView scrolling causes crashing?,lang Thread sleep
+"java <extra_id_0> problem with valueOf(), converting a char to Character in Java",lang Character valueOf
+"java lang <extra_id_0> problem with valueOf(), converting a char to Character in Java",Character valueOf
+java <extra_id_0> Scala perf: Why is this Scala app 30x slower than the equivalent Java app?,lang System nanoTime
+java lang System <extra_id_0> Scala perf: Why is this Scala app 30x slower than the equivalent Java app?,nanoTime
+java net URL <extra_id_0> Error Exception: Already connected In java HttpURLConnection of post method,openConnection
+java <extra_id_0> Error Exception: Already connected In java HttpURLConnection of post method,net URL openConnection
+java lang <extra_id_0> How to delay a loop in android without using thread.sleep?,Thread sleep
+java <extra_id_0> How to delay a loop in android without using thread.sleep?,lang Thread sleep
+java util <extra_id_0> How can I synchronize a HashMap while allowing for simultaneous reader threads?,Collections synchronizedMap
+java util Collections <extra_id_0> How can I synchronize a HashMap while allowing for simultaneous reader threads?,synchronizedMap
+javax swing <extra_id_0> having trouble with inserting data to a database,SwingUtilities invokeLater
+javax <extra_id_0> having trouble with inserting data to a database,swing SwingUtilities invokeLater
+"java lang Class <extra_id_0> What is the purpose of 'Class.forName(""MY_JDBC_DRIVER"")'?",forName
+"java <extra_id_0> What is the purpose of 'Class.forName(""MY_JDBC_DRIVER"")'?",lang Class forName
+java lang <extra_id_0> Java throwing org.openqa.selenium.remote.UnreachableBrowserException even though Gecko driver is used,System setProperty
+java lang System <extra_id_0> Java throwing org.openqa.selenium.remote.UnreachableBrowserException even though Gecko driver is used,setProperty
+java <extra_id_0> copying an array to the same array,lang System arraycopy
+java lang <extra_id_0> copying an array to the same array,System arraycopy
+java <extra_id_0> java reflection to invoke a method that takes a Comparable[] argument,lang reflect Method invoke
+java lang reflect <extra_id_0> java reflection to invoke a method that takes a Comparable[] argument,Method invoke
+java lang <extra_id_0> Gradle console() is null with daemon disabled,System console
+java lang System <extra_id_0> Gradle console() is null with daemon disabled,console
+java lang <extra_id_0> String split with stringtokenizer,String split
+java lang String <extra_id_0> String split with stringtokenizer,split
+"java lang <extra_id_0> String Format double to 00,00 - Java",String format
+"java <extra_id_0> String Format double to 00,00 - Java",lang String format
+java util Arrays <extra_id_0> How to convert int[] into List<Integer> in Java?,asList
+java util <extra_id_0> How to convert int[] into List<Integer> in Java?,Arrays asList
+java <extra_id_0> Java creating a array of type generic,lang reflect Array newInstance
+java lang <extra_id_0> Java creating a array of type generic,reflect Array newInstance
+java io BufferedReader <extra_id_0> Java Fastest way to read through text file with 2 million lines,readLine
+java <extra_id_0> Java Fastest way to read through text file with 2 million lines,io BufferedReader readLine
+java time LocalDate <extra_id_0> Possible to create a Java.time.LocalDate object from a String?,parse
+java time <extra_id_0> Possible to create a Java.time.LocalDate object from a String?,LocalDate parse
+java <extra_id_0> Good way to change sort criteria for java class,util Collections sort
+java util <extra_id_0> Good way to change sort criteria for java class,Collections sort
+java lang <extra_id_0> System.getenv() returns null when the environment variable exists,System getenv
+java lang System <extra_id_0> System.getenv() returns null when the environment variable exists,getenv
+java <extra_id_0> Safe publication of java.util.concurrent collections,util concurrent package-summary MemoryVisibility
+java util concurrent <extra_id_0> Safe publication of java.util.concurrent collections,package-summary MemoryVisibility
+java util ArrayList <extra_id_0> java - Convert String ArrayList to String Array with bigger size,toArray
+java util <extra_id_0> java - Convert String ArrayList to String Array with bigger size,ArrayList toArray
+javax swing AbstractButton <extra_id_0> How to check the state of an JCheckBox?,isSelected
+javax swing <extra_id_0> How to check the state of an JCheckBox?,AbstractButton isSelected
+"java <extra_id_0> String Tokenizer, delimiter",lang String split
+"java lang String <extra_id_0> String Tokenizer, delimiter",split
+java lang <extra_id_0> Java: Keeping leading zeros while reading and formatting a text file,String format
+java lang String <extra_id_0> Java: Keeping leading zeros while reading and formatting a text file,format
+java util concurrent <extra_id_0> ArrayBlockingQueue: should use to create Pool?,ArrayBlockingQueue ei
+java util <extra_id_0> ArrayBlockingQueue: should use to create Pool?,concurrent ArrayBlockingQueue ei
+java lang <extra_id_0> Most efficient way to find distance between two circles in java?,Math hypot
+java <extra_id_0> Most efficient way to find distance between two circles in java?,lang Math hypot
+"java lang <extra_id_0> Can't get a normal animation in Java(figure just appears in another place, doesn't slide)",Thread sleep
+"java <extra_id_0> Can't get a normal animation in Java(figure just appears in another place, doesn't slide)",lang Thread sleep
+java util Collections <extra_id_0> Is changing the value of a Map an atomic operation?,synchronizedMap
+java util <extra_id_0> Is changing the value of a Map an atomic operation?,Collections synchronizedMap
+java lang <extra_id_0> Separating the elements of arraylist,String split
+java lang String <extra_id_0> Separating the elements of arraylist,split
+java <extra_id_0> How to get the value of String Array?,util Arrays toString
+java util <extra_id_0> How to get the value of String Array?,Arrays toString
+java util Optional <extra_id_0> java 8 optional to replace return null,ofNullable
+java util <extra_id_0> java 8 optional to replace return null,Optional ofNullable
+java <extra_id_0> Comparator.comparing with two arguments to the lambda,util Comparator comparing
+java util <extra_id_0> Comparator.comparing with two arguments to the lambda,Comparator comparing
+java util List <extra_id_0> What is reason for list couldn't convert into array?,toArray
+java util <extra_id_0> What is reason for list couldn't convert into array?,List toArray
+"java <extra_id_0> Why a boolean can be in some cases converted to a string, and in other cases not?",lang Boolean toString
+"java lang <extra_id_0> Why a boolean can be in some cases converted to a string, and in other cases not?",Boolean toString
+java util ArrayList <extra_id_0> How can I correctly remove an Object from ArrayList?,remove
+java util <extra_id_0> How can I correctly remove an Object from ArrayList?,ArrayList remove
+java lang <extra_id_0> Shutting down an applet properly,System exit
+java lang System <extra_id_0> Shutting down an applet properly,exit
+java lang <extra_id_0> what Integer.valueOf() returns in java?,Integer valueOf
+java <extra_id_0> what Integer.valueOf() returns in java?,lang Integer valueOf
+java util Collections <extra_id_0> How to sort a String collection that contains numbers?,sort
+java <extra_id_0> How to sort a String collection that contains numbers?,util Collections sort
+java <extra_id_0> Bad attempt to compute absolute value,lang Math abs
+java lang Math <extra_id_0> Bad attempt to compute absolute value,abs
+javax net ssl <extra_id_0> Which Cipher Suites to enable for SSL Socket?,SSLContext getInstance
+javax <extra_id_0> Which Cipher Suites to enable for SSL Socket?,net ssl SSLContext getInstance
+java net <extra_id_0> how to communicate between client and server in java,ServerSocket accept
+java net ServerSocket <extra_id_0> how to communicate between client and server in java,accept
+java lang System <extra_id_0> Same native library loaded by different class loader,loadLibrary
+java <extra_id_0> Same native library loaded by different class loader,lang System loadLibrary
+java lang Runtime <extra_id_0> Execute external program in java,exec
+java lang <extra_id_0> Execute external program in java,Runtime exec
+java <extra_id_0> How to get back Map from .txt file use Properties?,util Properties load
+java util <extra_id_0> How to get back Map from .txt file use Properties?,Properties load
+java <extra_id_0> Delete an element from a linked list with constraints,lang System gc
+java lang <extra_id_0> Delete an element from a linked list with constraints,System gc
+java lang <extra_id_0> Android studio Java update text in the loop,Thread sleep
+java lang Thread <extra_id_0> Android studio Java update text in the loop,sleep
+java util regex <extra_id_0> How to match word in a String contains multiple lines using pattern matcher of java,Pattern compile
+java util regex Pattern <extra_id_0> How to match word in a String contains multiple lines using pattern matcher of java,compile
+java lang Object <extra_id_0> Clone() vs Copy constructor- which is recommended in java,clone
+java <extra_id_0> Clone() vs Copy constructor- which is recommended in java,lang Object clone
+java <extra_id_0> Get value of a parameter of an annotation in Java,lang Class getMethods
+java lang Class <extra_id_0> Get value of a parameter of an annotation in Java,getMethods
+java <extra_id_0> is collections.sort method only used for List type of collections?,util Collections sort
+java util Collections <extra_id_0> is collections.sort method only used for List type of collections?,sort
+java lang Integer <extra_id_0> Why are Integers immutable in Java?,valueOf
+java <extra_id_0> Why are Integers immutable in Java?,lang Integer valueOf
+java lang <extra_id_0> Loading dll using loadLibrary,System loadLibrary
+java <extra_id_0> Loading dll using loadLibrary,lang System loadLibrary
+javax <extra_id_0> JOptionPane with text wrapping using custom Swing component,swing JOptionPane showMessageDialog
+javax swing JOptionPane <extra_id_0> JOptionPane with text wrapping using custom Swing component,showMessageDialog
+java lang Object <extra_id_0> Things to keep in mind while overriding hashCode,hashCode
+java lang <extra_id_0> Things to keep in mind while overriding hashCode,Object hashCode
+java <extra_id_0> What's the difference between url.getFile() and getpath()?,net URL getFile
+java net URL <extra_id_0> What's the difference between url.getFile() and getpath()?,getFile
+java lang <extra_id_0> Multidimensional generic array Java,reflect Array newInstance
+java lang reflect Array <extra_id_0> Multidimensional generic array Java,newInstance
+java <extra_id_0> Is Java's System.arraycopy() efficient for small arrays?,lang System arraycopy
+java lang <extra_id_0> Is Java's System.arraycopy() efficient for small arrays?,System arraycopy
+java lang <extra_id_0> How to make the current thread wait for a function to return in java?,Thread join
+java <extra_id_0> How to make the current thread wait for a function to return in java?,lang Thread join
+"java util Iterator <extra_id_0> How to avoid ""ConcurrentModificationException"" while removing elements from `ArrayList` while iterating it?",remove
+"java util <extra_id_0> How to avoid ""ConcurrentModificationException"" while removing elements from `ArrayList` while iterating it?",Iterator remove
+java util stream Collectors <extra_id_0> Alternative to Collectors.groupingBy() for scala,groupingBy
+java util stream <extra_id_0> Alternative to Collectors.groupingBy() for scala,Collectors groupingBy
+java lang <extra_id_0> Finding JDK path and storing it as a string in Java,System getProperty
+java lang System <extra_id_0> Finding JDK path and storing it as a string in Java,getProperty
+javax swing JOptionPane <extra_id_0> Create InputStreamReader from JOptionPane.showInputDialog,showInputDialog
+javax swing <extra_id_0> Create InputStreamReader from JOptionPane.showInputDialog,JOptionPane showInputDialog
+java <extra_id_0> How to Sort 2D ArrayList<String> by Only the First Element,util Collections sort
+java util Collections <extra_id_0> How to Sort 2D ArrayList<String> by Only the First Element,sort
+java lang Runtime <extra_id_0> Executing external programs via commandline in a Grails application,exec
+java lang <extra_id_0> Executing external programs via commandline in a Grails application,Runtime exec
+java <extra_id_0> java.lang.NumberFormatException in trying to load a file,lang Integer parseInt
+java lang <extra_id_0> java.lang.NumberFormatException in trying to load a file,Integer parseInt
+"java util <extra_id_0> Comparing two objects, either of which could be null",Objects equals
+"java util Objects <extra_id_0> Comparing two objects, either of which could be null",equals
+java awt Component <extra_id_0> Java : repaint is undefined in class,repaint
+java <extra_id_0> Java : repaint is undefined in class,awt Component repaint
+java util <extra_id_0> Repeat Values in array and shuffle it,Collections shuffle
+java util Collections <extra_id_0> Repeat Values in array and shuffle it,shuffle
+"java <extra_id_0> Java DateFormat.parse thinks ""100 112TH AVE NE"" is a date",text DateFormat parse
+"java text DateFormat <extra_id_0> Java DateFormat.parse thinks ""100 112TH AVE NE"" is a date",parse
+java <extra_id_0> Java String.split() on numeric strings,lang String split
+java lang String <extra_id_0> Java String.split() on numeric strings,split
+java util <extra_id_0> converting list to string and then return,Arrays toString
+java util Arrays <extra_id_0> converting list to string and then return,toString
+java lang <extra_id_0> Using Google Guava to format Strings,String format
+java <extra_id_0> Using Google Guava to format Strings,lang String format
+java <extra_id_0> Are dead threads replaced in an ExecutionContext and/or Java thread pool?,util concurrent Executors newFixedThreadPool
+java util concurrent <extra_id_0> Are dead threads replaced in an ExecutionContext and/or Java thread pool?,Executors newFixedThreadPool
+java lang <extra_id_0> Unable to assign getBytes() to byte array,String getBytes
+java lang String <extra_id_0> Unable to assign getBytes() to byte array,getBytes
+"java util ArrayList <extra_id_0> Android Java remove item from list, filter list",remove
+"java util <extra_id_0> Android Java remove item from list, filter list",ArrayList remove
+"java lang Class <extra_id_0> In Java, how do I dynamically determine the type of an array?",getComponentType
+"java lang <extra_id_0> In Java, how do I dynamically determine the type of an array?",Class getComponentType
+java util Collections <extra_id_0> Alphabetically sort a linked list in Java,sort
+java <extra_id_0> Alphabetically sort a linked list in Java,util Collections sort
+java lang Integer <extra_id_0> How do I make a retry pop up if the input isn't what is wanted?,parseInt
+java <extra_id_0> How do I make a retry pop up if the input isn't what is wanted?,lang Integer parseInt
+java lang <extra_id_0> Android TextView.setText() invoked & returned before Thread.sleep() blocks until sleep() returns. Why?,Thread sleep
+java lang Thread <extra_id_0> Android TextView.setText() invoked & returned before Thread.sleep() blocks until sleep() returns. Why?,sleep
+java util <extra_id_0> Arraylist and List in Java,Arrays asList
+java util Arrays <extra_id_0> Arraylist and List in Java,asList
+java <extra_id_0> Get BIOS Time in Java,lang System currentTimeMillis
+java lang <extra_id_0> Get BIOS Time in Java,System currentTimeMillis
+java util Collections <extra_id_0> Why does the Collections.shuffle() algorithm work better than my implementation,shuffle
+java util <extra_id_0> Why does the Collections.shuffle() algorithm work better than my implementation,Collections shuffle
+java util <extra_id_0> Does the list returned from Arrays.asList maintain the same order as the original array collection?,Arrays asList
+java util Arrays <extra_id_0> Does the list returned from Arrays.asList maintain the same order as the original array collection?,asList
+java <extra_id_0> Sorting an ArrayList of String[] using multiple Indices,util Collections sort
+java util <extra_id_0> Sorting an ArrayList of String[] using multiple Indices,Collections sort
+java io BufferedReader <extra_id_0> Read new line character across different OS,readLine
+java <extra_id_0> Read new line character across different OS,io BufferedReader readLine
+java lang Thread <extra_id_0> Could a Thread fail to start?,start
+java <extra_id_0> Could a Thread fail to start?,lang Thread start
+java <extra_id_0> time vs date vs calendar java,util Calendar getInstance
+java util Calendar <extra_id_0> time vs date vs calendar java,getInstance
+java <extra_id_0> How to ensure hashcode() does not resolve to same value in Java?,lang Object hashCode
+java lang <extra_id_0> How to ensure hashcode() does not resolve to same value in Java?,Object hashCode
+java util <extra_id_0> Sorting An Array of Pairs By The First Value in Java,Arrays sort
+java util Arrays <extra_id_0> Sorting An Array of Pairs By The First Value in Java,sort
+java lang <extra_id_0> number out of string in java,Integer parseInt
+java lang Integer <extra_id_0> number out of string in java,parseInt
+java lang <extra_id_0> When we override the toString() method we should always return a string representation of the object?,Object toString
+java lang Object <extra_id_0> When we override the toString() method we should always return a string representation of the object?,toString
+java lang <extra_id_0> Java's Math.pow is returning off by 1 error,Math pow
+java lang Math <extra_id_0> Java's Math.pow is returning off by 1 error,pow
+java lang String <extra_id_0> Can I pass complex parameters to a Java Applet?,split
+java lang <extra_id_0> Can I pass complex parameters to a Java Applet?,String split
+java <extra_id_0> Where should my Selenium tests check for expected/actual results?,lang Thread sleep
+java lang <extra_id_0> Where should my Selenium tests check for expected/actual results?,Thread sleep
+java <extra_id_0> Application takes very long to terminate,lang System exit
+java lang System <extra_id_0> Application takes very long to terminate,exit
+javax imageio <extra_id_0> Java ImageIO claims image,ImageIO read
+javax imageio ImageIO <extra_id_0> Java ImageIO claims image,read
+java util Collections <extra_id_0> What type should my comparator be,sort
+java <extra_id_0> What type should my comparator be,util Collections sort
+java util List <extra_id_0> Converting List<String> to String[] in Java,toArray
+java util <extra_id_0> Converting List<String> to String[] in Java,List toArray
+javax <extra_id_0> Adding icon on JTabbedpane tab,swing JTabbedPane setIconAt
+javax swing <extra_id_0> Adding icon on JTabbedpane tab,JTabbedPane setIconAt
+java lang <extra_id_0> Return statement also ending parent method?,System exit
+java <extra_id_0> Return statement also ending parent method?,lang System exit
+java sql DriverManager <extra_id_0> SQL connection : can't connect to database in java,getConnection
+java <extra_id_0> SQL connection : can't connect to database in java,sql DriverManager getConnection
+java util Collections <extra_id_0> Sorting not a standard LinkedList,sort
+java <extra_id_0> Sorting not a standard LinkedList,util Collections sort
+java util Collection <extra_id_0> How to convert Java Collection[Int] to Array[Int] in Scala,toArray
+java util <extra_id_0> How to convert Java Collection[Int] to Array[Int] in Scala,Collection toArray
+java lang Class <extra_id_0> Using Reflection in factory pattern,forName
+java <extra_id_0> Using Reflection in factory pattern,lang Class forName
+java lang Math <extra_id_0> round up to 2 decimal places in java?,round
+java <extra_id_0> round up to 2 decimal places in java?,lang Math round
+java <extra_id_0> Effective way to loop through BigInteger,math BigInteger valueOf
+java math BigInteger <extra_id_0> Effective way to loop through BigInteger,valueOf
+java <extra_id_0> Why does Spliterator's getExactSizeIfKnown() NOT call hasCharacteristics(),util Spliterator getExactSizeIfKnown
+java util <extra_id_0> Why does Spliterator's getExactSizeIfKnown() NOT call hasCharacteristics(),Spliterator getExactSizeIfKnown
+java lang String <extra_id_0> How to read a single word (or line) from a text file Java?,split
+java lang <extra_id_0> How to read a single word (or line) from a text file Java?,String split
+java lang Math <extra_id_0> How to get a random point on the interior of an irregular polygon?,random
+java lang <extra_id_0> How to get a random point on the interior of an irregular polygon?,Math random
+java util concurrent <extra_id_0> Dynamic Scheduled Concurrent Task Execution in Java,Executors newSingleThreadScheduledExecutor
+java util concurrent Executors <extra_id_0> Dynamic Scheduled Concurrent Task Execution in Java,newSingleThreadScheduledExecutor
+java lang reflect Array <extra_id_0> How is the Java erasure affecting the generic arrays?,newInstance
+java lang reflect <extra_id_0> How is the Java erasure affecting the generic arrays?,Array newInstance
+java <extra_id_0> java error when I use my shuffle() but not when I use my randomNum(),util Collections shuffle
+java util <extra_id_0> java error when I use my shuffle() but not when I use my randomNum(),Collections shuffle
+java <extra_id_0> What is GC collecting here?,lang System gc
+java lang System <extra_id_0> What is GC collecting here?,gc
+java lang <extra_id_0> Dynamic Class loading in java,Class forName
+java lang Class <extra_id_0> Dynamic Class loading in java,forName
+java <extra_id_0> Why can't I read indefinately doubles using this loop?,lang Double parseDouble
+java lang <extra_id_0> Why can't I read indefinately doubles using this loop?,Double parseDouble
+javax swing JOptionPane <extra_id_0> How to display System.out.print from a function to JOptionPane.showMessageDialog?,showMessageDialog
+javax swing <extra_id_0> How to display System.out.print from a function to JOptionPane.showMessageDialog?,JOptionPane showMessageDialog
+java util Calendar <extra_id_0> Convert Java Gregorian Calendar to String,getTime
+java util <extra_id_0> Convert Java Gregorian Calendar to String,Calendar getTime
+java <extra_id_0> How to extract long data type from the byte array?,util Arrays copyOfRange
+java util <extra_id_0> How to extract long data type from the byte array?,Arrays copyOfRange
+"java <extra_id_0> Should I parse an integer to string in Java, when not necessary?",lang Integer toString
+"java lang Integer <extra_id_0> Should I parse an integer to string in Java, when not necessary?",toString
+java lang String <extra_id_0> How can I format the data written to a text file to be done in columns?,format
+java <extra_id_0> How can I format the data written to a text file to be done in columns?,lang String format
+java lang Math <extra_id_0> How can i do a minus b whole square in java,pow
+java <extra_id_0> How can i do a minus b whole square in java,lang Math pow
+java <extra_id_0> How to show unsynchronicity of arraylist java?,util Collections synchronizedList
+java util <extra_id_0> How to show unsynchronicity of arraylist java?,Collections synchronizedList
+java lang <extra_id_0> Passing a String array in Java command line arguments,System getProperty
+java <extra_id_0> Passing a String array in Java command line arguments,lang System getProperty
+java lang <extra_id_0> Java: How to do bitwise multiplication?,Math pow
+java lang Math <extra_id_0> Java: How to do bitwise multiplication?,pow
+java <extra_id_0> Why does automatic boxing work in eclipse but not in javac?,lang Integer valueOf
+java lang Integer <extra_id_0> Why does automatic boxing work in eclipse but not in javac?,valueOf
+java util <extra_id_0> Java List.set() changing list size. Why?,List set
+java util List <extra_id_0> Java List.set() changing list size. Why?,set
+java lang <extra_id_0> Why are String comparisons (CompareTo) faster in Java than in C#?,String compareTo
+java <extra_id_0> Why are String comparisons (CompareTo) faster in Java than in C#?,lang String compareTo
+java lang String <extra_id_0> Why aren't my last split patterns respected in this code,split
+java <extra_id_0> Why aren't my last split patterns respected in this code,lang String split
+java util <extra_id_0> comparator with null values,Collections sort
+java <extra_id_0> comparator with null values,util Collections sort
+java lang <extra_id_0> Class<T> and static method Class.forName() drive me crazy,Class forName
+java <extra_id_0> Class<T> and static method Class.forName() drive me crazy,lang Class forName
+java lang <extra_id_0> Thread.sleep() implementation,Thread sleep
+java <extra_id_0> Thread.sleep() implementation,lang Thread sleep
+"java awt image <extra_id_0> What happens when I call ""BufferStrategy.show()""?",BufferStrategy show
+"java awt <extra_id_0> What happens when I call ""BufferStrategy.show()""?",image BufferStrategy show
+"java lang <extra_id_0> Bit level operations, get a bit from a short value",String format
+"java lang String <extra_id_0> Bit level operations, get a bit from a short value",format
+java lang <extra_id_0> How to use split a string after a certain length?,String split
+java <extra_id_0> How to use split a string after a certain length?,lang String split
+java <extra_id_0> Caused by: java.lang.IllegalArgumentException: Comparison method violates its general contract,util Comparator compare
+java util <extra_id_0> Caused by: java.lang.IllegalArgumentException: Comparison method violates its general contract,Comparator compare
+java <extra_id_0> How can I handle an empty list when saving to/loading from a string?,lang String split
+java lang <extra_id_0> How can I handle an empty list when saving to/loading from a string?,String split
+"java lang <extra_id_0> JDBC connection MSQL error ""No suitable driver found""",Class forName
+"java <extra_id_0> JDBC connection MSQL error ""No suitable driver found""",lang Class forName
+"java lang Thread <extra_id_0> Using Thread.stop() on carefully locked down, but untrusted, code",stop
+"java lang <extra_id_0> Using Thread.stop() on carefully locked down, but untrusted, code",Thread stop
+java <extra_id_0> These three threads don't take turns when using Thread.yield()?,lang Thread yield
+java lang Thread <extra_id_0> These three threads don't take turns when using Thread.yield()?,yield
+java lang Integer <extra_id_0> Convert string array to int array (generics?),parseInt
+java <extra_id_0> Convert string array to int array (generics?),lang Integer parseInt
+java <extra_id_0> java explode a line/string like php explode,lang String split
+java lang String <extra_id_0> java explode a line/string like php explode,split
+"java <extra_id_0> On Java garbage collection, clarification needed",lang System gc
+"java lang <extra_id_0> On Java garbage collection, clarification needed",System gc
+java lang <extra_id_0> Java: Simply convert a decimal byte to a hexadecimal byte,Integer toHexString
+java lang Integer <extra_id_0> Java: Simply convert a decimal byte to a hexadecimal byte,toHexString
+java util Arrays <extra_id_0> How to sort array with respective array ids or values?,sort
+java util <extra_id_0> How to sort array with respective array ids or values?,Arrays sort
+javax <extra_id_0> Path for image loading,imageio ImageIO read
+javax imageio ImageIO <extra_id_0> Path for image loading,read
+java lang <extra_id_0> Modern day alternatives to Cloneable?,Object clone
+java lang Object <extra_id_0> Modern day alternatives to Cloneable?,clone
+java <extra_id_0> ArrayList unexpected out of boundary result,util ArrayList add
+java util ArrayList <extra_id_0> ArrayList unexpected out of boundary result,add
+java <extra_id_0> Java Sorting arrayList based on textField,util Collections sort
+java util Collections <extra_id_0> Java Sorting arrayList based on textField,sort
+java util <extra_id_0> Compare two objects with a check for null,Objects equals
+java <extra_id_0> Compare two objects with a check for null,util Objects equals
+java lang <extra_id_0> Is it safe to use `System.exit()` to stop a java application which has an embed Jetty server?,System exit
+java <extra_id_0> Is it safe to use `System.exit()` to stop a java application which has an embed Jetty server?,lang System exit
+java util <extra_id_0> merge two arraylist lists in list1 while it remain sorted,Collections sort
+java util Collections <extra_id_0> merge two arraylist lists in list1 while it remain sorted,sort
+java util Collections <extra_id_0> How would I sort a String List by Integers in that String? *Java*,sort
+java <extra_id_0> How would I sort a String List by Integers in that String? *Java*,util Collections sort
+java lang String <extra_id_0> String.concat used as a BiFunction,concat
+java lang <extra_id_0> String.concat used as a BiFunction,String concat
+javax swing SwingUtilities <extra_id_0> Using JFrame.pack() in a loop,invokeLater
+javax <extra_id_0> Using JFrame.pack() in a loop,swing SwingUtilities invokeLater
+java <extra_id_0> I need some direction with accessing mysql using a java servlet,lang Class forName
+java lang Class <extra_id_0> I need some direction with accessing mysql using a java servlet,forName
+java <extra_id_0> Running a python script from java produced KeyError,lang Runtime exec
+java lang Runtime <extra_id_0> Running a python script from java produced KeyError,exec
+java lang Object <extra_id_0> Errors testing toString Java code,toString
+java <extra_id_0> Errors testing toString Java code,lang Object toString
+java <extra_id_0> Why does this split() fail?,lang String split
+java lang String <extra_id_0> Why does this split() fail?,split
+java text <extra_id_0> SimpleDateFormat giving wrong date instead of error,DateFormat setLenient
+java <extra_id_0> SimpleDateFormat giving wrong date instead of error,text DateFormat setLenient
+java <extra_id_0> Difference between Arrays.asList(array) vs new ArrayList<Integer>(Arrays.asList(ia)) in java,util Arrays asList
+java util Arrays <extra_id_0> Difference between Arrays.asList(array) vs new ArrayList<Integer>(Arrays.asList(ia)) in java,asList
+java lang <extra_id_0> Eclipse java project forName() classnotfoundexception,Class forName
+java <extra_id_0> Eclipse java project forName() classnotfoundexception,lang Class forName
+java <extra_id_0> What are not 2 Long variables equal with == operator to compare in Java?,lang Long valueOf
+java lang <extra_id_0> What are not 2 Long variables equal with == operator to compare in Java?,Long valueOf
+java lang <extra_id_0> how to find before and after sub-string in a string,String split
+java <extra_id_0> how to find before and after sub-string in a string,lang String split
+java util <extra_id_0> is it faster to create a SortedSet (of objects) and insert elements to it or create an ArrayList and sort it afterwards?,Collections sort
+java util Collections <extra_id_0> is it faster to create a SortedSet (of objects) and insert elements to it or create an ArrayList and sort it afterwards?,sort
+java <extra_id_0> Tomcat fails to execute external java program,lang Runtime exec
+java lang <extra_id_0> Tomcat fails to execute external java program,Runtime exec
+java lang Class <extra_id_0> How to avoid methods inherited from Object class in Java when examining a class with reflection?,getDeclaredMethods
+java lang <extra_id_0> How to avoid methods inherited from Object class in Java when examining a class with reflection?,Class getDeclaredMethods
+java lang <extra_id_0> Java:how come 2 literals(the same contents) in 2 classes use the same interned string?,String intern
+java lang String <extra_id_0> Java:how come 2 literals(the same contents) in 2 classes use the same interned string?,intern
+java util Collections <extra_id_0> sorting an arrayList<class> by its integer contents,sort
+java util <extra_id_0> sorting an arrayList<class> by its integer contents,Collections sort
+java lang String <extra_id_0> Apache Commons Hex Encoding Error,getBytes
+java <extra_id_0> Apache Commons Hex Encoding Error,lang String getBytes
+java io <extra_id_0> IOException when creating a temporary file?,File createTempFile
+java <extra_id_0> IOException when creating a temporary file?,io File createTempFile
+java <extra_id_0> How to test a method using sleep() with Java?,lang Thread sleep
+java lang <extra_id_0> How to test a method using sleep() with Java?,Thread sleep
+java util <extra_id_0> equals method for date comparison in the library java.util.Date,Date equals
+java <extra_id_0> equals method for date comparison in the library java.util.Date,util Date equals
+java lang <extra_id_0> Python style round() in Java,Math round
+java <extra_id_0> Python style round() in Java,lang Math round
+java lang String <extra_id_0> What is the purpose of Java's String.intern()?,intern
+java lang <extra_id_0> What is the purpose of Java's String.intern()?,String intern
+java <extra_id_0> How do I get a file's directory using the File object?,io File getParent
+java io File <extra_id_0> How do I get a file's directory using the File object?,getParent
+java <extra_id_0> Are Java Integers always == when they're .equals()?,lang Integer valueOf
+java lang Integer <extra_id_0> Are Java Integers always == when they're .equals()?,valueOf
+java lang Object <extra_id_0> Memory Address as Hash in HashTable. Why can't HasTable use actual memory address of the Key as Hash?,hashCode
+java <extra_id_0> Memory Address as Hash in HashTable. Why can't HasTable use actual memory address of the Key as Hash?,lang Object hashCode
+java lang <extra_id_0> Java Garbage Collecting Reference Classes,System gc
+java lang System <extra_id_0> Java Garbage Collecting Reference Classes,gc
+java nio file Files <extra_id_0> Add file to a folder that is inside a zip file java,createDirectories
+java <extra_id_0> Add file to a folder that is inside a zip file java,nio file Files createDirectories
+java lang <extra_id_0> String getChars() method confusion,String getChars
+java <extra_id_0> String getChars() method confusion,lang String getChars
+java lang String <extra_id_0> How to read comma separated values from text file in JAVA?,split
+java <extra_id_0> How to read comma separated values from text file in JAVA?,lang String split
+java util <extra_id_0> What does Collections.unmodifiableSet() do in Java?,Collections unmodifiableSet
+java util Collections <extra_id_0> What does Collections.unmodifiableSet() do in Java?,unmodifiableSet
+java util <extra_id_0> How would I specify a sort order for my data in my ArrayList in java?,Collections sort
+java util Collections <extra_id_0> How would I specify a sort order for my data in my ArrayList in java?,sort
+"java util <extra_id_0> Check chains of ""get"" calls for null",Optional ofNullable
+"java <extra_id_0> Check chains of ""get"" calls for null",util Optional ofNullable
+java <extra_id_0> JSF2 Converting List of String to String[],util List toArray
+java util List <extra_id_0> JSF2 Converting List of String to String[],toArray
+java rmi <extra_id_0> RMI server: rmiregistry or LocateRegistry.createRegistry,registry LocateRegistry createRegistry
+java rmi registry LocateRegistry <extra_id_0> RMI server: rmiregistry or LocateRegistry.createRegistry,createRegistry
+java util <extra_id_0> Trying to output a bubble sorted array,Arrays toString
+java util Arrays <extra_id_0> Trying to output a bubble sorted array,toString
+java net URL <extra_id_0> Utils to get path from URL,getPath
+java <extra_id_0> Utils to get path from URL,net URL getPath
+java <extra_id_0> InetAddress.getAllByName() throws UnknownHostException,net InetAddress getAllByName
+java net <extra_id_0> InetAddress.getAllByName() throws UnknownHostException,InetAddress getAllByName
+javafx collections <extra_id_0> ListView is not reflecting changes,FXCollections observableArrayList
+javafx <extra_id_0> ListView is not reflecting changes,collections FXCollections observableArrayList
+java <extra_id_0> Controlling stdout/stderr from Jython,lang System setOut
+java lang <extra_id_0> Controlling stdout/stderr from Jython,System setOut
+java io FileWriter <extra_id_0> Trying to write multiple lines to a file but file has only 1 line (or the final values),FileWriter
+java io <extra_id_0> Trying to write multiple lines to a file but file has only 1 line (or the final values),FileWriter FileWriter
+java <extra_id_0> How to grab a thread that accesses a method?,lang Thread currentThread
+java lang <extra_id_0> How to grab a thread that accesses a method?,Thread currentThread
+javax crypto Cipher <extra_id_0> init of a Cipher object in Java,init
+javax <extra_id_0> init of a Cipher object in Java,crypto Cipher init
+java util concurrent <extra_id_0> Call two threads concurrently with return,Future get
+java <extra_id_0> Call two threads concurrently with return,util concurrent Future get
+javax swing SwingUtilities <extra_id_0> Update JProgressBar from new Thread,invokeLater
+javax <extra_id_0> Update JProgressBar from new Thread,swing SwingUtilities invokeLater
+java lang <extra_id_0> Error: Input number format exception,Integer parseInt
+java <extra_id_0> Error: Input number format exception,lang Integer parseInt
+java <extra_id_0> How to use the threads from a thread pool for every httprequest in java?,util concurrent Executors newFixedThreadPool
+java util <extra_id_0> How to use the threads from a thread pool for every httprequest in java?,concurrent Executors newFixedThreadPool
+javax swing SwingUtilities <extra_id_0> Dynamically change jButton icon,invokeLater
+javax <extra_id_0> Dynamically change jButton icon,swing SwingUtilities invokeLater
+javax swing <extra_id_0> Colorize a tab in a JTabbedPane using java swing,UIManager put
+javax <extra_id_0> Colorize a tab in a JTabbedPane using java swing,swing UIManager put
+javax imageio <extra_id_0> Java viewing image path from MYSQL and displaying that image in java tips,ImageIO read
+javax <extra_id_0> Java viewing image path from MYSQL and displaying that image in java tips,imageio ImageIO read
+java util List <extra_id_0> sublist index out of bound exception,subList
+java util <extra_id_0> sublist index out of bound exception,List subList
+java <extra_id_0> finally in exception handling,lang System exit
+java lang System <extra_id_0> finally in exception handling,exit
+java lang <extra_id_0> Why is it bad practice to call System.gc()?,System gc
+java lang System <extra_id_0> Why is it bad practice to call System.gc()?,gc
+java <extra_id_0> Protect ArrayList from write access,util Collections unmodifiableList
+java util <extra_id_0> Protect ArrayList from write access,Collections unmodifiableList
+java <extra_id_0> Java - Is calling sort() upon an already sorted list an O(1) operation?,util Collections sort
+java util <extra_id_0> Java - Is calling sort() upon an already sorted list an O(1) operation?,Collections sort
+java util <extra_id_0> Immutable objects and unmodifiable collections,Collections unmodifiableList
+java <extra_id_0> Immutable objects and unmodifiable collections,util Collections unmodifiableList
+java util EventObject <extra_id_0> How to know what component was clicked from a grid?,getSource
+java <extra_id_0> How to know what component was clicked from a grid?,util EventObject getSource
+javax <extra_id_0> Do I actually call the paintComponent method I make when creating a rectangle in Java?,swing JComponent getPreferredSize
+javax swing JComponent <extra_id_0> Do I actually call the paintComponent method I make when creating a rectangle in Java?,getPreferredSize
+"java lang <extra_id_0> Using self-referential arrays, polygons are invisible",Math random
+"java lang Math <extra_id_0> Using self-referential arrays, polygons are invisible",random
+java lang <extra_id_0> Not able to use stage in main class from controller,Thread sleep
+java lang Thread <extra_id_0> Not able to use stage in main class from controller,sleep
+java <extra_id_0> Recommended use for Joda-Time's DateMidnight,time LocalDate atStartOfDay
+java time <extra_id_0> Recommended use for Joda-Time's DateMidnight,LocalDate atStartOfDay
+java <extra_id_0> How to convert a comma separated String to ArrayList in Java,util Arrays asList
+java util Arrays <extra_id_0> How to convert a comma separated String to ArrayList in Java,asList
+"java lang <extra_id_0> I've ""fixed"" a memory leak, but.. how to fix it in a better way?",System gc
+"java <extra_id_0> I've ""fixed"" a memory leak, but.. how to fix it in a better way?",lang System gc
+java lang System <extra_id_0> Java: enough free heap to create an object?,gc
+java lang <extra_id_0> Java: enough free heap to create an object?,System gc
+java <extra_id_0> Java JNI calls are slower than expected (at least 2 ms/call),lang System nanoTime
+java lang System <extra_id_0> Java JNI calls are slower than expected (at least 2 ms/call),nanoTime
+java <extra_id_0> How to Instruct JVM to keep memory footprint as low as possible?,lang System gc
+java lang System <extra_id_0> How to Instruct JVM to keep memory footprint as low as possible?,gc
+java lang <extra_id_0> More unicode characters in windows console than expected,System console
+java <extra_id_0> More unicode characters in windows console than expected,lang System console
+"java util <extra_id_0> Avoid ""If (parameter == null)"" statement",Optional ofNullable
+"java <extra_id_0> Avoid ""If (parameter == null)"" statement",util Optional ofNullable
+java <extra_id_0> Java 2D array copy,lang System arraycopy
+java lang System <extra_id_0> Java 2D array copy,arraycopy
+java lang Double <extra_id_0> How can I parse the string to Double,parseDouble
+java <extra_id_0> How can I parse the string to Double,lang Double parseDouble
+java lang <extra_id_0> Java equivalent of Buffer.BlockCopy,System arraycopy
+java lang System <extra_id_0> Java equivalent of Buffer.BlockCopy,arraycopy
+java <extra_id_0> Java FutureTask completion check,util concurrent FutureTask get
+java util concurrent <extra_id_0> Java FutureTask completion check,FutureTask get
+javax swing SwingUtilities <extra_id_0> Why getDeepestComponentAt() return null?,getDeepestComponentAt
+javax <extra_id_0> Why getDeepestComponentAt() return null?,swing SwingUtilities getDeepestComponentAt
+java <extra_id_0> Getting elegant dataset from the random values from collection,util Collections shuffle
+java util <extra_id_0> Getting elegant dataset from the random values from collection,Collections shuffle
+javafx <extra_id_0> What CSS syntax do I need to use to access the Label of a TitledPane in JavaFX?,scene doc-files cssref titledpane
+javafx scene <extra_id_0> What CSS syntax do I need to use to access the Label of a TitledPane in JavaFX?,doc-files cssref titledpane
+java util Arrays <extra_id_0> differentiating a String-list and a String[]-list with a single element,asList
+java <extra_id_0> differentiating a String-list and a String[]-list with a single element,util Arrays asList
+java <extra_id_0> Java serialization: readObject() vs. readResolve(),io ObjectInputStream readObject
+java io ObjectInputStream <extra_id_0> Java serialization: readObject() vs. readResolve(),readObject
+java util <extra_id_0> Java concurrency question - synchronizing on a collection,Collections synchronizedList
+java <extra_id_0> Java concurrency question - synchronizing on a collection,util Collections synchronizedList
+java util Collections <extra_id_0> Implementing COMPARATOR in java,sort
+java <extra_id_0> Implementing COMPARATOR in java,util Collections sort
+javax swing <extra_id_0> JTable regexFilter right int to filter first column?,RowFilter regexFilter
+javax <extra_id_0> JTable regexFilter right int to filter first column?,swing RowFilter regexFilter
+java <extra_id_0> Get two different types of both data and structure from a method,util Collections sort
+java util Collections <extra_id_0> Get two different types of both data and structure from a method,sort
+java <extra_id_0> Custom sorting of list based on date,util Collections sort
+java util <extra_id_0> Custom sorting of list based on date,Collections sort
+java <extra_id_0> What is the Max Thread.Sleep Time?,lang Thread sleep
+java lang <extra_id_0> What is the Max Thread.Sleep Time?,Thread sleep
+java util <extra_id_0> Android: advanced compare of ArrayList,Collections sort
+java util Collections <extra_id_0> Android: advanced compare of ArrayList,sort
+java <extra_id_0> How Do I Model My Results Using Java Collections?,util Collections sort
+java util Collections <extra_id_0> How Do I Model My Results Using Java Collections?,sort
+javax swing SwingUtilities <extra_id_0> How to make scroll pane appear after dynamically adding text fields to a JPanel?,invokeLater
+javax swing <extra_id_0> How to make scroll pane appear after dynamically adding text fields to a JPanel?,SwingUtilities invokeLater
+java rmi <extra_id_0> Is it possible to open RMI Registry from server code itself,registry LocateRegistry createRegistry
+java <extra_id_0> Is it possible to open RMI Registry from server code itself,rmi registry LocateRegistry createRegistry
+java <extra_id_0> rs.last() gives Invalid operation for forward only resultset : last,sql ResultSet last
+java sql ResultSet <extra_id_0> rs.last() gives Invalid operation for forward only resultset : last,last
+"java <extra_id_0> Why do they use >, <, and == in compare(float float1, float float2) in Java?",lang Float compare
+"java lang Float <extra_id_0> Why do they use >, <, and == in compare(float float1, float float2) in Java?",compare
+"java nio file <extra_id_0> Exception in thread ""main"" java.nio.file.InvalidPathException: Illegal char <:> at index 2:",Paths get
+"java nio <extra_id_0> Exception in thread ""main"" java.nio.file.InvalidPathException: Illegal char <:> at index 2:",file Paths get
+java lang <extra_id_0> Replacing Characters in a String with each character from another String,String replaceAll
+java lang String <extra_id_0> Replacing Characters in a String with each character from another String,replaceAll
+java <extra_id_0> atof() in Java? No exception throwing,lang Double parseDouble
+java lang <extra_id_0> atof() in Java? No exception throwing,Double parseDouble
+java lang String <extra_id_0> Format decimal that represents hour into HH:mm,format
+java lang <extra_id_0> Format decimal that represents hour into HH:mm,String format
+java util Arrays <extra_id_0> Converting from int array to Integer arraylist in java,asList
+java <extra_id_0> Converting from int array to Integer arraylist in java,util Arrays asList
+java <extra_id_0> Arrays.asList(int[]) not working,util Arrays asList
+java util <extra_id_0> Arrays.asList(int[]) not working,Arrays asList
+java net Socket <extra_id_0> How to bind a socket to local wifi network address on Android?,bind
+java <extra_id_0> How to bind a socket to local wifi network address on Android?,net Socket bind
+java util <extra_id_0> removeAll From a List Cause java.lang.UnsupportedOperationException,Arrays asList
+java util Arrays <extra_id_0> removeAll From a List Cause java.lang.UnsupportedOperationException,asList
+"java <extra_id_0> Java Arraylist.remove removes first occurrence instead of index, even though I input an int in?",util List remove
+"java util <extra_id_0> Java Arraylist.remove removes first occurrence instead of index, even though I input an int in?",List remove
+java util Collections <extra_id_0> how to find occurrence in List/ArrayList,frequency
+java util <extra_id_0> how to find occurrence in List/ArrayList,Collections frequency
+java util Collections <extra_id_0> ArrayList - get the highest int value?,max
+java util <extra_id_0> ArrayList - get the highest int value?,Collections max
+java <extra_id_0> Testing with Java Protocol notations for URLConnection,net URL openConnection
+java net URL <extra_id_0> Testing with Java Protocol notations for URLConnection,openConnection
+java util <extra_id_0> How to correctly order an ArrayList<String> containing Strings and numbers?,Collections sort
+java util Collections <extra_id_0> How to correctly order an ArrayList<String> containing Strings and numbers?,sort
+java lang Object <extra_id_0> Copy constructor v. implementing Cloneable interface,clone
+java lang <extra_id_0> Copy constructor v. implementing Cloneable interface,Object clone
+java <extra_id_0> java: JTable DefaultTableModel addRow(Object[] rowData),util List toArray
+java util <extra_id_0> java: JTable DefaultTableModel addRow(Object[] rowData),List toArray
+javax <extra_id_0> JList.getSelectedValue().toString() returning null?,swing JList getSelectedValue
+javax swing <extra_id_0> JList.getSelectedValue().toString() returning null?,JList getSelectedValue
+java <extra_id_0> Get integer value from key list java,lang Integer parseInt
+java lang <extra_id_0> Get integer value from key list java,Integer parseInt
+org w3c dom <extra_id_0> Get Attributes of the Root element in XML using xpath query expression in Java,Node getAttributes
+org w3c <extra_id_0> Get Attributes of the Root element in XML using xpath query expression in Java,dom Node getAttributes
+java <extra_id_0> How do intern'd strings behave between different threads and classloarders?,lang String intern
+java lang String <extra_id_0> How do intern'd strings behave between different threads and classloarders?,intern
+java <extra_id_0> Exception during Callable execution,util concurrent Future get
+java util <extra_id_0> Exception during Callable execution,concurrent Future get
+java lang <extra_id_0> How to randomly access nth element in StringTokenizer,String split
+java <extra_id_0> How to randomly access nth element in StringTokenizer,lang String split
+java lang String <extra_id_0> java StringTokenizer skips the charaters if its part of delimiter,split
+java <extra_id_0> java StringTokenizer skips the charaters if its part of delimiter,lang String split
+java <extra_id_0> StringUtils.isBlank() vs String.isEmpty(),lang String isEmpty
+java lang String <extra_id_0> StringUtils.isBlank() vs String.isEmpty(),isEmpty
+java lang <extra_id_0> When does Integer != 1 come true,Integer valueOf
+java lang Integer <extra_id_0> When does Integer != 1 come true,valueOf
+javafx scene control <extra_id_0> How to show Image as tooltip in JavaFX?,Tooltip graphicProperty
+javafx scene <extra_id_0> How to show Image as tooltip in JavaFX?,control Tooltip graphicProperty
+java <extra_id_0> Creating object from a given Class object in Java,lang Class newInstance
+java lang Class <extra_id_0> Creating object from a given Class object in Java,newInstance
+java util Arrays <extra_id_0> Why is the difference in declaration of generic Lists?,asList
+java <extra_id_0> Why is the difference in declaration of generic Lists?,util Arrays asList
+java util <extra_id_0> ConcurrentModificationException in unmodifiable collection,Collections unmodifiableCollection
+java <extra_id_0> ConcurrentModificationException in unmodifiable collection,util Collections unmodifiableCollection
+java util Collections <extra_id_0> Create a dynamic sort comparator,sort
+java <extra_id_0> Create a dynamic sort comparator,util Collections sort
+java <extra_id_0> How can I use math.random but only for certain values?,lang Math random
+java lang Math <extra_id_0> How can I use math.random but only for certain values?,random
+java lang System <extra_id_0> Proper shutdown of JVM when launching from C++,exit
+java <extra_id_0> Proper shutdown of JVM when launching from C++,lang System exit
+javax <extra_id_0> LDAP compare username password?,naming ldap LdapContext reconnect
+javax naming ldap <extra_id_0> LDAP compare username password?,LdapContext reconnect
+java <extra_id_0> How to generate random numbers the give fixed results using Math.random,lang Math random
+java lang Math <extra_id_0> How to generate random numbers the give fixed results using Math.random,random
+java lang Math <extra_id_0> How to make a power method without for loops or recursion?,pow
+java <extra_id_0> How to make a power method without for loops or recursion?,lang Math pow
+java lang <extra_id_0> How do I convert a JTextField string to a double?,Double parseDouble
+java lang Double <extra_id_0> How do I convert a JTextField string to a double?,parseDouble
+java <extra_id_0> Java RegEx negative lookbehind,util regex Matcher matches
+java util <extra_id_0> Java RegEx negative lookbehind,regex Matcher matches
+java <extra_id_0> Assigning random numbers in an array in java (non repeating),util Collections shuffle
+java util Collections <extra_id_0> Assigning random numbers in an array in java (non repeating),shuffle
+java lang <extra_id_0> How can i convert character 0s and 1s read from a txt File to byte?,Byte parseByte
+java lang Byte <extra_id_0> How can i convert character 0s and 1s read from a txt File to byte?,parseByte
+javax swing SwingUtilities <extra_id_0> My JPanel won't show. Eclipse says I have no errors. Java,invokeLater
+javax swing <extra_id_0> My JPanel won't show. Eclipse says I have no errors. Java,SwingUtilities invokeLater
+java <extra_id_0> Forcing socket.connect to wait a specific time before it decides a connection is unavailable,net Socket connect
+java net Socket <extra_id_0> Forcing socket.connect to wait a specific time before it decides a connection is unavailable,connect
+"java <extra_id_0> The Subclass of java.util.TreeMap gives NullPointerException on call put(key, value) method",util TreeMap put
+"java util <extra_id_0> The Subclass of java.util.TreeMap gives NullPointerException on call put(key, value) method",TreeMap put
+java <extra_id_0> Best way to exit a program when I want an exception to be thrown?,lang System exit
+java lang <extra_id_0> Best way to exit a program when I want an exception to be thrown?,System exit
+java util Arrays <extra_id_0> java.util.Arrays.asList when used with removeIf throws UnsupportedOperationException,asList
+java util <extra_id_0> java.util.Arrays.asList when used with removeIf throws UnsupportedOperationException,Arrays asList
+java time ZonedDateTime <extra_id_0> Java8 java.util.Date conversion to java.time.ZonedDateTime,ofInstant
+java time <extra_id_0> Java8 java.util.Date conversion to java.time.ZonedDateTime,ZonedDateTime ofInstant
+java util <extra_id_0> Is it possible to rename a Hashmap key?,HashMap put
+java <extra_id_0> Is it possible to rename a Hashmap key?,util HashMap put
+java <extra_id_0> How Can I Print Values and Index Numbers of an ArrayList without a Loop?,util stream IntStream range
+java util stream <extra_id_0> How Can I Print Values and Index Numbers of an ArrayList without a Loop?,IntStream range
+java <extra_id_0> Java SQL Escape without using setString,sql PreparedStatement setString
+java sql PreparedStatement <extra_id_0> Java SQL Escape without using setString,setString
+java util regex <extra_id_0> How do I sanitize input before making a regex out of it?,Pattern quote
+java util <extra_id_0> How do I sanitize input before making a regex out of it?,regex Pattern quote
+java lang <extra_id_0> Why is Queue.poll faster than Iteration? (java.util.concurrent.ConcurrentLinkedQueue),System gc
+java lang System <extra_id_0> Why is Queue.poll faster than Iteration? (java.util.concurrent.ConcurrentLinkedQueue),gc
+java util Calendar <extra_id_0> Why was Date.getTimezoneOffset deprecated?,get
+java <extra_id_0> Why was Date.getTimezoneOffset deprecated?,util Calendar get
+java lang String <extra_id_0> Why is String.equals() faster than itself?,equals
+java <extra_id_0> Why is String.equals() faster than itself?,lang String equals
+java <extra_id_0> String decrypted by vb.net function is different than the original String encrypted by java function,lang String getBytes
+java lang <extra_id_0> String decrypted by vb.net function is different than the original String encrypted by java function,String getBytes
+java lang System <extra_id_0> Preventing System.exit() from API,exit
+java lang <extra_id_0> Preventing System.exit() from API,System exit
+java lang String <extra_id_0> Performance of StringTokenizer class vs. String.split method in Java,split
+java <extra_id_0> Performance of StringTokenizer class vs. String.split method in Java,lang String split
+java <extra_id_0> String.split not working with combination of delimiter {^,lang String split
+java lang <extra_id_0> String.split not working with combination of delimiter {^,String split
+java lang String <extra_id_0> Strange Behaviour of String Tokenizer,split
+java lang <extra_id_0> Strange Behaviour of String Tokenizer,String split
+java <extra_id_0> Fast way to sort really big vector,util Collections sort
+java util <extra_id_0> Fast way to sort really big vector,Collections sort
+java util <extra_id_0> Java Threadpool vs. new Thread in high request scenario,concurrent Executors newFixedThreadPool
+java util concurrent <extra_id_0> Java Threadpool vs. new Thread in high request scenario,Executors newFixedThreadPool
+java lang <extra_id_0> How toString() is automatically call inside println(),Object toString
+java <extra_id_0> How toString() is automatically call inside println(),lang Object toString
+java util <extra_id_0> Java Array and ArrayList,Arrays asList
+java util Arrays <extra_id_0> Java Array and ArrayList,asList
+java util Collections <extra_id_0> How to shuffle cards within a Card object with Math.random(),shuffle
+java <extra_id_0> How to shuffle cards within a Card object with Math.random(),util Collections shuffle
+java lang Math <extra_id_0> Why does Math.ceil return a double?,ceil
+java <extra_id_0> Why does Math.ceil return a double?,lang Math ceil
+java util Arrays <extra_id_0> Transform array to list,asList
+java <extra_id_0> Transform array to list,util Arrays asList
+java lang String <extra_id_0> What's wrong with my While loop?,equals
+java lang <extra_id_0> What's wrong with my While loop?,String equals
+java lang Object <extra_id_0> Java Swing setEditable(boolean) not working in JComboBox with custom renderer,toString
+java lang <extra_id_0> Java Swing setEditable(boolean) not working in JComboBox with custom renderer,Object toString
+java <extra_id_0> How do I count the number of words in a text using regex?,lang String split
+java lang <extra_id_0> How do I count the number of words in a text using regex?,String split
+java <extra_id_0> Java DAO pattern and runtime dependencies,lang Class forName
+java lang Class <extra_id_0> Java DAO pattern and runtime dependencies,forName
+java <extra_id_0> How does Java precisely display a double while it cannot be accurately expressed in binary scientific notation?,lang Double toString
+java lang Double <extra_id_0> How does Java precisely display a double while it cannot be accurately expressed in binary scientific notation?,toString
+java <extra_id_0> Java Collections sort() equal objects,util Collections sort
+java util <extra_id_0> Java Collections sort() equal objects,Collections sort
+java util <extra_id_0> Preserving thread safety using lambda,Collections synchronizedList
+java util Collections <extra_id_0> Preserving thread safety using lambda,synchronizedList
+java <extra_id_0> SQLException deleting row from JTable and database,sql Statement executeUpdate
+java sql Statement <extra_id_0> SQLException deleting row from JTable and database,executeUpdate
+java lang Runtime <extra_id_0> Runtime.getRuntime().exec() output differ from executing a command line program directly,exec
+java lang <extra_id_0> Runtime.getRuntime().exec() output differ from executing a command line program directly,Runtime exec
+java lang String <extra_id_0> Right Justification in Java,format
+java lang <extra_id_0> Right Justification in Java,String format
+java lang <extra_id_0> StringBuffer and String pool,StringBuffer append
+java <extra_id_0> StringBuffer and String pool,lang StringBuffer append
+java lang <extra_id_0> Make a negative number positive,Math abs
+java lang Math <extra_id_0> Make a negative number positive,abs
+javax <extra_id_0> Getting ENTER to work with a JSpinner the way it does with a JTextField,swing SwingUtilities invokeLater
+javax swing <extra_id_0> Getting ENTER to work with a JSpinner the way it does with a JTextField,SwingUtilities invokeLater
+"java util Collections <extra_id_0> Sort ArrayList<HashMap<String,String>> based on datetime",sort
+"java util <extra_id_0> Sort ArrayList<HashMap<String,String>> based on datetime",Collections sort
+java <extra_id_0> Linking static library with JNI,lang System loadLibrary
+java lang System <extra_id_0> Linking static library with JNI,loadLibrary
+java <extra_id_0> Adding check in .equals() for different value type,lang Object equals
+java lang Object <extra_id_0> Adding check in .equals() for different value type,equals
+java lang System <extra_id_0> Catch an exit instruction by a library,exit
+java lang <extra_id_0> Catch an exit instruction by a library,System exit
+java lang System <extra_id_0> Second JFrame closes first,exit
+java <extra_id_0> Second JFrame closes first,lang System exit
+"java util <extra_id_0> A unsychronized Collection object that contain some data, want synchronisation wrapper but don't want reference to original object",Collections synchronizedList
+"java <extra_id_0> A unsychronized Collection object that contain some data, want synchronisation wrapper but don't want reference to original object",util Collections synchronizedList
+java sql <extra_id_0> DataSource.setLoginTimeout and DriverManager.setLoginTimeout global?,DriverManager setLoginTimeout
+java sql DriverManager <extra_id_0> DataSource.setLoginTimeout and DriverManager.setLoginTimeout global?,setLoginTimeout
+java <extra_id_0> Session attribute access and converting to int?,lang Integer parseInt
+java lang <extra_id_0> Session attribute access and converting to int?,Integer parseInt
+java lang <extra_id_0> Does a Java class get loaded if I access MyClass.class.getName()?,Class forName
+java <extra_id_0> Does a Java class get loaded if I access MyClass.class.getName()?,lang Class forName
+java <extra_id_0> 3 threads with access to 1 object in java,util Collections synchronizedList
+java util <extra_id_0> 3 threads with access to 1 object in java,Collections synchronizedList
+java lang <extra_id_0> Sending a byte array over REST which contains encrypted data,String getBytes
+java <extra_id_0> Sending a byte array over REST which contains encrypted data,lang String getBytes
+java lang reflect <extra_id_0> Create a proxy class with a no-arg constructor,Proxy newProxyInstance
+java lang reflect Proxy <extra_id_0> Create a proxy class with a no-arg constructor,newProxyInstance
+java net <extra_id_0> Is Java MulticastSocket threadsafe?,MulticastSocket send
+java net MulticastSocket <extra_id_0> Is Java MulticastSocket threadsafe?,send
+java lang System <extra_id_0> redirect System.out to page,setOut
+java <extra_id_0> redirect System.out to page,lang System setOut
+java util Collections <extra_id_0> How to sort alphabetically while ignoring case sensitive?,sort
+java util <extra_id_0> How to sort alphabetically while ignoring case sensitive?,Collections sort
+java util concurrent <extra_id_0> Lock is lost when putting ReentrantLock into HashMap,locks ReentrantLock unlock
+java util concurrent locks ReentrantLock <extra_id_0> Lock is lost when putting ReentrantLock into HashMap,unlock
+java util logging Logger <extra_id_0> Java Logging - Wrapper?,getLogger
+java util logging <extra_id_0> Java Logging - Wrapper?,Logger getLogger
+"javax <extra_id_0> Java swing, how to call function on option menu click?",swing JOptionPane showOptionDialog
+"javax swing JOptionPane <extra_id_0> Java swing, how to call function on option menu click?",showOptionDialog
+java lang Integer <extra_id_0> Check if a integer is present at the end of my string?,parseInt
+java <extra_id_0> Check if a integer is present at the end of my string?,lang Integer parseInt
+java <extra_id_0> Stopping looping thread in Java,lang Thread interrupt
+java lang <extra_id_0> Stopping looping thread in Java,Thread interrupt
+java <extra_id_0> Java CompletableFuture.complete() block,util concurrent CompletableFuture whenCompleteAsync
+java util concurrent CompletableFuture <extra_id_0> Java CompletableFuture.complete() block,whenCompleteAsync
+"java lang <extra_id_0> What exactly do the keywoards ""this"" and ""toString"" mean and do?",Object toString
+"java <extra_id_0> What exactly do the keywoards ""this"" and ""toString"" mean and do?",lang Object toString
+java lang <extra_id_0> Java split strings at specific points,String split
+java <extra_id_0> Java split strings at specific points,lang String split
+java <extra_id_0> Pick random element from collection. Can it inherit from Random class?,util Collections shuffle
+java util Collections <extra_id_0> Pick random element from collection. Can it inherit from Random class?,shuffle
+java <extra_id_0> why no replace() method defined on the Set interface?,lang Object equals
+java lang Object <extra_id_0> why no replace() method defined on the Set interface?,equals
+javax swing <extra_id_0> Set tick behavior of swing JSlider and JTextField,SwingUtilities invokeLater
+javax swing SwingUtilities <extra_id_0> Set tick behavior of swing JSlider and JTextField,invokeLater
+java lang <extra_id_0> Wait function in Java,Thread sleep
+java lang Thread <extra_id_0> Wait function in Java,sleep
+java util Collections <extra_id_0> Collections.min() method confusion in list of string which holds double values,min
+java <extra_id_0> Collections.min() method confusion in list of string which holds double values,util Collections min
+java lang <extra_id_0> What is use of hashCode() and equals() method in Java?,Object hashCode
+java <extra_id_0> What is use of hashCode() and equals() method in Java?,lang Object hashCode
+java lang Thread <extra_id_0> Is it recommended to sleep() during the operation of a very intensive thread?,sleep
+java lang <extra_id_0> Is it recommended to sleep() during the operation of a very intensive thread?,Thread sleep
+java lang <extra_id_0> How to explicitly perform garbage collection,System gc
+java lang System <extra_id_0> How to explicitly perform garbage collection,gc
+java lang System <extra_id_0> Is it possible to use a micro-benchmark framework to only time some statements?,nanoTime
+java lang <extra_id_0> Is it possible to use a micro-benchmark framework to only time some statements?,System nanoTime
+"java <extra_id_0> Busy wait, sleep and accuracy",lang Thread sleep
+"java lang <extra_id_0> Busy wait, sleep and accuracy",Thread sleep
+java lang <extra_id_0> Delete Last and First Char in a String,String substring
+java lang String <extra_id_0> Delete Last and First Char in a String,substring
+javax imageio ImageIO <extra_id_0> Read an image from other host,read
+javax imageio <extra_id_0> Read an image from other host,ImageIO read
+java <extra_id_0> HTML Parsing/Scraping Algorithm Help..Java,lang String split
+java lang String <extra_id_0> HTML Parsing/Scraping Algorithm Help..Java,split
+javax swing <extra_id_0> JOptionPane Can Not DIsplay Everything,JOptionPane showMessageDialog
+javax swing JOptionPane <extra_id_0> JOptionPane Can Not DIsplay Everything,showMessageDialog
+"javax swing <extra_id_0> The method showMessageDialog(Component, Object) in the type JOptionPane is not applicable for the arguments (new ActionListener(){}, String)",JOptionPane showMessageDialog
+"javax swing JOptionPane <extra_id_0> The method showMessageDialog(Component, Object) in the type JOptionPane is not applicable for the arguments (new ActionListener(){}, String)",showMessageDialog
+java util Collections <extra_id_0> Java Vector Thread safety,synchronizedList
+java util <extra_id_0> Java Vector Thread safety,Collections synchronizedList
+java lang System <extra_id_0> Is the Java program containing native code of C language Machine dependent?,loadLibrary
+java <extra_id_0> Is the Java program containing native code of C language Machine dependent?,lang System loadLibrary
+java <extra_id_0> JDBC: How to retrieve the result of SQL COUNT function from the result set?,sql ResultSet getInt
+java sql <extra_id_0> JDBC: How to retrieve the result of SQL COUNT function from the result set?,ResultSet getInt
+"java <extra_id_0> MenuListener Implementation, how to detect which JMenu was clicked?",util EventObject getSource
+"java util <extra_id_0> MenuListener Implementation, how to detect which JMenu was clicked?",EventObject getSource
+java lang System <extra_id_0> NullPointerException in Console's readLine(),console
+java lang <extra_id_0> NullPointerException in Console's readLine(),System console
+java lang System <extra_id_0> How to make my main Login frame stay alive when the second frame exiting?,exit
+java lang <extra_id_0> How to make my main Login frame stay alive when the second frame exiting?,System exit
+java <extra_id_0> NoClassDefFoundError when trying to load class,lang Class forName
+java lang Class <extra_id_0> NoClassDefFoundError when trying to load class,forName
+javax swing <extra_id_0> Multithreading on GUI applications,SwingUtilities invokeLater
+javax swing SwingUtilities <extra_id_0> Multithreading on GUI applications,invokeLater
+javafx scene <extra_id_0> JavaFX Unable to set data when enums used with custom cell factory,control TableColumn setOnEditCommit
+javafx scene control <extra_id_0> JavaFX Unable to set data when enums used with custom cell factory,TableColumn setOnEditCommit
+java util <extra_id_0> How do I randomly fill an array in Java?,Collections shuffle
+java <extra_id_0> How do I randomly fill an array in Java?,util Collections shuffle
+java <extra_id_0> Why would someone use Collections.emptyList in java?,util Collections emptyList
+java util Collections <extra_id_0> Why would someone use Collections.emptyList in java?,emptyList
+java lang <extra_id_0> what happens to finally block in the following cases?,System exit
+java lang System <extra_id_0> what happens to finally block in the following cases?,exit
+java <extra_id_0> Testing a method producing a random result,util Collections shuffle
+java util Collections <extra_id_0> Testing a method producing a random result,shuffle
+java <extra_id_0> How does the getClass() is implemented in java?,lang Object getClass
+java lang <extra_id_0> How does the getClass() is implemented in java?,Object getClass
+java <extra_id_0> Negative random int when new File is created with File.createTempFile(),io File createTempFile
+java io <extra_id_0> Negative random int when new File is created with File.createTempFile(),File createTempFile
+java <extra_id_0> Set System Property for JUnit Runner (Eclipse) to test a Spring Web App,lang System setProperty
+java lang <extra_id_0> Set System Property for JUnit Runner (Eclipse) to test a Spring Web App,System setProperty
+java util Collections <extra_id_0> sort doubles stored as strings ?,sort
+java <extra_id_0> sort doubles stored as strings ?,util Collections sort
+java util <extra_id_0> casting Arrays.asList causing exception: java.util.Arrays$ArrayList cannot be cast to java.util.ArrayList,Arrays asList
+java util Arrays <extra_id_0> casting Arrays.asList causing exception: java.util.Arrays$ArrayList cannot be cast to java.util.ArrayList,asList
+java lang Integer <extra_id_0> Java parse a Sting with letters and numbers for an Integer,parseInt
+java lang <extra_id_0> Java parse a Sting with letters and numbers for an Integer,Integer parseInt
+java io <extra_id_0> How to loop through all the files in a folder (if the names of the files are unknown)?,File listFiles
+java io File <extra_id_0> How to loop through all the files in a folder (if the names of the files are unknown)?,listFiles
+java <extra_id_0> Java Time's week-of-week-based-year pattern parsing with DateTimeFormatter,time format DateTimeFormatterBuilder appendPattern
+java time <extra_id_0> Java Time's week-of-week-based-year pattern parsing with DateTimeFormatter,format DateTimeFormatterBuilder appendPattern
+java <extra_id_0> Mock Runtime.getRuntime()?,lang Runtime getRuntime
+java lang Runtime <extra_id_0> Mock Runtime.getRuntime()?,getRuntime
+javax <extra_id_0> Java update jtable row from another thread,swing SwingUtilities invokeLater
+javax swing SwingUtilities <extra_id_0> Java update jtable row from another thread,invokeLater
+java util Iterator <extra_id_0> Remove an object from a list - ConcurrentModificationException,remove
+java <extra_id_0> Remove an object from a list - ConcurrentModificationException,util Iterator remove
+java <extra_id_0> Why can't I compare text from a TextArea to a String?,lang String equals
+java lang <extra_id_0> Why can't I compare text from a TextArea to a String?,String equals
+java <extra_id_0> java.nio.Files.move() - DirectoryNotEmptyException on OS X,nio file Files move
+java nio <extra_id_0> java.nio.Files.move() - DirectoryNotEmptyException on OS X,file Files move
+java lang Integer <extra_id_0> Java: Subtract '0' from char to get an int... why does this work?,parseInt
+java lang <extra_id_0> Java: Subtract '0' from char to get an int... why does this work?,Integer parseInt
+java lang String <extra_id_0> Substring method in String class reaches the index it isn't supposed to,substring
+java lang <extra_id_0> Substring method in String class reaches the index it isn't supposed to,String substring
+java util <extra_id_0> Java UnsupportedOperationException with Collection objects,Arrays asList
+java <extra_id_0> Java UnsupportedOperationException with Collection objects,util Arrays asList
+java util <extra_id_0> Volatile arraylist not acting as expected,Collections synchronizedList
+java util Collections <extra_id_0> Volatile arraylist not acting as expected,synchronizedList
+java <extra_id_0> Tiled in LibGDX cannot cast java.lang.String to java.lang.Boolean,lang Boolean valueOf
+java lang Boolean <extra_id_0> Tiled in LibGDX cannot cast java.lang.String to java.lang.Boolean,valueOf
+java <extra_id_0> Java interface extends Cloneable,lang Object clone
+java lang Object <extra_id_0> Java interface extends Cloneable,clone
+java io <extra_id_0> Java not deleting a file which was created by itself,File delete
+java io File <extra_id_0> Java not deleting a file which was created by itself,delete
+java lang String <extra_id_0> String variable interpolation Java,format
+java lang <extra_id_0> String variable interpolation Java,String format
+java util Collections <extra_id_0> Using CopyOnWriteArrayList in Java,synchronizedList
+java <extra_id_0> Using CopyOnWriteArrayList in Java,util Collections synchronizedList
+"java lang Math <extra_id_0> min(a,b) and max(a,b) equivalent in Java?",min
+"java lang <extra_id_0> min(a,b) and max(a,b) equivalent in Java?",Math min
+java lang System <extra_id_0> Android running thread every 1 Second to Increment Unix Timestamp,currentTimeMillis
+java lang <extra_id_0> Android running thread every 1 Second to Increment Unix Timestamp,System currentTimeMillis
+java util <extra_id_0> LinkedHashMap containsKey or containsValue,Arrays hashCode
+java util Arrays <extra_id_0> LinkedHashMap containsKey or containsValue,hashCode
+java lang <extra_id_0> EAR lib's class throwing a ClassNotFoundException for a WAR member (different),Class forName
+java lang Class <extra_id_0> EAR lib's class throwing a ClassNotFoundException for a WAR member (different),forName
+java util Collections <extra_id_0> Java sort ArrayList with custom fields by number and alphabetically,sort
+java util <extra_id_0> Java sort ArrayList with custom fields by number and alphabetically,Collections sort
+java lang <extra_id_0> How do I re run the paint method so the JPanel is animated?,Thread sleep
+java lang Thread <extra_id_0> How do I re run the paint method so the JPanel is animated?,sleep
+java <extra_id_0> How to get a submap with LinkedHashMap?,util Collections binarySearch
+java util Collections <extra_id_0> How to get a submap with LinkedHashMap?,binarySearch
+java lang Class <extra_id_0> Are there Generic Enums in Java?,getEnumConstants
+java <extra_id_0> Are there Generic Enums in Java?,lang Class getEnumConstants
+java util concurrent <extra_id_0> ConcurrentHashMap putIfAbsent() is returning null,ConcurrentHashMap putIfAbsent
+java util <extra_id_0> ConcurrentHashMap putIfAbsent() is returning null,concurrent ConcurrentHashMap putIfAbsent
+java util Arrays <extra_id_0> Sorting 2 dimensional arrays in Java - skipping the first index,sort
+java <extra_id_0> Sorting 2 dimensional arrays in Java - skipping the first index,util Arrays sort
+java <extra_id_0> Sorting ArrayList not affecting to ArrayList,util Collections sort
+java util <extra_id_0> Sorting ArrayList not affecting to ArrayList,Collections sort
+java <extra_id_0> String split in two lists,lang String split
+java lang <extra_id_0> String split in two lists,String split
+java util Collections <extra_id_0> Tuple (unmodifiable ordered list of heterogeneous elements) support in Java,unmodifiableList
+java util <extra_id_0> Tuple (unmodifiable ordered list of heterogeneous elements) support in Java,Collections unmodifiableList
+java <extra_id_0> String concat behaves in different way,lang String concat
+java lang <extra_id_0> String concat behaves in different way,String concat
+"java <extra_id_0> Need to initialize a byte[] array with ascii blank (i.e. 0x20 OR "" "")",util Arrays fill
+"java util Arrays <extra_id_0> Need to initialize a byte[] array with ascii blank (i.e. 0x20 OR "" "")",fill
+java awt <extra_id_0> Weird RGB value from java BufferedImage getRGB(),image BufferedImage getRGB
+java awt image BufferedImage <extra_id_0> Weird RGB value from java BufferedImage getRGB(),getRGB
+java nio file Files <extra_id_0> Java.util.zip replace a single zip file,copy
+java nio file <extra_id_0> Java.util.zip replace a single zip file,Files copy
+java <extra_id_0> Detect null reference in an array,util Arrays asList
+java util <extra_id_0> Detect null reference in an array,Arrays asList
+java util <extra_id_0> Localization menu with reading from xml-files,Locale getDefault
+java <extra_id_0> Localization menu with reading from xml-files,util Locale getDefault
+javax imageio <extra_id_0> Error while comparing image from database,ImageIO read
+javax <extra_id_0> Error while comparing image from database,imageio ImageIO read
+java <extra_id_0> Confusion on .equals method,lang Object equals
+java lang <extra_id_0> Confusion on .equals method,Object equals
+java lang String <extra_id_0> difference between System.out.printf and String.format,format
+java <extra_id_0> difference between System.out.printf and String.format,lang String format
+java util Collections <extra_id_0> UnmodifiableMap (Java Collections) vs ImmutableMap (Google),unmodifiableMap
+java <extra_id_0> UnmodifiableMap (Java Collections) vs ImmutableMap (Google),util Collections unmodifiableMap
+java <extra_id_0> Java8: sum values from specific field of the objects in a list,util stream Collectors summingInt
+java util stream <extra_id_0> Java8: sum values from specific field of the objects in a list,Collectors summingInt
+java lang System <extra_id_0> Constructor Console() is not visible,console
+java lang <extra_id_0> Constructor Console() is not visible,System console
+java lang <extra_id_0> Print the stack trace of an exception,Throwable printStackTrace
+java <extra_id_0> Print the stack trace of an exception,lang Throwable printStackTrace
+java <extra_id_0> The method split(String) is undefined for the type String,lang String split
+java lang <extra_id_0> The method split(String) is undefined for the type String,String split
+java lang Class <extra_id_0> Reading a text file from a jar,getResourceAsStream
+java lang <extra_id_0> Reading a text file from a jar,Class getResourceAsStream
+java util <extra_id_0> Sorted view of a List,Collections sort
+java util Collections <extra_id_0> Sorted view of a List,sort
+java awt <extra_id_0> How to auto resize JFrame when elements move on next line using FlowLayout,Toolkit getDefaultToolkit
+java awt Toolkit <extra_id_0> How to auto resize JFrame when elements move on next line using FlowLayout,getDefaultToolkit
+java lang <extra_id_0> Can any one help me about java.lang.IllegalMonitorStateException?,Object wait
+java <extra_id_0> Can any one help me about java.lang.IllegalMonitorStateException?,lang Object wait
+java lang String <extra_id_0> How to divide a sentence into parts Java?,split
+java <extra_id_0> How to divide a sentence into parts Java?,lang String split
+"java lang String <extra_id_0> java string delimiter, keeping delimiter in token",split
+"java lang <extra_id_0> java string delimiter, keeping delimiter in token",String split
+java lang Runtime <extra_id_0> Writing the Output of an Operating System Command to the Console,exec
+java lang <extra_id_0> Writing the Output of an Operating System Command to the Console,Runtime exec
+java <extra_id_0> Query Windows Search from Java,lang Runtime exec
+java lang Runtime <extra_id_0> Query Windows Search from Java,exec
+java util <extra_id_0> How do I sort a custom ArrayList in Java?,Collections sort
+java util Collections <extra_id_0> How do I sort a custom ArrayList in Java?,sort
+java lang <extra_id_0> Convert String into a Class Object,Class forName
+java lang Class <extra_id_0> Convert String into a Class Object,forName
+java lang String <extra_id_0> Why Java String.indexOf() outperforms the same logic implemented in user defined class?,indexOf
+java <extra_id_0> Why Java String.indexOf() outperforms the same logic implemented in user defined class?,lang String indexOf
+java lang <extra_id_0> Selenium Webdriver click() not doing anything,Thread sleep
+java <extra_id_0> Selenium Webdriver click() not doing anything,lang Thread sleep
+java <extra_id_0> Effective and shortest way to convert array A[] to ArrayList<B>,util Arrays asList
+java util Arrays <extra_id_0> Effective and shortest way to convert array A[] to ArrayList<B>,asList
+java util Collections <extra_id_0> How to sort a Vector of String in java-me?,sort
+java <extra_id_0> How to sort a Vector of String in java-me?,util Collections sort
+javax imageio <extra_id_0> How to upload bufferedImage without storing it in user's system?,ImageIO write
+javax imageio ImageIO <extra_id_0> How to upload bufferedImage without storing it in user's system?,write
+java <extra_id_0> Access static final variable using reflection,lang reflect Field get
+java lang reflect <extra_id_0> Access static final variable using reflection,Field get
+java util Arrays <extra_id_0> insertion sort for an object-array?,sort
+java util <extra_id_0> insertion sort for an object-array?,Arrays sort
+java lang String <extra_id_0> Format string with undefined number of arguments,format
+java lang <extra_id_0> Format string with undefined number of arguments,String format
+java util Random <extra_id_0> Learning the nested while loop in Java,nextInt
+java util <extra_id_0> Learning the nested while loop in Java,Random nextInt
+javax <extra_id_0> Java synchronizing Threads with Swing,swing SwingUtilities invokeLater
+javax swing SwingUtilities <extra_id_0> Java synchronizing Threads with Swing,invokeLater
+java <extra_id_0> Why do we only buffer the input in networking?,io BufferedReader readLine
+java io BufferedReader <extra_id_0> Why do we only buffer the input in networking?,readLine
+javax <extra_id_0> To break a message in two or more lines in JOptionPane,swing JOptionPane showMessageDialog
+javax swing JOptionPane <extra_id_0> To break a message in two or more lines in JOptionPane,showMessageDialog
+java lang <extra_id_0> .split() method in Java not found,String split
+java <extra_id_0> .split() method in Java not found,lang String split
+"java <extra_id_0> In clone() we use super.clone() then access a variable that is not in super, how comes?",lang Object clone
+"java lang <extra_id_0> In clone() we use super.clone() then access a variable that is not in super, how comes?",Object clone
+java lang System <extra_id_0> Tracing XML request/responses with JAX-WS,setProperty
+java <extra_id_0> Tracing XML request/responses with JAX-WS,lang System setProperty
+java util <extra_id_0> How do I empty a primitive array?,Arrays fill
+java util Arrays <extra_id_0> How do I empty a primitive array?,fill
+java lang Integer <extra_id_0> Parsing String of scores into ArrayList<Integer>,parseInt
+java <extra_id_0> Parsing String of scores into ArrayList<Integer>,lang Integer parseInt
+java util <extra_id_0> Collections.reverse() vs Lists.reverse() which one is faster?,Collections reverse
+java <extra_id_0> Collections.reverse() vs Lists.reverse() which one is faster?,util Collections reverse
+java lang <extra_id_0> How to execute a batch file from java?,Runtime getRuntime
+java <extra_id_0> How to execute a batch file from java?,lang Runtime getRuntime
+java lang <extra_id_0> Java: what is static{}?,Class forName
+java <extra_id_0> Java: what is static{}?,lang Class forName
+java <extra_id_0> Perl return code from Java Jar using System.exit,lang System exit
+java lang <extra_id_0> Perl return code from Java Jar using System.exit,System exit
+java <extra_id_0> Does Thread.sleep() makes the UI Thread to sleep?,lang Thread sleep
+java lang Thread <extra_id_0> Does Thread.sleep() makes the UI Thread to sleep?,sleep
+java <extra_id_0> Java cipher and php mcrypt_encrypt (BLOWFISH algorithm with ECB padding),lang String getBytes
+java lang <extra_id_0> Java cipher and php mcrypt_encrypt (BLOWFISH algorithm with ECB padding),String getBytes
+javax swing <extra_id_0> Java GUI - nesting panels,SwingUtilities invokeLater
+javax swing SwingUtilities <extra_id_0> Java GUI - nesting panels,invokeLater
+java <extra_id_0> multiply Bigdecimal and int generating error,math BigDecimal multiply
+java math <extra_id_0> multiply Bigdecimal and int generating error,BigDecimal multiply
+java <extra_id_0> Weird assertEquals and contains behaviour,lang Object equals
+java lang Object <extra_id_0> Weird assertEquals and contains behaviour,equals
+java util <extra_id_0> How to find the max/min element of linked list,Collections max
+java util Collections <extra_id_0> How to find the max/min element of linked list,max
+java <extra_id_0> Most efficient data structure for storing an alphabetically ordered word list,util Collections sort
+java util Collections <extra_id_0> Most efficient data structure for storing an alphabetically ordered word list,sort
+javax swing <extra_id_0> Setting cell borders in JTable,UIManager put
+javax swing UIManager <extra_id_0> Setting cell borders in JTable,put
+java <extra_id_0> java.lang.Math.abs not imported by default?,lang Math abs
+java lang <extra_id_0> java.lang.Math.abs not imported by default?,Math abs
+java util <extra_id_0> Java 8 equivalent of (RxJava) Observable#onComplete(),stream IntStream range
+java util stream <extra_id_0> Java 8 equivalent of (RxJava) Observable#onComplete(),IntStream range
+java lang <extra_id_0> Mono.elapse does not work with StepVerifier?,System currentTimeMillis
+java <extra_id_0> Mono.elapse does not work with StepVerifier?,lang System currentTimeMillis
+java <extra_id_0> Java popup menu listen for item clicks?,awt MenuItem addActionListener
+java awt <extra_id_0> Java popup menu listen for item clicks?,MenuItem addActionListener
+java <extra_id_0> How can I cause a JLabel to disappear after a period of time?,lang Thread sleep
+java lang <extra_id_0> How can I cause a JLabel to disappear after a period of time?,Thread sleep
+java lang <extra_id_0> Override Thread.sleep(),Thread sleep
+java lang Thread <extra_id_0> Override Thread.sleep(),sleep
+java <extra_id_0> What buffers to use for receiving an input stream from a Socket created by ServerSocket?,net ServerSocket accept
+java net <extra_id_0> What buffers to use for receiving an input stream from a Socket created by ServerSocket?,ServerSocket accept
+java lang Runtime <extra_id_0> Fail to call mysqldump from java in linux,exec
+java <extra_id_0> Fail to call mysqldump from java in linux,lang Runtime exec
+javax <extra_id_0> When SAXParserFactory.newSAXParser() throws SAXException?,xml parsers SAXParserFactory newSAXParser
+javax xml parsers SAXParserFactory <extra_id_0> When SAXParserFactory.newSAXParser() throws SAXException?,newSAXParser
+"java lang <extra_id_0> pow (x,y) in Java",Math pow
+"java <extra_id_0> pow (x,y) in Java",lang Math pow
+javax swing <extra_id_0> Change label text before file read happens,SwingUtilities invokeLater
+javax <extra_id_0> Change label text before file read happens,swing SwingUtilities invokeLater
+java util <extra_id_0> Generating Random Doubles in Java,Random nextDouble
+java util Random <extra_id_0> Generating Random Doubles in Java,nextDouble
+java <extra_id_0> What is the default implementation of `hashCode`?,lang Object hashCode
+java lang Object <extra_id_0> What is the default implementation of `hashCode`?,hashCode
+java lang <extra_id_0> How to estimate if the JVM has enough free memory for a particular data structure?,System gc
+java <extra_id_0> How to estimate if the JVM has enough free memory for a particular data structure?,lang System gc
+java lang <extra_id_0> Swing Countdown from 5 to 0,Thread sleep
+java lang Thread <extra_id_0> Swing Countdown from 5 to 0,sleep
+"java nio <extra_id_0> Is there a nice, safe, quick way to write an InputStream to a File in Scala?",file Files copy
+"java <extra_id_0> Is there a nice, safe, quick way to write an InputStream to a File in Scala?",nio file Files copy
+"java lang <extra_id_0> x*x vs Math.pow(x,2) java performance",Math pow
+"java <extra_id_0> x*x vs Math.pow(x,2) java performance",lang Math pow
+java util <extra_id_0> How to get value from Map key in java,Map get
+java <extra_id_0> How to get value from Map key in java,util Map get
+java lang <extra_id_0> CANNOT LINK EXECUTABLE error with required libs loaded. How to link them properly?,System loadLibrary
+java <extra_id_0> CANNOT LINK EXECUTABLE error with required libs loaded. How to link them properly?,lang System loadLibrary
+java util Arrays <extra_id_0> procedure to sort a two dimensional int array depending on column,sort
+java <extra_id_0> procedure to sort a two dimensional int array depending on column,util Arrays sort
+java lang <extra_id_0> How to access static inner Java class via Clojure interop?,Class forName
+java <extra_id_0> How to access static inner Java class via Clojure interop?,lang Class forName
+javax swing <extra_id_0> Swingworker instances not running concurrently,SwingUtilities invokeLater
+javax <extra_id_0> Swingworker instances not running concurrently,swing SwingUtilities invokeLater
+java lang String <extra_id_0> The expressions which evaluate to a boolean value can not be concatenated with a String in Java. Why?,valueOf
+java <extra_id_0> The expressions which evaluate to a boolean value can not be concatenated with a String in Java. Why?,lang String valueOf
+java lang <extra_id_0> Avoid duplicate Strings in Java,String intern
+java lang String <extra_id_0> Avoid duplicate Strings in Java,intern
+java lang <extra_id_0> Prevent Integer.parseInt(str) from using a letter,Integer parseInt
+java <extra_id_0> Prevent Integer.parseInt(str) from using a letter,lang Integer parseInt
+java util <extra_id_0> Java: most efficient way to defensively copy an int[]?,Arrays copyOf
+java <extra_id_0> Java: most efficient way to defensively copy an int[]?,util Arrays copyOf
+java lang <extra_id_0> Android shows blank screen with System.currentTimeMillis(),System currentTimeMillis
+java <extra_id_0> Android shows blank screen with System.currentTimeMillis(),lang System currentTimeMillis
+java lang Integer <extra_id_0> How is the plus operator works in case of calculating integer with object?,intValue
+java lang <extra_id_0> How is the plus operator works in case of calculating integer with object?,Integer intValue
+javax swing SpinnerNumberModel <extra_id_0> How to limit JSpinner,SpinnerNumberModel
+javax <extra_id_0> How to limit JSpinner,swing SpinnerNumberModel SpinnerNumberModel
+java lang <extra_id_0> Simple spring application terminates unless there is a call to Thread.sleep(...),Thread sleep
+java lang Thread <extra_id_0> Simple spring application terminates unless there is a call to Thread.sleep(...),sleep
+java lang <extra_id_0> Only allow integer input in Java,Integer parseInt
+java lang Integer <extra_id_0> Only allow integer input in Java,parseInt
+java <extra_id_0> How can I randomise a certain number of enum values without receiving duplicates?,util Collections shuffle
+java util Collections <extra_id_0> How can I randomise a certain number of enum values without receiving duplicates?,shuffle
+java time <extra_id_0> Duration.parse example,Duration parse
+java <extra_id_0> Duration.parse example,time Duration parse
+java util Arrays <extra_id_0> Error: java.util.Arrays$ArrayList cannot be cast to java.util.ArrayList,asList
+java util <extra_id_0> Error: java.util.Arrays$ArrayList cannot be cast to java.util.ArrayList,Arrays asList
+java <extra_id_0> How to avoid Blank space insertion at the beginning of the String in Java while using Split() function,lang String split
+java lang <extra_id_0> How to avoid Blank space insertion at the beginning of the String in Java while using Split() function,String split
+java util <extra_id_0> How does java.util.Arrays.asList(T...) work?,Arrays asList
+java util Arrays <extra_id_0> How does java.util.Arrays.asList(T...) work?,asList
+java util Collections <extra_id_0> Android: Sorting time stored in firebase database in ascending order,sort
+java util <extra_id_0> Android: Sorting time stored in firebase database in ascending order,Collections sort
+java <extra_id_0> How to count the value of a custom data types in lists?,util Collections frequency
+java util <extra_id_0> How to count the value of a custom data types in lists?,Collections frequency
+java util regex <extra_id_0> Does java.util.regex cache the compiled patterns?,Pattern compile
+java <extra_id_0> Does java.util.regex cache the compiled patterns?,util regex Pattern compile
+"java lang Math <extra_id_0> Updating min variable: min(a,b) vs. if statement",min
+"java lang <extra_id_0> Updating min variable: min(a,b) vs. if statement",Math min
+java <extra_id_0> Get size of an Iterable in Java,util Spliterator estimateSize
+java util Spliterator <extra_id_0> Get size of an Iterable in Java,estimateSize
+java <extra_id_0> Java Wait until threads(Threadpool) finish their work and start another work,util concurrent ExecutorService invokeAll
+java util concurrent <extra_id_0> Java Wait until threads(Threadpool) finish their work and start another work,ExecutorService invokeAll
+java lang <extra_id_0> how can i fetch current date and time of my system in java without using any predefined classes or libraries?,System currentTimeMillis
+java <extra_id_0> how can i fetch current date and time of my system in java without using any predefined classes or libraries?,lang System currentTimeMillis
+java lang <extra_id_0> Is String.format() on Android supposed to be timezone-aware?,String format
+java <extra_id_0> Is String.format() on Android supposed to be timezone-aware?,lang String format
+java <extra_id_0> One liner to check if element is in the list,util Arrays asList
+java util Arrays <extra_id_0> One liner to check if element is in the list,asList
+java <extra_id_0> Split line with with several spaces,lang String split
+java lang String <extra_id_0> Split line with with several spaces,split
+java <extra_id_0> Java/Tomcat and Oracle 10g connection,lang Class forName
+java lang <extra_id_0> Java/Tomcat and Oracle 10g connection,Class forName
+java util <extra_id_0> How do I add an item to a linked list in Java?,Collections sort
+java util Collections <extra_id_0> How do I add an item to a linked list in Java?,sort
+java <extra_id_0> List<Map> to Object[],util List toArray
+java util <extra_id_0> List<Map> to Object[],List toArray
+java lang System <extra_id_0> Set Java exit code without exiting yet,exit
+java <extra_id_0> Set Java exit code without exiting yet,lang System exit
+java <extra_id_0> Will this pause my Java thread for a minute?,lang Thread sleep
+java lang Thread <extra_id_0> Will this pause my Java thread for a minute?,sleep
+"java lang reflect Method <extra_id_0> Java reflection: getMethod(String method, Object[].class) not working",invoke
+"java lang reflect <extra_id_0> Java reflection: getMethod(String method, Object[].class) not working",Method invoke
+java lang System <extra_id_0> java stop people from closing,exit
+java lang <extra_id_0> java stop people from closing,System exit
+java util regex Pattern <extra_id_0> java.util.regex.PatternSyntaxException,quote
+java util <extra_id_0> java.util.regex.PatternSyntaxException,regex Pattern quote
+java util <extra_id_0> Frequency of a value in a list of entities,Collections frequency
+java <extra_id_0> Frequency of a value in a list of entities,util Collections frequency
+java util concurrent LinkedBlockingDeque <extra_id_0> Differnce between addfirst and offerFirst methods in ArrayDeque,LinkedBlockingDeque
+java <extra_id_0> Differnce between addfirst and offerFirst methods in ArrayDeque,util concurrent LinkedBlockingDeque LinkedBlockingDeque
+java util <extra_id_0> How to spot * in regular expressions?,regex Pattern quote
+java util regex <extra_id_0> How to spot * in regular expressions?,Pattern quote
+java <extra_id_0> Sort object array list based on total value,util Collections sort
+java util <extra_id_0> Sort object array list based on total value,Collections sort
+"java util Map <extra_id_0> Map.Entry<?,?> returns as object [Bukkit plugin loader, AddonDescriptionFile]",entrySet
+"java <extra_id_0> Map.Entry<?,?> returns as object [Bukkit plugin loader, AddonDescriptionFile]",util Map entrySet
+java lang <extra_id_0> How to print an already formatted String in Java,String format
+java <extra_id_0> How to print an already formatted String in Java,lang String format
+java <extra_id_0> Java List<string> not adding to list after Arrays.asList() has been used,util Arrays asList
+java util Arrays <extra_id_0> Java List<string> not adding to list after Arrays.asList() has been used,asList
+java lang <extra_id_0> Accurate Sleep for Java on Windows,Thread sleep
+java <extra_id_0> Accurate Sleep for Java on Windows,lang Thread sleep
+java lang <extra_id_0> Differentiate shutdowns more than Runtime.setShutdownHook() in Java,System exit
+java <extra_id_0> Differentiate shutdowns more than Runtime.setShutdownHook() in Java,lang System exit
+java lang String <extra_id_0> Java String trim has no effect,trim
+java <extra_id_0> Java String trim has no effect,lang String trim
+java util <extra_id_0> How to check if a value exists in an array in Java?,Arrays asList
+java <extra_id_0> How to check if a value exists in an array in Java?,util Arrays asList
+java <extra_id_0> Finding Errant Output to System.out in Large Java Program,lang System setOut
+java lang <extra_id_0> Finding Errant Output to System.out in Large Java Program,System setOut
+java <extra_id_0> Java Class.cast() vs. cast operator,lang Class cast
+java lang <extra_id_0> Java Class.cast() vs. cast operator,Class cast
+java lang Thread <extra_id_0> Order of execution and Thread.sleep,sleep
+java lang <extra_id_0> Order of execution and Thread.sleep,Thread sleep
+java <extra_id_0> How to format a 3-digit integer to a 4-digit string?,lang String format
+java lang <extra_id_0> How to format a 3-digit integer to a 4-digit string?,String format
+java lang String <extra_id_0> Count the number of characters between a specific character(Including spaces),split
+java <extra_id_0> Count the number of characters between a specific character(Including spaces),lang String split
+java security Key <extra_id_0> Java Applet Windows-MY keystore PrivateKey getEncoded is null,getEncoded
+java security <extra_id_0> Java Applet Windows-MY keystore PrivateKey getEncoded is null,Key getEncoded
+"java <extra_id_0> Java: sort a String array, whose strings represent int",util Arrays sort
+"java util Arrays <extra_id_0> Java: sort a String array, whose strings represent int",sort
+java <extra_id_0> hashCode() purpose in Java,lang Object hashCode
+java lang Object <extra_id_0> hashCode() purpose in Java,hashCode
+java awt <extra_id_0> How can I switch between jpanels?,CardLayout show
+java awt CardLayout <extra_id_0> How can I switch between jpanels?,show
+java lang Thread <extra_id_0> Why we create new thread and use join() to make parent thread waiting?,join
+java lang <extra_id_0> Why we create new thread and use join() to make parent thread waiting?,Thread join
+java <extra_id_0> how to read multipart entity from android in jersey web service,lang Object toString
+java lang Object <extra_id_0> how to read multipart entity from android in jersey web service,toString
+java <extra_id_0> Mockito and Assertions - two same BigDecimals... not equal,math BigDecimal equals
+java math <extra_id_0> Mockito and Assertions - two same BigDecimals... not equal,BigDecimal equals
+java lang <extra_id_0> See if an object is an instance of a class passed through a string,Class forName
+java lang Class <extra_id_0> See if an object is an instance of a class passed through a string,forName
+java util Arrays <extra_id_0> How to create a String of an array,toString
+java util <extra_id_0> How to create a String of an array,Arrays toString
+java lang <extra_id_0> Unable to send parameters to bash script from java,Runtime exec
+java <extra_id_0> Unable to send parameters to bash script from java,lang Runtime exec
+java lang Integer <extra_id_0> competitive programming and input,parseInt
+java <extra_id_0> competitive programming and input,lang Integer parseInt
+java <extra_id_0> use Logger.getLogger() every time I need it or create once per class,util logging Logger getLogger
+java util logging <extra_id_0> use Logger.getLogger() every time I need it or create once per class,Logger getLogger
+java <extra_id_0> Apache StringUtils vs Java implementation of replace(),lang String replace
+java lang String <extra_id_0> Apache StringUtils vs Java implementation of replace(),replace
+java util List <extra_id_0> Iterate from specific index,subList
+java <extra_id_0> Iterate from specific index,util List subList
+java util <extra_id_0> How to sort an array list according to different criteria?,Collections sort
+java <extra_id_0> How to sort an array list according to different criteria?,util Collections sort
+java <extra_id_0> How to check if file name already exists?,io File exists
+java io <extra_id_0> How to check if file name already exists?,File exists
+java <extra_id_0> Check if class exists in Java classpath without running its static initializer?,lang Class forName
+java lang Class <extra_id_0> Check if class exists in Java classpath without running its static initializer?,forName
+javafx <extra_id_0> How to open an additional window in a JavaFX FXML app?,stage Stage showAndWait
+javafx stage Stage <extra_id_0> How to open an additional window in a JavaFX FXML app?,showAndWait
+"java lang <extra_id_0> Error:(136, 81) error: incompatible types: String cannot be converted to int",Integer parseInt
+"java lang Integer <extra_id_0> Error:(136, 81) error: incompatible types: String cannot be converted to int",parseInt
+java util <extra_id_0> unexpected output while converting a string to date in java,Date toString
+java <extra_id_0> unexpected output while converting a string to date in java,util Date toString
+"java lang Double <extra_id_0> Java variable shows value of 'NaN' but var == Double.NaN is false, why?",isNaN
+"java lang <extra_id_0> Java variable shows value of 'NaN' but var == Double.NaN is false, why?",Double isNaN
+java util <extra_id_0> check if a collection is empty in java : Which is the best method,List isEmpty
+java <extra_id_0> check if a collection is empty in java : Which is the best method,util List isEmpty
+javax imageio <extra_id_0> Lazily loading images in Java,ImageIO read
+javax imageio ImageIO <extra_id_0> Lazily loading images in Java,read
+java lang Thread <extra_id_0> Problems with displaying JLabels one after the other with a delay,sleep
+java <extra_id_0> Problems with displaying JLabels one after the other with a delay,lang Thread sleep
+java lang String <extra_id_0> Linked list find() method . How to,equals
+java lang <extra_id_0> Linked list find() method . How to,String equals
+"java lang String <extra_id_0> Java: How to fill placeholders in a text with Map<String,String>?",format
+"java lang <extra_id_0> Java: How to fill placeholders in a text with Map<String,String>?",String format
+java lang Class <extra_id_0> Call getMethod with a subclass as method argument,getMethod
+java <extra_id_0> Call getMethod with a subclass as method argument,lang Class getMethod
+java util Collections <extra_id_0> Java - threadsafe collection that sorts on remove/take,sort
+java <extra_id_0> Java - threadsafe collection that sorts on remove/take,util Collections sort
+java math <extra_id_0> Why does BigDecimal divide cause rounding when it should fit within the significant digits?,BigDecimal divide
+java <extra_id_0> Why does BigDecimal divide cause rounding when it should fit within the significant digits?,math BigDecimal divide
+java util Collections <extra_id_0> What function can be used to sort a Vector?,sort
+java <extra_id_0> What function can be used to sort a Vector?,util Collections sort
+javax sound midi MidiSystem <extra_id_0> How to get a reference to a non default MIDI Sequencer?,getSequencer
+javax sound midi <extra_id_0> How to get a reference to a non default MIDI Sequencer?,MidiSystem getSequencer
+java <extra_id_0> Java box then widen on == operator,lang Integer valueOf
+java lang <extra_id_0> Java box then widen on == operator,Integer valueOf
+java lang <extra_id_0> What is the best way to extract the first word from a string in Java?,String split
+java <extra_id_0> What is the best way to extract the first word from a string in Java?,lang String split
+java lang reflect <extra_id_0> Java reflection - impact of setAccessible(true),AccessibleObject setAccessible
+java lang reflect AccessibleObject <extra_id_0> Java reflection - impact of setAccessible(true),setAccessible
+java util Collections <extra_id_0> adding regex to a list for sorting,sort
+java util <extra_id_0> adding regex to a list for sorting,Collections sort
+java lang Class <extra_id_0> Using string value as className for calling methods,forName
+java <extra_id_0> Using string value as className for calling methods,lang Class forName
+java nio <extra_id_0> What state should wrapped ByteBuffers be returned in?,ByteBuffer wrap
+java nio ByteBuffer <extra_id_0> What state should wrapped ByteBuffers be returned in?,wrap
+java <extra_id_0> Does finally always execute in Java?,lang System exit
+java lang System <extra_id_0> Does finally always execute in Java?,exit
+javafx scene Node <extra_id_0> Is there more than one caret in JavaFX TextField?,focusTraversableProperty
+javafx scene <extra_id_0> Is there more than one caret in JavaFX TextField?,Node focusTraversableProperty
+javax swing <extra_id_0> JSplitPane propertyChange event in Swing,SwingUtilities invokeLater
+javax <extra_id_0> JSplitPane propertyChange event in Swing,swing SwingUtilities invokeLater
+java <extra_id_0> How can we make a for loop that happens every amount of time?,lang Thread sleep
+java lang Thread <extra_id_0> How can we make a for loop that happens every amount of time?,sleep
+java net <extra_id_0> How to configure JMX to bind to localhost only?,InetAddress getByName
+java <extra_id_0> How to configure JMX to bind to localhost only?,net InetAddress getByName
+java util stream IntStream <extra_id_0> For loop - like Python range function,range
+java <extra_id_0> For loop - like Python range function,util stream IntStream range
+java lang String <extra_id_0> StringIndexOutOfBoundsException while loop with charat(),charAt
+java <extra_id_0> StringIndexOutOfBoundsException while loop with charat(),lang String charAt
+"java <extra_id_0> Cannot load connection class because of underlying exception: 'java.lang.NumberFormatException: For input string: ""OPENSHIFT_MYSQL_DB_PORT""'",sql DriverManager getConnection
+"java sql DriverManager <extra_id_0> Cannot load connection class because of underlying exception: 'java.lang.NumberFormatException: For input string: ""OPENSHIFT_MYSQL_DB_PORT""'",getConnection
+java lang Object <extra_id_0> A member variable's hashCode() value is different,hashCode
+java <extra_id_0> A member variable's hashCode() value is different,lang Object hashCode
+java <extra_id_0> How to change the tray icon with Java?,awt TrayIcon setImage
+java awt <extra_id_0> How to change the tray icon with Java?,TrayIcon setImage
+java lang <extra_id_0> How can I tell who calls System.gc()?,System gc
+java lang System <extra_id_0> How can I tell who calls System.gc()?,gc
+java <extra_id_0> Sorting and comparing XML from Java,util Collections sort
+java util Collections <extra_id_0> Sorting and comparing XML from Java,sort
+java <extra_id_0> Console class in java Exception in reading password,lang System console
+java lang <extra_id_0> Console class in java Exception in reading password,System console
+java <extra_id_0> Java: does Reader.close() close any chained Readers?,io BufferedReader close
+java io <extra_id_0> Java: does Reader.close() close any chained Readers?,BufferedReader close
+java <extra_id_0> how to show the list data in ascending order?,util Collections sort
+java util Collections <extra_id_0> how to show the list data in ascending order?,sort
+java util regex Pattern <extra_id_0> Validate IPv4 address in Java,compile
+java util <extra_id_0> Validate IPv4 address in Java,regex Pattern compile
+java lang Thread <extra_id_0> Difference in output from use of synchronized keyword and join(),join
+java <extra_id_0> Difference in output from use of synchronized keyword and join(),lang Thread join
+java util <extra_id_0> The best way to transform int[] to List<Integer> in Java?,Arrays asList
+java util Arrays <extra_id_0> The best way to transform int[] to List<Integer> in Java?,asList
+javax xml bind JAXBContext <extra_id_0> Confusing ClassNotFoundException when instantiating JAXBContext with packageName and Classloader,newInstance
+javax <extra_id_0> Confusing ClassNotFoundException when instantiating JAXBContext with packageName and Classloader,xml bind JAXBContext newInstance
+java util Set <extra_id_0> LinkedHashSet Documentation Ambiguity: Re-insert,add
+java util <extra_id_0> LinkedHashSet Documentation Ambiguity: Re-insert,Set add
+"java <extra_id_0> Using regex to verify an int, my way isnt working",lang Integer parseInt
+"java lang Integer <extra_id_0> Using regex to verify an int, my way isnt working",parseInt
+java <extra_id_0> Server Socket Keeps Reading Data Until I close Socket from Client In Java,io BufferedReader readLine
+java io <extra_id_0> Server Socket Keeps Reading Data Until I close Socket from Client In Java,BufferedReader readLine
+java lang <extra_id_0> Override properties file when running jar,System getProperty
+java <extra_id_0> Override properties file when running jar,lang System getProperty
+java util Collections <extra_id_0> Sorting ArrayList of Objects by Object attribute,sort
+java <extra_id_0> Sorting ArrayList of Objects by Object attribute,util Collections sort
+java <extra_id_0> Trying to convert String to Integer,lang Integer parseInt
+java lang Integer <extra_id_0> Trying to convert String to Integer,parseInt
+javax swing <extra_id_0> Java Swing JFrame to be rendered before moving on,SwingUtilities invokeLater
+javax <extra_id_0> Java Swing JFrame to be rendered before moving on,swing SwingUtilities invokeLater
+java lang System <extra_id_0> Java job interview. How many objects are eligible for garbage collection?,gc
+java lang <extra_id_0> Java job interview. How many objects are eligible for garbage collection?,System gc
+java lang <extra_id_0> Difference between these two appraoch in calling equals method?,String equals
+java <extra_id_0> Difference between these two appraoch in calling equals method?,lang String equals
+java lang System <extra_id_0> Clicking the back button twice to exit an activity,currentTimeMillis
+java <extra_id_0> Clicking the back button twice to exit an activity,lang System currentTimeMillis
+java lang Process <extra_id_0> Linux terminal Output to JTextpane,waitFor
+java <extra_id_0> Linux terminal Output to JTextpane,lang Process waitFor
+java util <extra_id_0> How do I remove some characters from my String,regex Pattern quote
+java <extra_id_0> How do I remove some characters from my String,util regex Pattern quote
+java lang String <extra_id_0> How to evaluate >9 number in a String expression Java,replaceAll
+java <extra_id_0> How to evaluate >9 number in a String expression Java,lang String replaceAll
+java util stream Stream <extra_id_0> Collectors.groupingBy and map,map
+java util <extra_id_0> Collectors.groupingBy and map,stream Stream map
+java lang <extra_id_0> Move decimal point in double,Double toString
+java <extra_id_0> Move decimal point in double,lang Double toString
+java lang System <extra_id_0> how to make sure no jvm and compiler optimization occurs,currentTimeMillis
+java lang <extra_id_0> how to make sure no jvm and compiler optimization occurs,System currentTimeMillis
+java util <extra_id_0> Split with multiple delimiters not working,regex Pattern quote
+java util regex Pattern <extra_id_0> Split with multiple delimiters not working,quote
+javax <extra_id_0> Java slideshow image delay using paintComponent,imageio ImageIO read
+javax imageio ImageIO <extra_id_0> Java slideshow image delay using paintComponent,read
+java lang <extra_id_0> binary to decimal using CharAt( ) and length( ),Math pow
+java <extra_id_0> binary to decimal using CharAt( ) and length( ),lang Math pow
+java util <extra_id_0> ArrayList<object> inside ArrayList<anotherObject> inside a class,ArrayList add
+java <extra_id_0> ArrayList<object> inside ArrayList<anotherObject> inside a class,util ArrayList add
+java util regex Matcher <extra_id_0> Recursively replace regex find with path in the regex,appendReplacement
+java <extra_id_0> Recursively replace regex find with path in the regex,util regex Matcher appendReplacement
+java <extra_id_0> How to Declare a Byte Array of Infinite Size/Dynamic in Java?,lang Byte valueOf
+java lang <extra_id_0> How to Declare a Byte Array of Infinite Size/Dynamic in Java?,Byte valueOf
+java <extra_id_0> Java - Issue with Collections.sort(),lang Comparable compareTo
+java lang Comparable <extra_id_0> Java - Issue with Collections.sort(),compareTo
+java <extra_id_0> JAVA replacing a String without replacing it many times,lang String getChars
+java lang <extra_id_0> JAVA replacing a String without replacing it many times,String getChars
+java <extra_id_0> Bukkit API why won't it recognize these blocks,lang Enum name
+java lang Enum <extra_id_0> Bukkit API why won't it recognize these blocks,name
+java <extra_id_0> Joda-time off-by-one error when counting days after 1918-03-24,time ZoneId systemDefault
+java time ZoneId <extra_id_0> Joda-time off-by-one error when counting days after 1918-03-24,systemDefault
+java io <extra_id_0> Java InputStreamReader invariable stalls,InputStream read
+java <extra_id_0> Java InputStreamReader invariable stalls,io InputStream read
+java lang <extra_id_0> JOptionPane and reading integers - Beginner Java,Integer parseInt
+java lang Integer <extra_id_0> JOptionPane and reading integers - Beginner Java,parseInt
+java util <extra_id_0> How to find total number of different items within an arraylist.,HashSet HashSet
+java <extra_id_0> How to find total number of different items within an arraylist.,util HashSet HashSet
+java lang <extra_id_0> Head First Java: Target Random number is always zero,Math random
+java lang Math <extra_id_0> Head First Java: Target Random number is always zero,random
+java util List <extra_id_0> Separating an array into Strings,get
+java util <extra_id_0> Separating an array into Strings,List get
+javax <extra_id_0> How can I use custom Look&Feel theme in Netbeans?,swing UIManager getSystemLookAndFeelClassName
+javax swing UIManager <extra_id_0> How can I use custom Look&Feel theme in Netbeans?,getSystemLookAndFeelClassName
+javax <extra_id_0> java.net.MalformedURLException: Protocol not found. Reason?,xml parsers DocumentBuilder parse
+javax xml parsers DocumentBuilder <extra_id_0> java.net.MalformedURLException: Protocol not found. Reason?,parse
+javax swing SwingUtilities <extra_id_0> how to kill a thread with swing?,invokeLater
+javax <extra_id_0> how to kill a thread with swing?,swing SwingUtilities invokeLater
+java lang <extra_id_0> How to check if a subclass is an instance of a class at runtime?,Class isAssignableFrom
+java lang Class <extra_id_0> How to check if a subclass is an instance of a class at runtime?,isAssignableFrom
+java lang <extra_id_0> how to convert from decimal to ASCII characters,Integer toString
+java lang Integer <extra_id_0> how to convert from decimal to ASCII characters,toString
+java util Scanner <extra_id_0> More character to scanner?,nextLong
+java util <extra_id_0> More character to scanner?,Scanner nextLong
+java util List <extra_id_0> Java effectively deleting object,remove
+java <extra_id_0> Java effectively deleting object,util List remove
+java <extra_id_0> Reproduce behavior MAX_VALUE and MIN_VALUE,lang Long remainderUnsigned
+java lang <extra_id_0> Reproduce behavior MAX_VALUE and MIN_VALUE,Long remainderUnsigned
+java util Properties <extra_id_0> how to search for string in file,load
+java util <extra_id_0> how to search for string in file,Properties load
+java lang String <extra_id_0> how to find all methods called in a methods including Lamda?,valueOf
+java lang <extra_id_0> how to find all methods called in a methods including Lamda?,String valueOf
+java lang <extra_id_0> Java - Object runs an external process: how to stop it?,Process destroy
+java lang Process <extra_id_0> Java - Object runs an external process: how to stop it?,destroy
+"java <extra_id_0> Java static and dynamic binding, upcast, overloading mixed together",lang Object equals
+"java lang <extra_id_0> Java static and dynamic binding, upcast, overloading mixed together",Object equals
+javax swing SwingUtilities <extra_id_0> JPanel doesn't repaint if repaint() is called within JFrame code,invokeLater
+javax swing <extra_id_0> JPanel doesn't repaint if repaint() is called within JFrame code,SwingUtilities invokeLater
+java <extra_id_0> How to determine the file extension of a file from a uri,net URLConnection guessContentTypeFromName
+java net <extra_id_0> How to determine the file extension of a file from a uri,URLConnection guessContentTypeFromName
+java lang <extra_id_0> How to refresh src/main/resources folder while executing the code?,ClassLoader getResource
+java <extra_id_0> How to refresh src/main/resources folder while executing the code?,lang ClassLoader getResource
+java lang Object <extra_id_0> Why does the default Object.toString() return a hex representation of the hashCode?,hashCode
+java lang <extra_id_0> Why does the default Object.toString() return a hex representation of the hashCode?,Object hashCode
+java util <extra_id_0> i do not understand the comparison,ArrayList indexOf
+java <extra_id_0> i do not understand the comparison,util ArrayList indexOf
+java lang <extra_id_0> String array[0] don't pass at the if,String equals
+java lang String <extra_id_0> String array[0] don't pass at the if,equals
+java lang <extra_id_0> How to improve this with a 2 dimensional array,String contains
+java <extra_id_0> How to improve this with a 2 dimensional array,lang String contains
+java time Duration <extra_id_0> Java8 : LocalDateTime or TimeStamp,toDays
+java time <extra_id_0> Java8 : LocalDateTime or TimeStamp,Duration toDays
+java <extra_id_0> Collectors.toMap with same keys(print same key),util Arrays asList
+java util Arrays <extra_id_0> Collectors.toMap with same keys(print same key),asList
+java <extra_id_0> Java - Reflection how to find the type is enum,lang Class isEnum
+java lang <extra_id_0> Java - Reflection how to find the type is enum,Class isEnum
+java util <extra_id_0> Composition relation using abstract classes-Java,ArrayList get
+java util ArrayList <extra_id_0> Composition relation using abstract classes-Java,get
+java <extra_id_0> check if there are any elements from one arraylist in another one and print the same elements,util Collection retainAll
+java util <extra_id_0> check if there are any elements from one arraylist in another one and print the same elements,Collection retainAll
+java <extra_id_0> Test multiple .equals() at once,lang String equals
+java lang <extra_id_0> Test multiple .equals() at once,String equals
+java lang <extra_id_0> Exporting Runnable jar loses directory structure,ClassLoader getResource
+java lang ClassLoader <extra_id_0> Exporting Runnable jar loses directory structure,getResource
+java <extra_id_0> Choose an object randomly with different probability,util TreeMap ceilingEntry
+java util TreeMap <extra_id_0> Choose an object randomly with different probability,ceilingEntry
+java util <extra_id_0> How do I get the current time in Swatch Internet Time in Java?,TimeZone getTimeZone
+java <extra_id_0> How do I get the current time in Swatch Internet Time in Java?,util TimeZone getTimeZone
+java lang <extra_id_0> How to convert a python regexp to java,String format
+java <extra_id_0> How to convert a python regexp to java,lang String format
+java lang System <extra_id_0> Messing with java finalize(),gc
+java lang <extra_id_0> Messing with java finalize(),System gc
+java lang <extra_id_0> NullPointer Exception java arrays,System arraycopy
+java lang System <extra_id_0> NullPointer Exception java arrays,arraycopy
+java <extra_id_0> Converting from byte to int in java,lang Byte Byte
+java lang <extra_id_0> Converting from byte to int in java,Byte Byte
+java lang Class <extra_id_0> When Java class is instance of Serializable,isAssignableFrom
+java <extra_id_0> When Java class is instance of Serializable,lang Class isAssignableFrom
+java lang <extra_id_0> Count number of ocorrences with regex,String matches
+java <extra_id_0> Count number of ocorrences with regex,lang String matches
+java util <extra_id_0> How to retrieve images from server to user using Struts 2,Base64 getEncoder
+java util Base64 <extra_id_0> How to retrieve images from server to user using Struts 2,getEncoder
+java lang Class <extra_id_0> type of parameter when using java reflection,getDeclaredMethod
+java lang <extra_id_0> type of parameter when using java reflection,Class getDeclaredMethod
+java lang <extra_id_0> Sun's JVM heap size limit on Ubuntu 64-bit,Runtime maxMemory
+java <extra_id_0> Sun's JVM heap size limit on Ubuntu 64-bit,lang Runtime maxMemory
+java <extra_id_0> Java IO Pattern recognition,util regex Pattern matcher
+java util regex <extra_id_0> Java IO Pattern recognition,Pattern matcher
+java <extra_id_0> Running non-existing jar does not cause any expection/error,lang Process waitFor
+java lang Process <extra_id_0> Running non-existing jar does not cause any expection/error,waitFor
+java lang <extra_id_0> Access generic argument of the return type,reflect Method getGenericReturnType
+java <extra_id_0> Access generic argument of the return type,lang reflect Method getGenericReturnType
+java lang String <extra_id_0> WHats wrong with this code for palindrome of a string array,equals
+java <extra_id_0> WHats wrong with this code for palindrome of a string array,lang String equals
+java <extra_id_0> How can I detect if file not found for execution by ProcessBuilder in Java?,lang ProcessBuilder start
+java lang <extra_id_0> How can I detect if file not found for execution by ProcessBuilder in Java?,ProcessBuilder start
+org omg CORBA portable InputStream <extra_id_0> Is it safe to return while EOFException occurred,read
+org <extra_id_0> Is it safe to return while EOFException occurred,omg CORBA portable InputStream read
+java <extra_id_0> How to handle type generics for variables in Java methods?,util Arrays asList
+java util <extra_id_0> How to handle type generics for variables in Java methods?,Arrays asList
+java util regex <extra_id_0> Matcher.appendReplacement with literal text,Pattern compile
+java util regex Pattern <extra_id_0> Matcher.appendReplacement with literal text,compile
+java io <extra_id_0> Java get parent of parent,File getParentFile
+java io File <extra_id_0> Java get parent of parent,getParentFile
+java util <extra_id_0> How to restrict input from user to a numeric value?,Scanner hasNextDouble
+java util Scanner <extra_id_0> How to restrict input from user to a numeric value?,hasNextDouble
+java util Calendar <extra_id_0> Java typecasting and inheritance,getTime
+java <extra_id_0> Java typecasting and inheritance,util Calendar getTime
+java <extra_id_0> How to set automatic file name creator according to current time?,lang System currentTimeMillis
+java lang <extra_id_0> How to set automatic file name creator according to current time?,System currentTimeMillis
+java util Collections <extra_id_0> ConcurrentModificationException In a Java BO,synchronizedList
+java <extra_id_0> ConcurrentModificationException In a Java BO,util Collections synchronizedList
+java lang Float <extra_id_0> How to pass a stack into a method,parseFloat
+java <extra_id_0> How to pass a stack into a method,lang Float parseFloat
+java lang System <extra_id_0> My Java program - find path - does not output anything,out
+java <extra_id_0> My Java program - find path - does not output anything,lang System out
+javax swing <extra_id_0> JFileChooser getCurrentDirectory returning wrong current directory?,JFileChooser getSelectedFile
+javax <extra_id_0> JFileChooser getCurrentDirectory returning wrong current directory?,swing JFileChooser getSelectedFile
+java lang <extra_id_0> Minimize content of the Java stack trace,StackTraceElement getFileName
+java <extra_id_0> Minimize content of the Java stack trace,lang StackTraceElement getFileName
+"java awt Container <extra_id_0> How can I get the component at the mouse click position, when using a TableCellEditor?",findComponentAt
+"java <extra_id_0> How can I get the component at the mouse click position, when using a TableCellEditor?",awt Container findComponentAt
+java net <extra_id_0> Question about streams in Java,Socket getOutputStream
+java net Socket <extra_id_0> Question about streams in Java,getOutputStream
+java nio file Files <extra_id_0> Java 8 stream to file,write
+java nio file <extra_id_0> Java 8 stream to file,Files write
+java lang <extra_id_0> Why Java uses 'equals' instead of '==' to check an object's presence in a Map?,Object equals
+java lang Object <extra_id_0> Why Java uses 'equals' instead of '==' to check an object's presence in a Map?,equals
+java lang Object <extra_id_0> Why does HashSet say it does not contain this Object?,hashCode
+java lang <extra_id_0> Why does HashSet say it does not contain this Object?,Object hashCode
+java math BigDecimal <extra_id_0> Multiplying two numbers using BigDecimal returns a wrong value,valueOf
+java <extra_id_0> Multiplying two numbers using BigDecimal returns a wrong value,math BigDecimal valueOf
+java util Observer <extra_id_0> Is it considered as bad practice to update observers in fileds' setters?,update
+java util <extra_id_0> Is it considered as bad practice to update observers in fileds' setters?,Observer update
+java lang Byte <extra_id_0> How do you make a byte into a binary number and not to a string in java,parseByte
+java lang <extra_id_0> How do you make a byte into a binary number and not to a string in java,Byte parseByte
+javax swing <extra_id_0> Closing previous window from JFileChooser Open button,SwingUtilities getWindowAncestor
+javax <extra_id_0> Closing previous window from JFileChooser Open button,swing SwingUtilities getWindowAncestor
+java lang <extra_id_0> How to read this text ①② in a SJIS file?,Character toChars
+java lang Character <extra_id_0> How to read this text ①② in a SJIS file?,toChars
+java lang Integer <extra_id_0> How exactly we need to use the type cast?,parseInt
+java <extra_id_0> How exactly we need to use the type cast?,lang Integer parseInt
+java lang <extra_id_0> How to get the palindrome of a string in Java,StringBuilder reverse
+java lang StringBuilder <extra_id_0> How to get the palindrome of a string in Java,reverse
+javax <extra_id_0> Swing component flickering when updated a lot,swing SwingUtilities invokeAndWait
+javax swing SwingUtilities <extra_id_0> Swing component flickering when updated a lot,invokeAndWait
+java util <extra_id_0> Sum of the distincts Extended Description,stream Stream distinct
+java <extra_id_0> Sum of the distincts Extended Description,util stream Stream distinct
+java <extra_id_0> Convert Jetty Buffer to InputStream,io InputStream read
+java io <extra_id_0> Convert Jetty Buffer to InputStream,InputStream read
+java io <extra_id_0> Make PrintWriter or OutputStreamWriter print immediately,Writer flush
+java io Writer <extra_id_0> Make PrintWriter or OutputStreamWriter print immediately,flush
+java <extra_id_0> Will Java's garbage collector interrupt a thread?,lang Object wait
+java lang Object <extra_id_0> Will Java's garbage collector interrupt a thread?,wait
+java lang Class <extra_id_0> Java - Comparing classes?,isAssignableFrom
+java lang <extra_id_0> Java - Comparing classes?,Class isAssignableFrom
+java lang <extra_id_0> Synchronized block - Java,Thread sleep
+java lang Thread <extra_id_0> Synchronized block - Java,sleep
+java util <extra_id_0> How to validate that a Java 8 Stream has two specific elements in it?,stream package-summary StreamOps
+java util stream <extra_id_0> How to validate that a Java 8 Stream has two specific elements in it?,package-summary StreamOps
+java lang Class <extra_id_0> J2ME common api for all phone models,forName
+java lang <extra_id_0> J2ME common api for all phone models,Class forName
+java awt GridBagLayout <extra_id_0> How to make draggable components with ImageIcon,setConstraints
+java <extra_id_0> How to make draggable components with ImageIcon,awt GridBagLayout setConstraints
+java io BufferedReader <extra_id_0> Java Trying to debug NullPointerException,readLine
+java io <extra_id_0> Java Trying to debug NullPointerException,BufferedReader readLine
+java lang <extra_id_0> Java: Ways to access Properties object after load,System getProperty
+java lang System <extra_id_0> Java: Ways to access Properties object after load,getProperty
+java lang <extra_id_0> Many versions of JDK: How do I specify which one is used?,String isEmpty
+java lang String <extra_id_0> Many versions of JDK: How do I specify which one is used?,isEmpty
+java util Scanner <extra_id_0> Problems with charAt() method in Java,nextLine
+java <extra_id_0> Problems with charAt() method in Java,util Scanner nextLine
+java <extra_id_0> image.setRGB() not working as intended,lang Thread sleep
+java lang <extra_id_0> image.setRGB() not working as intended,Thread sleep
+java nio file Files <extra_id_0> make a backup copy using JFileChooser,copy
+java <extra_id_0> make a backup copy using JFileChooser,nio file Files copy
+java awt Component <extra_id_0> Auto calls to painting methods (Java) when I'm app-triggering (not interested in synchronously but async) in a loop,repaint
+java <extra_id_0> Auto calls to painting methods (Java) when I'm app-triggering (not interested in synchronously but async) in a loop,awt Component repaint
+java <extra_id_0> java : mapping the Values from Enumeration to Object,util Vector elementAt
+java util Vector <extra_id_0> java : mapping the Values from Enumeration to Object,elementAt
+java util Collections <extra_id_0> Java synchronization and performance in an aspect,synchronizedList
+java util <extra_id_0> Java synchronization and performance in an aspect,Collections synchronizedList
+javax swing JOptionPane <extra_id_0> How do I call a method which has Graphics g as its parameters?,showMessageDialog
+javax swing <extra_id_0> How do I call a method which has Graphics g as its parameters?,JOptionPane showMessageDialog
+java util <extra_id_0> Use method to compare lists,Collections disjoint
+java util Collections <extra_id_0> Use method to compare lists,disjoint
+java lang Long <extra_id_0> Convert an int to hex in Java,bitCount
+java lang <extra_id_0> Convert an int to hex in Java,Long bitCount
+javax swing AbstractButton <extra_id_0> How do I Click a JButton without the user Clicking it?,doClick
+javax <extra_id_0> How do I Click a JButton without the user Clicking it?,swing AbstractButton doClick
+java <extra_id_0> Why can't enum's constructor access static fields?,util EnumSet allOf
+java util EnumSet <extra_id_0> Why can't enum's constructor access static fields?,allOf
+java lang <extra_id_0> Java WebStart: <property ...> ignored when using <extension>?,System getProperty
+java <extra_id_0> Java WebStart: <property ...> ignored when using <extension>?,lang System getProperty
+java <extra_id_0> Question about reflection package,lang Class forName
+java lang Class <extra_id_0> Question about reflection package,forName
+java <extra_id_0> How to get the class type for which a collection object is created using reflection,lang reflect Method getGenericReturnType
+java lang reflect Method <extra_id_0> How to get the class type for which a collection object is created using reflection,getGenericReturnType
+java <extra_id_0> Is this class Threadsafe?,util Map entrySet
+java util Map <extra_id_0> Is this class Threadsafe?,entrySet
+java util Scanner <extra_id_0> Problem in looping when using method in Java,nextInt
+java <extra_id_0> Problem in looping when using method in Java,util Scanner nextInt
+java <extra_id_0> How to 'clean' InputStream without closing it?,lang StringBuilder setLength
+java lang StringBuilder <extra_id_0> How to 'clean' InputStream without closing it?,setLength
+java lang <extra_id_0> Automatic conversion of numeric objects to their natives,Double TYPE
+java lang Double <extra_id_0> Automatic conversion of numeric objects to their natives,TYPE
+java <extra_id_0> Can you pull apart a string?,lang String substring
+java lang String <extra_id_0> Can you pull apart a string?,substring
+java util <extra_id_0> JAVA: ImmutableSet as List,ArrayList ArrayList
+java <extra_id_0> JAVA: ImmutableSet as List,util ArrayList ArrayList
+java <extra_id_0> Returning the value that for statement prints,lang Integer parseInt
+java lang <extra_id_0> Returning the value that for statement prints,Integer parseInt
+java lang <extra_id_0> Java: Combination function yields decimal number,Math round
+java <extra_id_0> Java: Combination function yields decimal number,lang Math round
+java nio charset <extra_id_0> Is Java UTF-8 Charset exception possible?,Charset forName
+java nio charset Charset <extra_id_0> Is Java UTF-8 Charset exception possible?,forName
+java <extra_id_0> Check if String contains regex match,lang String split
+java lang <extra_id_0> Check if String contains regex match,String split
+java <extra_id_0> Exception generated for is.readObject. why?,io ObjectInputStream available
+java io ObjectInputStream <extra_id_0> Exception generated for is.readObject. why?,available
+java <extra_id_0> Different threads synchronizing on different objects,io PrintStream println
+java io PrintStream <extra_id_0> Different threads synchronizing on different objects,println
+java util HashMap <extra_id_0> How to access running threads inside ThreadPoolExecutor?,keySet
+java util <extra_id_0> How to access running threads inside ThreadPoolExecutor?,HashMap keySet
+java <extra_id_0> Java how to check if a string value is a type of given Class<?>,beans PropertyEditorManager registerEditor
+java beans PropertyEditorManager <extra_id_0> Java how to check if a string value is a type of given Class<?>,registerEditor
+java lang <extra_id_0> JAVA - cast using class obtained by its name (string value),Class cast
+java lang Class <extra_id_0> JAVA - cast using class obtained by its name (string value),cast
+java <extra_id_0> typecast vs using valueOf,lang Double valueOf
+java lang Double <extra_id_0> typecast vs using valueOf,valueOf
+java lang Thread <extra_id_0> how to use Thread in java?,join
+java lang <extra_id_0> how to use Thread in java?,Thread join
+java io BufferedReader <extra_id_0> Java server program for non line-oriented application-level protocol,read
+java io <extra_id_0> Java server program for non line-oriented application-level protocol,BufferedReader read
+java lang Long <extra_id_0> Parsing big hexadecimal numbers in Java,parseLong
+java <extra_id_0> Parsing big hexadecimal numbers in Java,lang Long parseLong
+java lang <extra_id_0> My string does not match my regex even though it is correct on regex101,String trim
+java <extra_id_0> My string does not match my regex even though it is correct on regex101,lang String trim
+java <extra_id_0> Why is this Hive QL expression failing?,lang Integer reverseBytes
+java lang <extra_id_0> Why is this Hive QL expression failing?,Integer reverseBytes
+java io PrintStream <extra_id_0> System.out.printf vs System.out.format,printf
+java <extra_id_0> System.out.printf vs System.out.format,io PrintStream printf
+java lang <extra_id_0> How can i use timer in Java,Thread sleep
+java lang Thread <extra_id_0> How can i use timer in Java,sleep
+java <extra_id_0> Java applet dependencies fetched multiple times,net URL openStream
+java net URL <extra_id_0> Java applet dependencies fetched multiple times,openStream
+javafx <extra_id_0> FloatField (TextField for floats in javafx)?,scene control cell TextFieldTableCell forTableColumn
+javafx scene <extra_id_0> FloatField (TextField for floats in javafx)?,control cell TextFieldTableCell forTableColumn
+java <extra_id_0> Java -- reading from a file. Input stream vs. reader,io InputStream available
+java io <extra_id_0> Java -- reading from a file. Input stream vs. reader,InputStream available
+java util Date <extra_id_0> Year incorrect when setting Date value from Calendar.getTime(),getYear
+java <extra_id_0> Year incorrect when setting Date value from Calendar.getTime(),util Date getYear
+java <extra_id_0> having trouble with contains method,util Scanner next
+java util Scanner <extra_id_0> having trouble with contains method,next
+java util stream <extra_id_0> How do I get this 2D Array to rotate to the right 90 degrees?,Stream of
+java util <extra_id_0> How do I get this 2D Array to rotate to the right 90 degrees?,stream Stream of
+java <extra_id_0> Serialization of Method object in Java is possible?,lang Class forName
+java lang Class <extra_id_0> Serialization of Method object in Java is possible?,forName
+java lang String <extra_id_0> Converting arrays/pointers from C to Java,charAt
+java lang <extra_id_0> Converting arrays/pointers from C to Java,String charAt
+java util Locale <extra_id_0> Changing the English Country names to German language using Locale,getDisplayCountry
+java <extra_id_0> Changing the English Country names to German language using Locale,util Locale getDisplayCountry
+java util ArrayList <extra_id_0> Not understanding Java bracket array correctly?,add
+java <extra_id_0> Not understanding Java bracket array correctly?,util ArrayList add
+java lang Thread <extra_id_0> java - How to retrieve anything inside method,sleep
+java lang <extra_id_0> java - How to retrieve anything inside method,Thread sleep
+java <extra_id_0> Java: Porting simple operations from Python to Java/ List Processing,util Arrays asList
+java util Arrays <extra_id_0> Java: Porting simple operations from Python to Java/ List Processing,asList
+java lang Integer <extra_id_0> how to order random values by hashcode in hashmap,hashCode
+java lang <extra_id_0> how to order random values by hashcode in hashmap,Integer hashCode
+java lang String <extra_id_0> How can I only show three digists of the double value,format
+java lang <extra_id_0> How can I only show three digists of the double value,String format
+java <extra_id_0> Is there inner exception concept in java,lang Throwable getCause
+java lang Throwable <extra_id_0> Is there inner exception concept in java,getCause
+javax swing JFileChooser <extra_id_0> Add .txt extension in JFileChooser,getSelectedFile
+javax <extra_id_0> Add .txt extension in JFileChooser,swing JFileChooser getSelectedFile
+java util concurrent <extra_id_0> Very odd NullPointerException while sorting,CompletableFuture allOf
+java util concurrent CompletableFuture <extra_id_0> Very odd NullPointerException while sorting,allOf
+java <extra_id_0> Using StrSubstitutor to substitue array values,util Arrays toString
+java util Arrays <extra_id_0> Using StrSubstitutor to substitue array values,toString
+java <extra_id_0> How to send Date in REST API in POST method,time LocalDate parse
+java time LocalDate <extra_id_0> How to send Date in REST API in POST method,parse
+java time <extra_id_0> Illegal pattern character 'T' when parsing a date string to java.util.Date,Instant parse
+java time Instant <extra_id_0> Illegal pattern character 'T' when parsing a date string to java.util.Date,parse
+java <extra_id_0> how to read private key for digital signature,security Key getEncoded
+java security Key <extra_id_0> how to read private key for digital signature,getEncoded
+java util Collections <extra_id_0> Is there a data structure with both ArrayList and Map-like properties?,sort
+java util <extra_id_0> Is there a data structure with both ArrayList and Map-like properties?,Collections sort
+java <extra_id_0> Adding month to specific day of month with java.time,time YearMonth atEndOfMonth
+java time <extra_id_0> Adding month to specific day of month with java.time,YearMonth atEndOfMonth
+java <extra_id_0> DateUtils.addDays() class issue in daylight saving time,util Calendar getInstance
+java util <extra_id_0> DateUtils.addDays() class issue in daylight saving time,Calendar getInstance
+java lang <extra_id_0> Object pool for Java wrappers and String,Integer valueOf
+java <extra_id_0> Object pool for Java wrappers and String,lang Integer valueOf
+javax sound sampled <extra_id_0> Audio file plays in Eclipse IDE; but NOT as JAR file,DataLine drain
+javax sound sampled DataLine <extra_id_0> Audio file plays in Eclipse IDE; but NOT as JAR file,drain
+java <extra_id_0> How would i get my code to join data together instead of overwriting the .txt file with each new stream,io FileWriter FileWriter
+java io FileWriter <extra_id_0> How would i get my code to join data together instead of overwriting the .txt file with each new stream,FileWriter
+java <extra_id_0> Java Strings subtle differences,lang StringBuffer append
+java lang <extra_id_0> Java Strings subtle differences,StringBuffer append
+org omg CORBA portable <extra_id_0> Issue with java.nio in Android 3+,InputStream read
+org omg <extra_id_0> Issue with java.nio in Android 3+,CORBA portable InputStream read
+java util concurrent <extra_id_0> How can I do healthchecks between threads?,ExecutorService shutdown
+java <extra_id_0> How can I do healthchecks between threads?,util concurrent ExecutorService shutdown
+java util <extra_id_0> Array list not being searched properly,Arrays binarySearch
+java util Arrays <extra_id_0> Array list not being searched properly,binarySearch
+java lang <extra_id_0> Verifying my knowledge of how an empty Scanner reacts in Java,System setIn
+java <extra_id_0> Verifying my knowledge of how an empty Scanner reacts in Java,lang System setIn
+java util <extra_id_0> How to create a Java Hexidecimal Array,BitSet valueOf
+java <extra_id_0> How to create a Java Hexidecimal Array,util BitSet valueOf
+java <extra_id_0> What is the best windows equivalent for /tmp?,io File createTempFile
+java io File <extra_id_0> What is the best windows equivalent for /tmp?,createTempFile
+java util HashSet <extra_id_0> How does the search algorithm work with objects in a java collection such as HashSet?,contains
+java <extra_id_0> How does the search algorithm work with objects in a java collection such as HashSet?,util HashSet contains
+java lang String <extra_id_0> How to SELECTIVELY bold text in a TextView,format
+java lang <extra_id_0> How to SELECTIVELY bold text in a TextView,String format
+java lang Class <extra_id_0> Spock. How to mock java.lang.Class?,newInstance
+java <extra_id_0> Spock. How to mock java.lang.Class?,lang Class newInstance
+java <extra_id_0> Do I need to close InputStream after I close the Reader,io InputStreamReader close
+java io InputStreamReader <extra_id_0> Do I need to close InputStream after I close the Reader,close
+java <extra_id_0> Is there a way to test if a matrix line is made of precise values?,util Arrays equals
+java util Arrays <extra_id_0> Is there a way to test if a matrix line is made of precise values?,equals
+java lang <extra_id_0> Java Move to new row if all columns filled grid,Math ceil
+java lang Math <extra_id_0> Java Move to new row if all columns filled grid,ceil
+java util <extra_id_0> I've found many questions on abstract classes and interfaces but answer me this: Can an abstract class do everything an interface can?,Collections sort
+java util Collections <extra_id_0> I've found many questions on abstract classes and interfaces but answer me this: Can an abstract class do everything an interface can?,sort
+java lang <extra_id_0> Printing an RSA private key doesn't actually return it,Object toString
+java lang Object <extra_id_0> Printing an RSA private key doesn't actually return it,toString
+java util <extra_id_0> Any available design pattern for a thread that is capable of executing a specific job sent by another threads?,concurrent Executors newSingleThreadExecutor
+java util concurrent Executors <extra_id_0> Any available design pattern for a thread that is capable of executing a specific job sent by another threads?,newSingleThreadExecutor
+java lang <extra_id_0> Running a shell script from java code,Runtime getRuntime
+java <extra_id_0> Running a shell script from java code,lang Runtime getRuntime
+java util <extra_id_0> Faster method of Grouping Times,Collections sort
+java <extra_id_0> Faster method of Grouping Times,util Collections sort
+java <extra_id_0> java keeps changing the first zip code,lang String format
+java lang String <extra_id_0> java keeps changing the first zip code,format
+java awt Window <extra_id_0> Is there any way to Close the JFrame without exiting the whole application using Cancel jButton?,dispose
+java awt <extra_id_0> Is there any way to Close the JFrame without exiting the whole application using Cancel jButton?,Window dispose
+java <extra_id_0> Java check that string will only allow commas as special chacters,lang String contains
+java lang <extra_id_0> Java check that string will only allow commas as special chacters,String contains
+java util <extra_id_0> ArrayList index out of bounds,ArrayList ArrayList
+java util ArrayList <extra_id_0> ArrayList index out of bounds,ArrayList
+java util <extra_id_0> Interleave elements in a stream with separator,stream Collectors joining
+java <extra_id_0> Interleave elements in a stream with separator,util stream Collectors joining
+java util <extra_id_0> Regular expressions: some groups missing,regex Matcher find
+java <extra_id_0> Regular expressions: some groups missing,util regex Matcher find
+java <extra_id_0> How to get the folder path where the file exist from file path?,lang String lastIndexOf
+java lang String <extra_id_0> How to get the folder path where the file exist from file path?,lastIndexOf
+java sql CallableStatement <extra_id_0> How to use JDBC4PreparedStatement with a MySQL stored procedure expecting an OUT parameter?,registerOutParameter
+java <extra_id_0> How to use JDBC4PreparedStatement with a MySQL stored procedure expecting an OUT parameter?,sql CallableStatement registerOutParameter
+java <extra_id_0> Regex in XSLT 1.0 using java,util regex Pattern matches
+java util regex <extra_id_0> Regex in XSLT 1.0 using java,Pattern matches
+"java <extra_id_0> Java - How to replace ""java.util.InputMismatchException"" error with something else",util Scanner hasNextInt
+"java util <extra_id_0> Java - How to replace ""java.util.InputMismatchException"" error with something else",Scanner hasNextInt
+java sql <extra_id_0> Proper use of close() and = null for Closable objects,DriverManager getConnection
+java sql DriverManager <extra_id_0> Proper use of close() and = null for Closable objects,getConnection
+java <extra_id_0> Getting UnsupportedOperationException when i remove elements at particular index in List<List<String>>?,util Arrays asList
+java util Arrays <extra_id_0> Getting UnsupportedOperationException when i remove elements at particular index in List<List<String>>?,asList
+java lang Thread <extra_id_0> Volatile keyword in Java - Clarification,sleep
+java <extra_id_0> Volatile keyword in Java - Clarification,lang Thread sleep
+"java lang <extra_id_0> Caesar Shift Cipher, input exception error",Character isLetter
+"java <extra_id_0> Caesar Shift Cipher, input exception error",lang Character isLetter
+java lang <extra_id_0> Changing the shapes of points in scatter plot,Math round
+java <extra_id_0> Changing the shapes of points in scatter plot,lang Math round
+java applet <extra_id_0> Embed a 3rd-party JApplet in a Swing GUI & pass it parameters,Applet getParameter
+java <extra_id_0> Embed a 3rd-party JApplet in a Swing GUI & pass it parameters,applet Applet getParameter
+java util <extra_id_0> adding a key to HashMap without the value?,Map computeIfAbsent
+java util Map <extra_id_0> adding a key to HashMap without the value?,computeIfAbsent
+java util BitSet <extra_id_0> Convert a byte or int to bitset,valueOf
+java <extra_id_0> Convert a byte or int to bitset,util BitSet valueOf
+java util <extra_id_0> Iterating through nested arrays in Java,Arrays asList
+java util Arrays <extra_id_0> Iterating through nested arrays in Java,asList
+java awt image RescaleOp <extra_id_0> Java Buffered Image RescaleOp Transparency Issue,RescaleOp
+java awt image <extra_id_0> Java Buffered Image RescaleOp Transparency Issue,RescaleOp RescaleOp
+java lang <extra_id_0> Why is java ExecutorService newSingleThreadExecutor spawning two threads?,System identityHashCode
+java <extra_id_0> Why is java ExecutorService newSingleThreadExecutor spawning two threads?,lang System identityHashCode
+java <extra_id_0> Mockito error with method that returns Optional<T>,util Optional of
+java util Optional <extra_id_0> Mockito error with method that returns Optional<T>,of
+java lang <extra_id_0> Do any Java OCR tools convert images of text into editable text files?,Runtime exec
+java <extra_id_0> Do any Java OCR tools convert images of text into editable text files?,lang Runtime exec
+java lang <extra_id_0> deleting character - delete index or delete memory location,System arraycopy
+java lang System <extra_id_0> deleting character - delete index or delete memory location,arraycopy
+java math <extra_id_0> Using BigIntegers as a condition in while loop in Java,BigInteger compareTo
+java <extra_id_0> Using BigIntegers as a condition in while loop in Java,math BigInteger compareTo
+java util <extra_id_0> Check if array of objects contains object with the same attribute,List contains
+java util List <extra_id_0> Check if array of objects contains object with the same attribute,contains
+java util <extra_id_0> How to flatten List of Maps in java 8,Map merge
+java util Map <extra_id_0> How to flatten List of Maps in java 8,merge
+java lang System <extra_id_0> out of memory exception when compiling files,gc
+java <extra_id_0> out of memory exception when compiling files,lang System gc
+java lang Integer <extra_id_0> Scan in 2D array txt file in Java,parseInt
+java <extra_id_0> Scan in 2D array txt file in Java,lang Integer parseInt
+java <extra_id_0> don't understand what is going on with hashmap when 2 objects have same hashcode,util HashMap put
+java util HashMap <extra_id_0> don't understand what is going on with hashmap when 2 objects have same hashcode,put
+java lang String <extra_id_0> Two arrays or one HashMap to convert a String to Morse code?,equals
+java lang <extra_id_0> Two arrays or one HashMap to convert a String to Morse code?,String equals
+java <extra_id_0> connection to Java DB always fails,lang Class forName
+java lang Class <extra_id_0> connection to Java DB always fails,forName
+java <extra_id_0> Error when using the mousePress() method,awt event InputEvent getMaskForButton
+java awt <extra_id_0> Error when using the mousePress() method,event InputEvent getMaskForButton
+java util <extra_id_0> Java ArrayList<Double> IndexOutOfBoundsException Problem,Arrays asList
+java util Arrays <extra_id_0> Java ArrayList<Double> IndexOutOfBoundsException Problem,asList
+javax crypto <extra_id_0> Should I use Cipher.WRAP_MODE OR Cipher.ENCRYPT_MODE to encrypt a session key?,Cipher unwrap
+javax crypto Cipher <extra_id_0> Should I use Cipher.WRAP_MODE OR Cipher.ENCRYPT_MODE to encrypt a session key?,unwrap
+java util Calendar <extra_id_0> Get difference between two DateTimes as a DateTime object?,compareTo
+java <extra_id_0> Get difference between two DateTimes as a DateTime object?,util Calendar compareTo
+java io DataInputStream <extra_id_0> C server to Java client socket read passed in short value,readShort
+java <extra_id_0> C server to Java client socket read passed in short value,io DataInputStream readShort
+java <extra_id_0> Converting duration string into milliseconds in Java,time Duration between
+java time Duration <extra_id_0> Converting duration string into milliseconds in Java,between
+javax <extra_id_0> Java Updating Small Circles,swing SwingUtilities invokeLater
+javax swing SwingUtilities <extra_id_0> Java Updating Small Circles,invokeLater
+java <extra_id_0> Java Error: Cannot convert from void to int[],util Arrays sort
+java util <extra_id_0> Java Error: Cannot convert from void to int[],Arrays sort
+"java <extra_id_0> Not using % or any java built in methods (math), how to do modulo exponentiation?",math BigInteger modPow
+"java math <extra_id_0> Not using % or any java built in methods (math), how to do modulo exponentiation?",BigInteger modPow
+java lang String <extra_id_0> Right way of formatting an input stream,getBytes
+java <extra_id_0> Right way of formatting an input stream,lang String getBytes
+java <extra_id_0> how to get input through System.in?,io BufferedReader readLine
+java io <extra_id_0> how to get input through System.in?,BufferedReader readLine
+javax swing <extra_id_0> Is there a way to support real \r carriage return without new line break in a JTextArea?,text JTextComponent read
+javax swing text JTextComponent <extra_id_0> Is there a way to support real \r carriage return without new line break in a JTextArea?,read
+java util <extra_id_0> regexp: filter a character in an expression but not inside the quotation mark,regex Matcher reset
+java util regex Matcher <extra_id_0> regexp: filter a character in an expression but not inside the quotation mark,reset
+java lang Class <extra_id_0> Java - How to restrict method calling from a specific method,getEnclosingMethod
+java <extra_id_0> Java - How to restrict method calling from a specific method,lang Class getEnclosingMethod
+java <extra_id_0> Any tutorials on setting up a templating framework on GAE (Java)?,lang Class getResourceAsStream
+java lang <extra_id_0> Any tutorials on setting up a templating framework on GAE (Java)?,Class getResourceAsStream
+java <extra_id_0> SQLException: No suitable driver found for org.sqlite.JDBC,sql DriverManager getConnection
+java sql <extra_id_0> SQLException: No suitable driver found for org.sqlite.JDBC,DriverManager getConnection
+java io <extra_id_0> RandomAccessFile and read/write start-finish position,RandomAccessFile read
+java <extra_id_0> RandomAccessFile and read/write start-finish position,io RandomAccessFile read
+java math <extra_id_0> How do I decode a string from base 32 to a BigInteger,BigInteger toByteArray
+java <extra_id_0> How do I decode a string from base 32 to a BigInteger,math BigInteger toByteArray
+java io FileInputStream <extra_id_0> Sending ZIP file from servlet to client not working,read
+java <extra_id_0> Sending ZIP file from servlet to client not working,io FileInputStream read
+java lang Math <extra_id_0> Sorting points by their polar angle in Java,atan
+java <extra_id_0> Sorting points by their polar angle in Java,lang Math atan
+java lang <extra_id_0> Strange algorithm to convert binary SHA-1 digest to hex string,Integer toString
+java lang Integer <extra_id_0> Strange algorithm to convert binary SHA-1 digest to hex string,toString
+javax swing text html HTMLDocument <extra_id_0> Creating an HTMLDocument from a String of HTML (in Java),setOuterHTML
+javax <extra_id_0> Creating an HTMLDocument from a String of HTML (in Java),swing text html HTMLDocument setOuterHTML
+java math <extra_id_0> BigInteger: count the number of decimal digits in a scalable method,BigInteger bitLength
+java math BigInteger <extra_id_0> BigInteger: count the number of decimal digits in a scalable method,bitLength
+java lang <extra_id_0> Array copy exclude each x element,System arraycopy
+java <extra_id_0> Array copy exclude each x element,lang System arraycopy
+java util stream Stream <extra_id_0> Can I use a Java Stream Collector to implement this behavior,collect
+java util <extra_id_0> Can I use a Java Stream Collector to implement this behavior,stream Stream collect
+java <extra_id_0> Using CountDownLatch & Object.wait inside recursive block hangs,lang Thread sleep
+java lang Thread <extra_id_0> Using CountDownLatch & Object.wait inside recursive block hangs,sleep
+java util <extra_id_0> How to check a Long for null in java,Objects isNull
+java util Objects <extra_id_0> How to check a Long for null in java,isNull
+java util <extra_id_0> How to shuffle a file[] using java collections?,Arrays asList
+java <extra_id_0> How to shuffle a file[] using java collections?,util Arrays asList
+java nio <extra_id_0> Java PrintWriter File Overwrite,file Files newBufferedWriter
+java nio file <extra_id_0> Java PrintWriter File Overwrite,Files newBufferedWriter
+java lang <extra_id_0> access properties from spring file in java class,System getProperties
+java lang System <extra_id_0> access properties from spring file in java class,getProperties
+java <extra_id_0> Thread safe collection with fixed capacity in FIFO order,util concurrent LinkedBlockingQueue LinkedBlockingQueue
+java util concurrent <extra_id_0> Thread safe collection with fixed capacity in FIFO order,LinkedBlockingQueue LinkedBlockingQueue
+javax swing JTable <extra_id_0> How to print multiple header lines with MessageFormat using a JTable,getPrintable
+javax <extra_id_0> How to print multiple header lines with MessageFormat using a JTable,swing JTable getPrintable
+javax swing <extra_id_0> Java - GUI (swing) - Null Pointer Exception,JComponent paintComponent
+javax swing JComponent <extra_id_0> Java - GUI (swing) - Null Pointer Exception,paintComponent
+java <extra_id_0> Memory footprint of int[] and Integer[] arrays,lang Integer valueOf
+java lang <extra_id_0> Memory footprint of int[] and Integer[] arrays,Integer valueOf
+java <extra_id_0> Java - Understanding PrintWriter and need for flush,io PrintWriter PrintWriter
+java io <extra_id_0> Java - Understanding PrintWriter and need for flush,PrintWriter PrintWriter
+java <extra_id_0> class instance with override inside method parameter,io File list
+java io File <extra_id_0> class instance with override inside method parameter,list
+javax swing TransferHandler <extra_id_0> Strange behaviour in KeyListener when using Clipboard,getCopyAction
+javax <extra_id_0> Strange behaviour in KeyListener when using Clipboard,swing TransferHandler getCopyAction
+java time Instant <extra_id_0> Time string to milliseconds,now
+java time <extra_id_0> Time string to milliseconds,Instant now
+"java util <extra_id_0> Passing LinkedList<short[]> to a Constructor, will it work?",LinkedList LinkedList
+"java <extra_id_0> Passing LinkedList<short[]> to a Constructor, will it work?",util LinkedList LinkedList
+java <extra_id_0> Converting duration to years in Java8 Date API?,time temporal Temporal isSupported
+java time <extra_id_0> Converting duration to years in Java8 Date API?,temporal Temporal isSupported
+java lang <extra_id_0> My Java socket code is corrupting data,System nanoTime
+java lang System <extra_id_0> My Java socket code is corrupting data,nanoTime
+java util Scanner <extra_id_0> Convert InputMismatchException into user-defined exception,nextInt
+java util <extra_id_0> Convert InputMismatchException into user-defined exception,Scanner nextInt
+java util Collections <extra_id_0> Explain this different representation of object and class,synchronizedList
+java <extra_id_0> Explain this different representation of object and class,util Collections synchronizedList
+"java <extra_id_0> Binary search in Java - learning it ""my way""",lang System arraycopy
+"java lang System <extra_id_0> Binary search in Java - learning it ""my way""",arraycopy
+java <extra_id_0> how to create snake body using arraylist in snake game,util ArrayList size
+java util <extra_id_0> how to create snake body using arraylist in snake game,ArrayList size
+"java util <extra_id_0> In Java8 functional style, how can i map the values to already existing key value pair",stream Collectors groupingBy
+"java <extra_id_0> In Java8 functional style, how can i map the values to already existing key value pair",util stream Collectors groupingBy
+java lang Thread <extra_id_0> Kill an uncooperative thread in Java,sleep
+java <extra_id_0> Kill an uncooperative thread in Java,lang Thread sleep
+java lang <extra_id_0> how to check if a string contain any of operator in java,String matches
+java lang String <extra_id_0> how to check if a string contain any of operator in java,matches
+java <extra_id_0> Regarding file name consists of current GMT time,text DateFormat setTimeZone
+java text <extra_id_0> Regarding file name consists of current GMT time,DateFormat setTimeZone
+java <extra_id_0> Weird behaviour of a seconds elapsed function,util Calendar add
+java util <extra_id_0> Weird behaviour of a seconds elapsed function,Calendar add
+java math BigInteger <extra_id_0> How to initialise BigInteger after creating instantces (constructor can't be called),valueOf
+java math <extra_id_0> How to initialise BigInteger after creating instantces (constructor can't be called),BigInteger valueOf
+java util <extra_id_0> Why doesn't ArrayDeque override equals() and hashCode()?,AbstractList equals
+java <extra_id_0> Why doesn't ArrayDeque override equals() and hashCode()?,util AbstractList equals
+java time ZoneOffset <extra_id_0> Inconsistent date parsing using SimpleDateFormat,UTC
+java time <extra_id_0> Inconsistent date parsing using SimpleDateFormat,ZoneOffset UTC
+java lang <extra_id_0> Date format in java,Long parseLong
+java lang Long <extra_id_0> Date format in java,parseLong
+java lang <extra_id_0> How do I append to a Java exception?,Throwable getCause
+java <extra_id_0> How do I append to a Java exception?,lang Throwable getCause
+java <extra_id_0> how to read a csv file line by line having line break and coma in fields,lang String replaceAll
+java lang String <extra_id_0> how to read a csv file line by line having line break and coma in fields,replaceAll
+java <extra_id_0> Maintaining HTTP session between Hessian web service calls in Spring,net CookieHandler setDefault
+java net <extra_id_0> Maintaining HTTP session between Hessian web service calls in Spring,CookieHandler setDefault
+javax <extra_id_0> Using mutable objects as a constant,swing JButton JButton
+javax swing JButton <extra_id_0> Using mutable objects as a constant,JButton
+"java lang annotation RetentionPolicy <extra_id_0> @Override on method in subclass ""appears"" ignored at runtime",SOURCE
+"java lang <extra_id_0> @Override on method in subclass ""appears"" ignored at runtime",annotation RetentionPolicy SOURCE
+"java util Collections <extra_id_0> Java: ArrayList for List, HashMap for Map, and HashSet for Set?",singletonList
+"java util <extra_id_0> Java: ArrayList for List, HashMap for Map, and HashSet for Set?",Collections singletonList
+java lang <extra_id_0> Running a program from within Java code,Runtime getRuntime
+java <extra_id_0> Running a program from within Java code,lang Runtime getRuntime
+java util Arrays <extra_id_0> Reading Strings from a file to an ArrayList then converting to an Array,deepToString
+java <extra_id_0> Reading Strings from a file to an ArrayList then converting to an Array,util Arrays deepToString
+java <extra_id_0> java.net.BindException: bind failed: EADDRINUSE,net ServerSocket close
+java net ServerSocket <extra_id_0> java.net.BindException: bind failed: EADDRINUSE,close
+java lang Math <extra_id_0> Generate random number between 0 and 1 with (negative)exponential distribution,random
+java lang <extra_id_0> Generate random number between 0 and 1 with (negative)exponential distribution,Math random
+java <extra_id_0> How to sequentially generate identifier for object in java?,lang String format
+java lang String <extra_id_0> How to sequentially generate identifier for object in java?,format
+java <extra_id_0> Java HashMap: A Bug in JVM or I am doing wrong?,util Arrays asList
+java util Arrays <extra_id_0> Java HashMap: A Bug in JVM or I am doing wrong?,asList
+"java <extra_id_0> Java name clash error, despite different method signatures",util Map remove
+"java util Map <extra_id_0> Java name clash error, despite different method signatures",remove
+java <extra_id_0> Printing contents of a hashtable,util Arrays toString
+java util Arrays <extra_id_0> Printing contents of a hashtable,toString
+java <extra_id_0> How to get the delimiter from a StringTokenizer?,util StringTokenizer StringTokenizer
+java util StringTokenizer <extra_id_0> How to get the delimiter from a StringTokenizer?,StringTokenizer
+java <extra_id_0> How to randomly select a key based on its Integer value in a Map with respect to the other values in O(n) time?,util SortedMap lastKey
+java util <extra_id_0> How to randomly select a key based on its Integer value in a Map with respect to the other values in O(n) time?,SortedMap lastKey
+java <extra_id_0> Getting class with Class.forName,lang Class newInstance
+java lang Class <extra_id_0> Getting class with Class.forName,newInstance
+java <extra_id_0> I want to read a file line by line and split the strings to be used as attributes for a new object,lang Integer parseInt
+java lang <extra_id_0> I want to read a file line by line and split the strings to be used as attributes for a new object,Integer parseInt
+java util Calendar <extra_id_0> get present year value to string,get
+java util <extra_id_0> get present year value to string,Calendar get
+java util Collections <extra_id_0> Is this a concrete parameterized type?,sort
+java <extra_id_0> Is this a concrete parameterized type?,util Collections sort
+"java lang <extra_id_0> Java string replacing (remove newlines, change $ to \$)",String replace
+"java lang String <extra_id_0> Java string replacing (remove newlines, change $ to \$)",replace
+java security KeyStoreSpi <extra_id_0> How to implement KeyStoreSpi.store(KeyStore.LoadStoreParameter param)?,engineLoad
+java security <extra_id_0> How to implement KeyStoreSpi.store(KeyStore.LoadStoreParameter param)?,KeyStoreSpi engineLoad
+java util <extra_id_0> Is it possible to retype object from object to integer,Collections sort
+java <extra_id_0> Is it possible to retype object from object to integer,util Collections sort
+java <extra_id_0> What determines the amount of calls in this code,lang System gc
+java lang <extra_id_0> What determines the amount of calls in this code,System gc
+java lang <extra_id_0> Do I get an Integer or int after putting an int into an object array?,Integer valueOf
+java <extra_id_0> Do I get an Integer or int after putting an int into an object array?,lang Integer valueOf
+java math <extra_id_0> Find factorials using BigInteger in java?,BigInteger subtract
+java math BigInteger <extra_id_0> Find factorials using BigInteger in java?,subtract
+java <extra_id_0> Can Java detect when objects can be explicitly freed?,lang Integer valueOf
+java lang <extra_id_0> Can Java detect when objects can be explicitly freed?,Integer valueOf
+java lang String <extra_id_0> Iteratively formatting the specific parts of a String in Java,replace
+java <extra_id_0> Iteratively formatting the specific parts of a String in Java,lang String replace
+java util <extra_id_0> Sorting in map on the basis of order of numeric key,TreeMap lastEntry
+java <extra_id_0> Sorting in map on the basis of order of numeric key,util TreeMap lastEntry
+java <extra_id_0> Java Regex validation for list of numbers,lang String matches
+java lang <extra_id_0> Java Regex validation for list of numbers,String matches
+java <extra_id_0> Is there such thing as math.substring in java?,lang Integer parseInt
+java lang <extra_id_0> Is there such thing as math.substring in java?,Integer parseInt
+java text <extra_id_0> Am I creating an Object or a Variable?,NumberFormat getCurrencyInstance
+java text NumberFormat <extra_id_0> Am I creating an Object or a Variable?,getCurrencyInstance
+java lang <extra_id_0> Runtime exception and Checked exception,Integer parseInt
+java <extra_id_0> Runtime exception and Checked exception,lang Integer parseInt
+java <extra_id_0> SHA Hashing behaving unexpectedly in Java - Code Provided,lang String format
+java lang <extra_id_0> SHA Hashing behaving unexpectedly in Java - Code Provided,String format
+java lang reflect Method <extra_id_0> Get class in which method of object is implemented,getDeclaringClass
+java <extra_id_0> Get class in which method of object is implemented,lang reflect Method getDeclaringClass
+java util Scanner <extra_id_0> Why is nextLine() returning an empty string?,nextLine
+java <extra_id_0> Why is nextLine() returning an empty string?,util Scanner nextLine
+java util regex Matcher <extra_id_0> Replace String in Java with regex and replaceAll,replaceAll
+java util regex <extra_id_0> Replace String in Java with regex and replaceAll,Matcher replaceAll
+"java lang System <extra_id_0> file.delete() returns false even though file.exists(), file.canRead(), file.canWrite(), file.canExecute() all return true",gc
+"java lang <extra_id_0> file.delete() returns false even though file.exists(), file.canRead(), file.canWrite(), file.canExecute() all return true",System gc
+"java <extra_id_0> Do specialized Optional types (OptionalInt, OptionalDouble, etc) perform a heap allocation?",lang Integer valueOf
+"java lang <extra_id_0> Do specialized Optional types (OptionalInt, OptionalDouble, etc) perform a heap allocation?",Integer valueOf
+java <extra_id_0> arg max in Java 8 streams?,util Optional orElse
+java util <extra_id_0> arg max in Java 8 streams?,Optional orElse
+java lang <extra_id_0> javac command under mac terminal output garbled,System setProperty
+java <extra_id_0> javac command under mac terminal output garbled,lang System setProperty
+java <extra_id_0> cracking singleton with other ways,lang System setSecurityManager
+java lang System <extra_id_0> cracking singleton with other ways,setSecurityManager
+java io <extra_id_0> How do I create a new directory at the location of an existing file? ,File getParentFile
+java io File <extra_id_0> How do I create a new directory at the location of an existing file? ,getParentFile
+java lang <extra_id_0> how to replace multiple strings with replace method at once without making more string objects,String replaceAll
+java lang String <extra_id_0> how to replace multiple strings with replace method at once without making more string objects,replaceAll
+java lang <extra_id_0> Attempting to Multithread URL Connections to Reduce Load Time,Thread start
+java lang Thread <extra_id_0> Attempting to Multithread URL Connections to Reduce Load Time,start
+java <extra_id_0> New socket messed up by slashes?,net InetAddress getByName
+java net <extra_id_0> New socket messed up by slashes?,InetAddress getByName
+java lang <extra_id_0> Checking if a number represented by a string is in a certain numeration base,Long valueOf
+java lang Long <extra_id_0> Checking if a number represented by a string is in a certain numeration base,valueOf
+javax swing UIManager <extra_id_0> How to do smooth scrolling for lists in Swing,put
+javax <extra_id_0> How to do smooth scrolling for lists in Swing,swing UIManager put
+java lang Runtime <extra_id_0> Open File with non default program,exec
+java <extra_id_0> Open File with non default program,lang Runtime exec
+java util Collections <extra_id_0> Creating Hashtable as final in java,unmodifiableMap
+java <extra_id_0> Creating Hashtable as final in java,util Collections unmodifiableMap
+java awt <extra_id_0> What's the difference between GC and FonData for getting font height?,FontMetrics getHeight
+java awt FontMetrics <extra_id_0> What's the difference between GC and FonData for getting font height?,getHeight
+java io PrintWriter <extra_id_0> Difference between PrintWriter and FileWriter class,println
+java <extra_id_0> Difference between PrintWriter and FileWriter class,io PrintWriter println

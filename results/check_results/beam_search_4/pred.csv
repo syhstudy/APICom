@@ -1,0 +1,8000 @@
+util Arrays asList
+util List containsAll
+util ArrayList containsAll
+util List contains
+Arrays asList
+List containsAll
+Collection containsAll
+ArrayList containsAll
+System arraycopy
+StringBuilder setCharAt
+Integer parseInt
+String valueOf
+util ArrayList add
+lang System arraycopy
+util Arrays copyOfRange
+util List add
+io File renameTo
+nio file Files move
+nio file Files renameTo
+nio file File renameTo
+renameTo
+createNewFile
+deleteOnExit
+createTempFile
+util stream Collectors toMap
+util Collections unmodifiableMap
+util stream Collectors groupingBy
+util Stream toMap
+Collectors toMap
+Collectors toMap
+Collectors groupingBy
+package-summary MutableReduction
+round
+ceil
+floor
+log10
+lang Math round
+awt Color getHSBColor
+math BigDecimal round
+math Math round
+lang System gc
+lang Thread sleep
+io BufferedReader readLine
+lang Runtime freeMemory
+gc
+nanoTime
+ gc
+garbageCollection
+Double isInfinite
+Double isFinite
+Double isfinite
+Math floor
+lang Double isInfinite
+lang Double isFinite
+lang Double isfinite
+lang Double valueOf
+ImageIO read
+ImageIO scanForPlugins
+ImageIO write
+FileInputStream read
+imageio ImageIO read
+swing ImageIcon ImageIcon
+imageio ImageIO scanForPlugins
+net ssl SSLSocket setEnabledCipherSuites
+net URLEncoder encode
+lang String replaceAll
+lang String replace
+util regex Pattern quote
+String replaceAll
+String replace
+String replaceFirst
+URLEncoder encode
+forName
+getPackage
+getPackageInfo
+getName
+lang Class forName
+lang Class getPackage
+lang Class getName
+awt Desktop getDesktop
+walkFileTree
+walk
+getAllDirectories
+walkDirectory
+io File listFiles
+nio file Files walkFileTree
+nio file Files find
+nio file Files walk
+sleep
+currentThread
+yield
+suspend
+lang Thread sleep
+util concurrent Executors newFixedThreadPool
+util concurrent Executors newSingleThreadExecutor
+sql DriverManager getConnection
+sort
+binarySearch
+reverseOrder
+sortedList
+util Collections sort
+lang Integer compare
+util List sort
+util Comparator compare
+lang String replace
+lang StringBuffer replace
+util StringBuffer replace
+lang StringBuilder replace
+toString
+asList
+copyOf
+fill
+lang Thread suspend
+lang Thread sleep
+util concurrent Executors newSingleThreadExecutor
+util concurrent Executors newFixedThreadPool
+Thread sleep
+Thread suspend
+Object wait
+Thread start
+sort
+binarySearch
+reverseOrder
+sortedList
+Collections sort
+Arrays sort
+Comparator comparing
+Comparator compare
+System gc
+Runtime freeMemory
+Object finalize
+String trim
+gc
+nanoTime
+ gc
+arraycopy
+awt Component setBounds
+awt Component getBounds
+awt GraphicsEnvironment getLocalGraphicsEnvironment
+awt Component getGraphics
+Component setBounds
+GraphicsEnvironment getLocalGraphicsEnvironment
+Component getGraphics
+Container setBounds
+lang Object clone
+util Collections sort
+lang Class asSubclass
+lang Class newInstance
+clone
+getClass
+toString
+hashCode
+lang String split
+util Scanner next
+lang Integer parseInt
+io BufferedReader readLine
+String split
+Integer parseInt
+System lineSeparator
+String substring
+String split
+Character isLetterOrDigit
+String substring
+Character isSpaceChar
+split
+valueOf
+replaceAll
+getBytes
+lang Runtime exec
+awt Toolkit getDefaultToolkit
+lang ProcessBuilder directory
+awt Desktop getDesktop
+exec
+getRuntime
+addShutdownHook
+availableProcessors
+walk
+walkFileTree
+newDirectoryStream
+readAllLines
+Files walkFileTree
+Files walk
+Files newDirectoryStream
+Files find
+sort
+binarySearch
+reverseOrder
+sortedList
+util Collections sort
+util Comparator comparingInt
+lang Integer parseInt
+util Comparator compare
+lang Integer parseInt
+lang String substring
+lang Math pow
+lang Long parseLong
+parseInt
+valueOf
+intBitsToFloat
+intBitsToInt
+util Collections synchronizedMap
+util HashMap get
+util Collections unmodifiableMap
+util HashMap size
+synchronizedMap
+emptyMap
+unmodifiableMap
+newSetFromMap
+util Map remove
+util HashMap remove
+util LinkedHashMap removeEldestEntry
+util Collections unmodifiableMap
+Map remove
+HashMap remove
+Collections unmodifiableMap
+concurrent ConcurrentHashMap remove
+random
+currentTimeMillis
+nextInt
+nextGaussian
+util Collections shuffle
+util Collections synchronizedList
+lang ThreadLocalRandom current
+lang ThreadLocal random
+sleep
+sleep ( 0.01 )
+sleep ( 0.5 )
+sleepUninterruptibly
+Thread sleep
+System currentTimeMillis
+Object wait
+System nanoTime
+util Collections shuffle
+lang Math random
+util Random nextInt
+util Random nextBoolean
+nextInt
+nextDouble
+nextBoolean
+nextGaussian
+exec
+getRuntime
+addShutdownHook
+setDefaultLookAndFeelDecorated
+Runtime exec
+Thread sleep
+System exit
+reflect Method invoke
+compile
+quote
+ compile
+splitAsStream
+util regex Pattern compile
+lang String format
+lang String split
+lang String compile
+lang String split
+util Scanner useDelimiter
+util Scanner next
+util regex Pattern quote
+split
+splitAsStream
+StringTokenizer useDelimiter
+StringTokenizer nextToken
+Collections synchronizedList
+Collections newSetFromMap
+concurrent Executors newFixedThreadPool
+concurrent Executors newSingleThreadExecutor
+util Collections synchronizedList
+util concurrent Executors newFixedThreadPool
+util Collections newSetFromMap
+util concurrent ConcurrentHashMap putIfAbsent
+synchronizedList
+newSetFromMap
+newListFromMap
+synchronizedSortedList
+util Collections synchronizedList
+util Collections newSetFromMap
+lang Thread sleep
+util Collections newListFromMap
+lang Enum valueOf
+lang Class valueOf
+lang Class getEnumConstants
+util Enum valueOf
+valueOf
+name
+ordinal
+getDeclaringClass
+Arrays sort
+Collections sort
+Arrays asList
+Arrays equals
+util Arrays sort
+util Collections sort
+lang String compareTo
+lang String compareToIgnoreCase
+addAll
+add
+retainAll
+subList
+List addAll
+Collections sort
+ArrayList addAll
+Collections addAll
+util Arrays asList
+util Collections unmodifiableList
+util Collections singletonList
+util List get
+Arrays asList
+Collections singletonList
+Collections unmodifiableList
+List get
+lang String split
+lang Integer parseInt
+util Map get
+util HashMap put
+parseInt
+valueOf
+toString
+toBinaryString
+Class getInterfaces
+reflect Method invoke
+Class isAssignableFrom
+reflect Method getGenericParameterTypes
+lang Class getInterfaces
+lang Class isAssignableFrom
+awt EventQueue invokeLater
+lang Class isInterface
+Collections sort
+Collections reverse
+stream Collectors groupingBy
+stream IntStream range
+reverse
+sort
+shuffle
+unmodifiableList
+Math pow
+Math log10
+Math exp
+BigInteger modInverse
+lang Math pow
+math BigInteger modInverse
+math BigInteger pow
+math BigInteger valueOf
+util Collections sort
+util Arrays sort
+lang String compareTo
+awt Color RGBtoHSB
+Collections sort
+Arrays sort
+Comparator comparing
+TreeSet TreeSet
+net ssl SSLSocket getHandshakeStatus
+swing SwingUtilities invokeLater
+net ssl HttpsURLConnection setInstanceFollowRedirects
+net ssl HttpsURLConnection setSoTimeout
+ssl SSLSocket getHandshakeStatus
+ssl SSLSocket setHandshakeHandshakeStatus
+ssl SSLSocket setEnabledCipherSuites
+ssl HttpsURLConnection setInstanceFollowRedirects
+awt EventQueue invokeLater
+lang Thread sleep
+util Scanner nextLine
+awt Desktop getDesktop
+Thread sleep
+Integer parseInt
+String equals
+System exit
+Consumer accept
+function Consumer accept
+stream Stream peek
+concurrent Consumer accept
+BlockingQueue take
+CompletableFuture supplyAsync
+Future get
+Executors newSingleThreadExecutor
+lang Thread sleep
+util concurrent Executors newFixedThreadPool
+lang System nanoTime
+lang System gc
+sleep
+yield
+sleepUninterruptibly
+currentThread
+util Collections sort
+util Arrays sort
+util Comparator comparing
+util stream Collectors groupingBy
+Collections sort
+Arrays sort
+stream Collectors groupingBy
+Comparator comparing
+lang String format
+lang Character isJavaIdentifierPart
+util Scanner nextDouble
+util Scanner nextLine
+String format
+String indexOf
+System getProperty
+String contains
+lang Thread sleep
+util concurrent Executors newFixedThreadPool
+util concurrent Future get
+net Socket setSoTimeout
+Thread sleep
+System currentTimeMillis
+System nanoTime
+System setSoTimeout
+lang Thread sleep
+awt EventQueue invokeLater
+awt Toolkit getDefaultToolkit
+awt Component requestFocus
+sleep
+currentThread
+yield
+stop
+lang String split
+util regex Pattern quote
+lang String substring
+util regex Pattern compile
+split
+substring
+valueOf
+trim
+util Collections synchronizedList
+util List get
+util ArrayList ArrayList
+util ArrayList get
+synchronizedList
+unmodifiableList
+newSetFromMap
+singletonList
+util Arrays asList
+lang String contains
+util Arrays stream
+lang String equals
+Arrays asList
+Arrays stream
+Arrays equals
+Arrays toString
+reset
+writeUnshared
+writeObject
+resetOnExit
+io ObjectOutputStream reset
+io ObjectInputStream reset
+io ObjectOutputStream reset
+lang System gc
+sleep
+sleepUninterruptibly
+sleepWithinHorizon
+sleepWithinPhoton
+Thread sleep
+System currentTimeMillis
+Object wait
+System sleep
+sort
+reverseOrder
+binarySearch
+shuffle
+util Collections sort
+util Comparator comparing
+util Arrays sort
+lang String compareTo
+util Arrays sort
+util Collections sort
+lang String split
+util Arrays stream
+sort
+binarySearch
+asList
+Arrays sort
+util Arrays sort
+util Collections sort
+util Comparator comparing
+util Comparator compare
+sort
+binarySearch
+asList
+deepToString
+lang String contains
+lang String indexOf
+util Arrays binarySearch
+util Arrays sort
+contains
+indexOf
+startsWith
+endsWith
+Class newInstance
+reflect Constructor newInstance
+Class forName
+Object getClass
+newInstance
+asSubclass
+getDeclaredConstructor
+forName
+lang String format
+lang Integer toString
+lang String valueOf
+util Formatter syntax
+format
+valueOf
+getBytes
+getNumberOfLeadingZeros
+setDefaultCloseOperation
+dispose
+getWindows
+isShowing
+JOptionPane showMessageDialog
+JDialog setDefaultCloseOperation
+JOptionPane showInputDialog
+JFrame setDefaultCloseOperation
+lang System nanoTime
+util concurrent Executors newFixedThreadPool
+util concurrent atomic AtomicLong getAndIncrement
+util concurrent ConcurrentHashMap computeIfAbsent
+System nanoTime
+System currentTimeMillis
+SystemnanoTime
+Thread sleep
+Thread sleep
+System exit
+System setProperty
+System getProperty
+lang Thread sleep
+net URL openConnection
+awt Desktop getDesktop
+awt Desktop browse
+lang String intern
+lang String getBytes
+lang StringBuilder append
+lang String String
+intern
+getBytes
+trim
+substring
+emptyList
+unmodifiableList
+< Object > emptyList
+emptySet
+util Collections emptyList
+util Collections unmodifiableList
+util Collections emptyList
+util List isEmpty
+lang String trim
+lang System lineSeparator
+util Scanner useDelimiter
+util regex Pattern quote
+String trim
+System lineSeparator
+String split
+String substring
+lang String substring
+util Scanner next
+lang String length
+lang String indexOf
+substring
+indexOf
+split
+length
+deepToString
+toString
+asList
+sort
+Arrays deepToString
+Arrays toString
+Arrays sort
+Collections sort
+showConfirmDialog
+showShowConfirmDialog
+showOptionDialog
+showInputDialog
+swing JOptionPane showConfirmDialog
+swing SwingUtilities invokeLater
+swing SwingUtilities getWindowAncestor
+swing SwingUtilities windowForComponent
+replace
+replaceAll
+format
+replaceFirst
+String replaceAll
+String replace
+Character isLetterOrDigit
+String format
+matches
+split
+replaceAll
+replace
+String matches
+String split
+String replaceAll
+String contains
+Runtime exec
+Runtime getRuntime
+Process waitFor
+System exit
+lang Runtime exec
+lang Runtime getRuntime
+lang Process getInputStream
+lang Process waitFor
+util Collections unmodifiableList
+util Collections unmodifiableList
+util Collections unmodifiableCollection
+util stream Collectors toList
+Collections unmodifiableList
+Collections unmodifiableList
+stream Collectors toList
+List retainAll
+replaceFirst
+replace
+indexOf
+replaceAll
+String replaceAll
+String replace
+Character toChars
+String indexOf
+Thread sleep
+Thread yield
+Object wait
+System currentTimeMillis
+sleep
+yield
+currentThread
+suspend
+lang String valueOf
+lang String format
+lang Integer toString
+lang String String
+String valueOf
+Integer toString
+String format
+String String
+transferFrom
+transferTo
+getTransferSize
+write
+channels FileChannel transferFrom
+file Files copy
+file Files transferFrom
+channels ReadableByteChannel transferFrom
+System setOut
+String format
+Math pow
+Runtime getRuntime
+lang System setOut
+io PrintStream PrintStream
+io PrintStream println
+lang String format
+io DataInputStream readFully
+io DataInputStrem readFully
+io DataInput readFully
+net DatagramPacket getLength
+readFully
+DataInputStrem
+writeFully
+skip
+Collections sort
+Arrays sort
+Comparator comparing
+Comparator comparingDouble
+sort
+binarySearch
+asList
+reverseOrder
+toString
+toHexString
+valueOf
+parseInt
+lang Integer toString
+lang String valueOf
+lang String format
+lang Character getNumericValue
+Thread sleep
+System currentTimeMillis
+System nanoTime
+String format
+sleep
+sleepUninterruptibly
+currentThread
+synchronization
+sort
+binarySearch
+reverseOrder
+compare
+util Collections sort
+util List equals
+util ArrayList equals
+util Comparator compare
+Math random
+System nanoTime
+Integer toBinaryString
+ Math random
+random
+nextPowerOfTen
+random ; Math random
+nextAfterPowerOfTen
+getId
+getId
+getAllStackTraces
+getUncaughtExceptionHandler
+Thread getId
+Thread currentThread
+System identityHashCode
+System currentTimeMillis
+sleep
+sleepUninterruptibly
+sleepWithinHorizon
+sleep ( 100 )
+awt EventQueue invokeLater
+awt Desktop getDesktop
+awt Toolkit getDefaultToolkit
+lang Thread sleep
+lang Character valueOf
+lang String valueOf
+nio charset Charset forName
+lang Character toString
+Character valueOf
+String valueOf
+String charAt
+Integer valueOf
+lang System nanoTime
+lang Math random
+util concurrent Executors newFixedThreadPool
+util concurrent Executors newSingleThreadExecutor
+nanoTime
+currentTimeMillis
+arraycopy
+nanotime
+openConnection
+setURLStreamHandlerFactory
+connect
+openStream
+net HttpURLConnection connect
+net HttpURLConnection setInstanceFollowRedirects
+net URL openConnection
+net HttpURLConnection setFixedLengthStreamingMode
+Thread sleep
+System currentTimeMillis
+Runnable run
+Object wait
+lang Thread sleep
+util concurrent Executors newFixedThreadPool
+util concurrent Executors newSingleThreadExecutor
+awt EventQueue invokeLater
+Collections synchronizedMap
+concurrent ConcurrentHashMap putIfAbsent
+concurrent locks ReentrantLock ReentrantLock
+concurrent locks ReentrantLock isHeldByCurrentThread
+synchronizedMap
+newSetFromMap
+newMapFromMap
+unmodifiableMap
+SwingUtilities invokeLater
+JOptionPane showMessageDialog
+JOptionPane showInputDialog
+table AbstractTableModel fireTableRowsInserted
+swing JScrollPane setViewportView
+swing JOptionPane showMessageDialog
+swing JOptionPane showInputDialog
+swing table AbstractTableModel fireTableRowsInserted
+forName
+getCanonicalName
+isAssignableFrom
+getSimpleName
+lang Class forName
+awt Desktop getDesktop
+sql DriverManager getConnection
+util Class forName
+System setProperty
+Thread sleep
+Class forName
+Throwable getSuppressed
+setProperty
+exit
+loadLibrary
+getProperty
+lang System arraycopy
+util Arrays copyOf
+nio ByteBuffer asCharBuffer
+util Arrays copyOfRange
+System arraycopy
+ System arraycopy
+Object toString
+String toCharArray
+lang reflect Method invoke
+lang reflect Array newInstance
+util Arrays sort
+lang Class getDeclaredMethod
+Method invoke
+Array newInstance
+ParameterizedType getActualTypeArguments
+InvocationTargetException getCause
+System console
+Thread sleep
+Console console
+System setConsole
+console
+setProperty
+setConsole
+setOut
+String split
+String substring
+Stringsplit split
+StringTokenizer nextToken
+split
+substring
+charAt
+getsplit
+String format
+Double toString
+Math round
+String valueOf
+lang String format
+lang Double toString
+text NumberFormat getCurrencyInstance
+lang String valueOf
+asList
+copyOf
+toList
+stream
+Arrays asList
+stream Collectors toList
+Collections addAll
+List get
+lang reflect Array newInstance
+util Arrays copyOf
+lang Class getComponentType
+util ArrayList toArray
+System arraycopy
+reflect Array newInstance
+String toCharArray
+String split
+read
+readLine
+lines
+readAllLines
+io BufferedReader readLine
+lang String split
+nio file Files newBufferedReader
+nio channels FileChannel read
+parse
+now
+atStartOfDay
+of
+LocalDate parse
+format DateTimeFormatter ofPattern
+ZonedDateTime parse
+format DateTimeFormatter ISO
+util Collections sort
+util Comparator comparing
+lang String compareTo
+util Comparator compare
+Collections sort
+Arrays sort
+Comparator comparing
+TreeSet TreeSet
+System getenv
+String getenv
+ProcessBuilder environment
+System getenv
+getenv
+setenv
+getEnv
+getProperty
+util concurrent ConcurrentHashMap putIfAbsent
+util concurrent ConcurrentHashMap computeIfAbsent
+util concurrent Semaphore acquireUninterruptibly
+util concurrent package-summary MemoryVisibility
+package-summary MemoryVisibility
+Executors newFixedThreadPool
+LinkedBlockingQueue drainTo
+locks ReentrantReadWriteLock readLock
+toArray
+toString
+trimToSize
+toCharArray
+ArrayList toArray
+Arrays copyOf
+List toArray
+Collections sort
+setEnabled
+setSelected
+getEnabled
+setActionCommand
+SwingUtilities invokeLater
+JOptionPane showConfirmDialog
+SwingUtilities isEventDispatchThread
+JOptionPane showInputDialog
+lang String split
+util Tokenizer nextToken
+util Tokenizer useDelimiter
+util Scanner useDelimiter
+split
+Tokenizer useDelimiter
+replaceAll
+split ( delimiter )
+String substring
+String format
+String trim
+String startsWith
+format
+substring
+startsWith
+trim
+Executors newFixedThreadPool
+Executors newCachedThreadPool
+Executors newSingleThreadExecutor
+Executors defaultThreadFactory
+concurrent Executors newFixedThreadPool
+concurrent ThreadPoolExecutor ThreadPoolExecutor
+concurrent Executors newCachedThreadPool
+concurrent Executors newSingleThreadExecutor
+Math hypot
+Math atan2
+Math abs
+Math min
+lang Math hypot
+lang Math atan2
+lang Math abs
+util Collections hypot
+Thread sleep
+System currentTimeMillis
+Math random
+System nanoTime
+lang Thread sleep
+awt EventQueue invokeLater
+lang System currentTimeMillis
+awt Toolkit getDefaultToolkit
+synchronizedMap
+unmodifiableMap
+newSetFromMap
+singletonMap
+Collections synchronizedMap
+concurrent ConcurrentHashMap putIfAbsent
+Collections unmodifiableMap
+concurrent ConcurrentHashMap computeIfAbsent
+String split
+System lineSeparator
+String substring
+Object toString
+split
+valueOf
+substring
+join
+util Arrays toString
+lang String split
+lang String charAt
+lang System arraycopy
+Arrays toString
+Arrays asList
+Arrays copyOf
+Arrays deepToString
+ofNullable
+replace
+orElseGet
+map
+Optional ofNullable
+Optional empty
+Optional of
+Optional map
+util Comparator comparing
+util Comparator compare
+lang Comparator comparing
+util Collections sort
+Comparator comparing
+Collections sort
+Comparator compare
+Comparator thenComparing
+toArray
+get
+toCharArray
+listToCharArray
+List toArray
+Arrays toString
+Arrays copyOf
+ArrayList toArray
+lang Boolean toString
+lang String valueOf
+util Boolean toString
+lang Boolean valueOf
+Boolean toString
+String valueOf
+Integer toString
+String format
+remove
+removeEldestEntry
+removeIf
+removeAll
+ArrayList remove
+List remove
+Iterator remove
+Collections synchronizedList
+System exit
+Runtime addShutdownHook
+Thread sleep
+System gc
+exit
+gc
+addShutdownHook
+removeAllStackTraces
+Integer valueOf
+Integer parseInt
+Long valueOf
+String valueOf
+lang Integer valueOf
+lang Integer parseInt
+lang Long valueOf
+util Integer valueOf
+sort
+binarySearch
+reverseOrder
+frequency
+util Collections sort
+lang Integer parseInt
+lang Character getNumericValue
+lang String compareTo
+lang Math pow
+lang Double parseDouble
+lang Math log10
+lang Double valueOf
+pow
+floor
+round
+sqrt
+HttpsURLConnection setDefaultSSLSocketFactory
+SSLContext init
+SSLSocket setEnabledCipherSuites
+SSLSocket setNeedClientAuth
+net ssl SSLSocket setEnabledCipherSuites
+crypto Cipher init
+net ssl SSLSocket setNeedClientAuth
+xml bind DatatypeConverter parseHexBinary
+InetAddress getLocalHost
+ServerSocket accept
+Socket accept
+InetAddress getByName
+accept
+ServerSocket
+setSoTimeout
+connect
+loadLibrary
+loadClass
+load
+loadSystemLibrary
+lang System loadLibrary
+lang Class forName
+lang ClassLoader findLibrary
+lang Thread currentThread
+exec
+getRuntime
+addShutdownHook
+availableProcessors
+Runtime exec
+ProcessBuilder directory
+Runtime getRuntime
+System exit
+util Properties load
+lang Class getResourceAsStream
+util Collections unmodifiableMap
+lang ClassLoader getResourceAsStream
+Properties load
+Collections unmodifiableMap
+ResourceBundle getBundle
+properties Properties load
+util LinkedList removeIf
+util List removeIf
+util LinkedList remove
+util Set removeIf
+System arraycopy
+Object equals
+Integer parseInt
+Integer valueOf
+Thread sleep
+System currentTimeMillis
+Math random
+Integer parseInt
+sleep
+sleepUninterruptibly
+yield
+currentThread
+Pattern quote
+Matcher find
+Pattern compile
+Matcher group
+quote
+compile
+matcher
+matches
+clone
+getClass
+ clone
+hashCode
+lang Object clone
+lang System arraycopy
+util Collections copy
+util Arrays copyOf
+lang Class isAssignableFrom
+lang Class forName
+lang reflect Parameter get
+lang Integer parseInt
+getDeclaredField
+getAnnotation
+getDeclaredMethod
+getDeclaredAnnotation
+util Collections sort
+util List sort
+util Collection sort
+util Arrays sort
+sort
+sortedList
+sort ( ) // Collections sort
+sort ( ) // this
+valueOf
+toBinaryString
+toHexString
+toString
+lang Integer valueOf
+lang Long valueOf
+lang Integer toBinaryString
+lang Math pow
+System loadLibrary
+Class forName
+ClassLoader findLibrary
+ClassLoader loadLibrary
+lang System loadLibrary
+lang Class forName
+lang ClassLoader findLibrary
+awt Desktop getDesktop
+swing JOptionPane showMessageDialog
+swing JOptionPane showOptionDialog
+swing JOptionPane showConfirmDialog
+swing JOptionPane showInputDialog
+showMessageDialog
+showOptionDialog
+showInputDialog
+showConfirmDialog
+hashCode
+equals
+toString
+getClass
+System identityHashCode
+Object hashCode
+String hashCode
+Object equals
+net URL getFile
+net URL getPath
+net URL openStream
+nio file Paths get
+getFile
+openStream
+getPath
+toURI
+System arraycopy
+System nanoTime
+reflect Array newInstance
+Math pow
+newInstance
+getLength
+get
+set
+lang System arraycopy
+nio ByteBuffer asFloatBuffer
+util Arrays copyOf
+nio ByteBuffer asCharBuffer
+System arraycopy
+System arraycopy
+ System arraycopy
+System nanoTime
+Thread yield
+Thread sleep
+Thread join
+Object wait
+lang Thread yield
+util concurrent ExecutorService awaitTermination
+util concurrent Executors newFixedThreadPool
+lang Thread sleep
+remove
+hasNext
+remove ( )
+removeAll
+Iterator remove
+Collections synchronizedList
+ArrayList remove
+List subList
+groupingBy
+collectingAndThen
+collectingingAndThen
+reducing
+Collectors groupingBy
+Collectors counting
+Collectors collectingAndThen
+Collectors partitioningBy
+System getProperty
+String contains
+String split
+ClassLoader getResource
+getProperty
+getenv
+getProperties
+currentTimeMillis
+showInputDialog
+showOptionDialog
+ showInputDialog
+ShowInputDialog
+JOptionPane showInputDialog
+SwingUtilities invokeLater
+text JOptionPane showInputDialog
+SwingUtilities windowForComponent
+util Collections sort
+util Comparator comparing
+lang String compareTo
+util Collections reverseOrder
+sort
+reverseOrder
+binarySearch
+sortedList
+exec
+getRuntime
+addShutdownHook
+availableProcessors
+Runtime exec
+Runtime getRuntime
+System getProperty
+System exit
+lang Long parseLong
+lang Integer parseInt
+lang Double parseDouble
+nio file Files readAllLines
+Integer parseInt
+Long parseLong
+Double parseDouble
+System getProperty
+Objects equals
+Collections sort
+Arrays equals
+Optional ofNullable
+equals
+hashCode
+requireNonNull
+deepEquals
+repaint
+paintImmediately
+addNotify
+repaintImmediately
+awt Component repaint
+awt EventQueue invokeLater
+lang Thread sleep
+awt event ComponentEvent getComponent
+Collections shuffle
+Arrays asList
+Arrays copyOfRange
+Arrays fill
+shuffle
+nCopies
+repeat
+shuffle ( newSetFromMap
+text DateFormat parse
+util Date toString
+util Date getTime
+util Date Date
+parse
+setLenient
+getDateInstance
+getDateTimeInstance
+lang String split
+lang String substring
+lang String valueOf
+util regex Pattern quote
+split
+substring
+valueOf
+toCharArray
+Arrays toString
+Collections sort
+stream Collectors joining
+List toString
+toString
+deepToString
+asList
+join
+String format
+String split
+String replaceAll
+System getProperty
+lang String format
+util regex Pattern quote
+util regex Pattern compile
+util Formatter syntax
+util concurrent Executors newFixedThreadPool
+lang Thread currentThread
+util concurrent Executors newSingleThreadExecutor
+lang Thread yield
+Executors newFixedThreadPool
+Executors newSingleThreadExecutor
+Executors defaultThreadFactory
+ThreadPoolExecutor allowCoreThreadTimeOut
+String getBytes
+System arraycopy
+Integer toBinaryString
+Character getNumericValue
+getBytes
+toCharArray
+valueOf
+getNumericValue
+removeIf
+retainAll
+removeAll
+subList
+List removeIf
+Collections indexOfSubList
+Collection removeIf
+ArrayList removeIf
+isArray
+getSimpleName
+getName
+asSubclass
+reflect Array newInstance
+System arraycopy
+reflect Array getComponentType
+reflect Array getType
+sort
+reverseOrder
+binarySearch
+sortedList
+util Collections sort
+util Comparator comparing
+lang String compareToIgnoreCase
+lang String compareTo
+parseInt
+toBinaryString
+valueOf
+numberOfTrailingZeros
+lang Integer parseInt
+util Scanner nextInt
+io BufferedReader readLine
+util Scanner nextDouble
+Thread sleep
+Thread yield
+Object wait
+Threadsleep
+sleep
+yield
+sleepUninterruptibly
+ sleep
+Arrays asList
+Collections unmodifiableList
+Collections synchronizedList
+Collections sort
+asList
+copyOf
+copyOfRange
+toString
+lang System currentTimeMillis
+lang System nanoTime
+util Calendar getInstance
+util TimeZone getAvailableIDs
+System currentTimeMillis
+System nanoTime
+String split
+Thread sleep
+shuffle
+shuffle ( Collections shuffle
+shuffle ( ) ;
+shuffle ( )
+Collections shuffle
+Arrays asList
+Collection shuffle
+List shuffle
+Arrays asList
+Collections sort
+Collections synchronizedList
+Collections unmodifiableList
+asList
+copyOf
+copyOfRange
+listOf
+util Collections sort
+util Arrays sort
+util Comparator comparing
+lang String compareTo
+Collections sort
+Arrays sort
+Arrays binarySearch
+Arrays copyOfRange
+readLine
+read
+readNextLine
+readChar
+io BufferedReader readLine
+lang System lineSeparator
+lang String split
+nio file Files newBufferedReader
+sleep
+currentThread
+setDefaultUncaughtExceptionHandler
+join
+lang Thread sleep
+util concurrent Executors newFixedThreadPool
+awt EventQueue invokeLater
+util concurrent Executors newSingleThreadExecutor
+util Calendar get
+util Calendar getInstance
+util Calendar MONTH
+util Calendar add
+getInstance
+get
+JANUARY
+getActualMaximum
+lang Object equals
+lang Object hashCode
+lang System identityHashCode
+lang String hashCode
+Object equals
+System identityHashCode
+Object hashCode
+String hashCode
+Arrays sort
+Collections sort
+Arrays binarySearch
+Arrays stream
+sort
+asList
+binarySearch
+deepToString
+Integer parseInt
+Long parseLong
+Double parseDouble
+Math pow
+parseInt
+valueOf
+numberOfLeadingZeros
+numberOfTrailingZeros
+Object toString
+String valueOf
+String format
+System identityHashCode
+toString
+getClass
+hashCode
+toGenericString
+Math pow
+Double parseDouble
+ Math pow
+Integer parseInt
+pow
+"pow ( 10 , Math pow"
+"pow ( 2 , Math pow"
+"pow ( 10 , Math"
+format
+valueOf
+compareTo
+intern
+String format
+Integer valueOf
+Integer parseInt
+Double parseDouble
+lang Thread sleep
+lang System exit
+awt Desktop getDesktop
+lang Integer parseInt
+Thread sleep
+System exit
+Integer parseInt
+Math pow
+lang System exit
+lang Thread sleep
+awt EventQueue invokeLater
+util concurrent Executors newFixedThreadPool
+exit
+gc
+nanoTime
+getProperty
+ImageIO read
+ImageIO write
+ImageIO scanForPlugins
+ImageIOread read
+read
+getReaderFileSuffixes
+scanForPlugins
+getReaderFormatNames
+sort
+reverseOrder
+binarySearch
+comparing
+util Collections sort
+util Comparator compare
+lang Integer compare
+util Comparator comparing
+toArray
+toCharArray
+toArray
+toString
+Arrays toString
+List toArray
+stream Stream toArray
+Arrays copyOf
+swing SwingUtilities invokeLater
+swing JTabbedPane setIconImage
+swing JFrame setDefaultLookAndFeelDecorated
+swing ImageIcon ImageIcon
+JFrame setDefaultLookAndFeelDecorated
+JTabbedPane setIconImage
+SwingUtilities invokeLater
+JTabbedPane setTabComponentAt
+System exit
+Object toString
+reflect Method invoke
+Thread sleep
+lang System exit
+sql ResultSet next
+lang Integer parseInt
+sql Statement close
+getConnection
+findConnection
+getDefaultConnection
+getSystemConnection
+sql Connection createStatement
+sql DatabaseMetaData getDatabaseProductName
+sql Connection setCatalog
+lang Class forName
+sort
+reverseOrder
+binarySearch
+reverse
+util Collections sort
+util Comparator compare
+util Collections reverseOrder
+util Comparator comparing
+toArray
+toList
+asList
+toCollection
+Collection toArray
+Arrays asList
+stream Stream toArray
+Collections sort
+forName
+newInstance
+getDeclaredConstructor
+asSubclass
+lang Class forName
+lang Class newInstance
+lang Class getDeclaredConstructor
+lang Class getDeclaredMethod
+floor
+round
+abs
+pow
+lang Math floor
+lang String format
+lang Math round
+lang Math pow
+math BigInteger compareTo
+math BigInteger toByteArray
+math BigInteger longValue
+math BigInteger doubleValue
+divide
+longValue
+doubleValue
+multiply
+util Spliterator getExactSize
+nio ByteBuffer asCharBuffer
+nio channels FileChannel transferFrom
+nio channels FileChannel is
+Spliterator getExactSize
+concurrent Spliterator getExactSize
+stream StreamSpliterator getExactSize
+stream Spliterator getExactSize
+split
+getBytes
+substring
+startsWith
+String split
+Character getNumericValue
+Character isLetterOrDigit
+Integer parseInt
+random
+pow
+atan2
+sqrt
+Math random
+Math pow
+Math atan2
+Math sin
+Executors newSingleThreadScheduledExecutor
+ScheduledExecutorService scheduleAtFixedRate
+ScheduledExecutorService schedule
+ScheduledExecutorService scheduleWithFixedDelay
+newSingleThreadScheduledExecutor
+newFixedThreadPool
+newScheduledThreadPool
+newWorkStealingPool
+newInstance
+getLength
+copyOf
+getClass
+Array newInstance
+Array newInstance
+Array get
+Array getComponentType
+util Collections shuffle
+lang Math random
+util Random nextInt
+util Random nextDouble
+Collections shuffle
+Random shuffle
+Random nextInt
+Arrays asList
+lang System gc
+util Collections synchronizedList
+util Collections newSetFromMap
+util Arrays copyOfRange
+gc
+nanoTime
+garbageCollection
+arraycopy
+Class forName
+ClassLoader loadClass
+ClassLoader defineClass
+Class newInstance
+forName
+asSubclass
+getResourceAsStream
+getDeclaredMethods
+util Scanner nextDouble
+lang Math pow
+lang Double parseDouble
+lang Double valueOf
+Math pow
+Double parseDouble
+String equals
+Math round
+showMessageDialog
+showShowMessageDialog
+ showMessageDialog
+showInputDialog
+JOptionPane showMessageDialog
+SwingUtilities invokeLater
+SwingUtilities windowForComponent
+text JOptionPane showMessageDialog
+toString
+get
+getInstance
+getTime
+Calendar toString
+Calendar toInstant
+Calendar get
+Date toString
+nio ByteBuffer asCharBuffer
+lang Long parseLong
+nio ByteBuffer wrap
+lang Long toString
+Arrays copyOf
+Arrays stream
+Arrays copyOfRange
+Arrays toString
+lang String valueOf
+lang Integer toString
+lang Long toString
+lang String format
+toString
+toHexString
+parseInt
+valueOf
+format
+valueOf
+split
+replace
+lang String format
+util Formatter syntax
+lang String split
+io FileWriter FileWriter
+pow
+sqrt
+abs
+atan2
+lang Math pow
+lang Math atan2
+util Math pow
+lang Math abs
+util Collections synchronizedList
+util concurrent ConcurrentHashMap putIfAbsent
+util ArrayList trimToSize
+util concurrent ConcurrentHashMap computeIfAbsent
+Collections synchronizedList
+concurrent ConcurrentHashMap putIfAbsent
+concurrent locks ReentrantLock unlock
+LinkedBlockingQueue drainTo
+System getProperty
+String split
+String format
+String valueOf
+util Arrays toString
+lang System getProperty
+lang String split
+lang String format
+Math pow
+Integer parseInt
+String valueOf
+Double toString
+pow
+multiplyExact
+floorMod
+round
+lang Math pow
+lang String valueOf
+lang Integer valueOf
+lang Double valueOf
+toString
+valueOf
+toBinaryString
+parseInt
+List set
+ArrayList set
+Collections nCopies
+Arrays asList
+set
+trimToSize
+ensureCapacity
+add
+String compareTo
+Comparable compareTo
+Integer parseInt
+Integer compare
+lang String compareTo
+lang String valueOf
+lang Integer parseInt
+lang String equals
+split
+replaceAll
+lastIndexOf
+replaceFirst
+lang String split
+util regex Pattern quote
+util regex Pattern compile
+util regex Pattern splitAsStream
+Collections sort
+Comparator compare
+Comparator comparing
+Optional ofNullable
+util Comparator compare
+util Collections sort
+util Comparator comparing
+lang Integer compare
+Class forName
+Object getClass
+Class asSubclass
+Class newInstance
+lang Class forName
+lang Object getClass
+lang Class asSubclass
+util Class forName
+Thread sleep
+System currentTimeMillis
+Object wait
+ Thread sleep
+lang Thread sleep
+util concurrent Executors newFixedThreadPool
+awt EventQueue invokeLater
+util concurrent Executors newSingleThreadExecutor
+BufferedImage setRGB
+BufferedImage getGraphics
+BufferedImage createGraphics
+BufferedImage setGraphics
+EventQueue invokeLater
+BufferStrategy show
+GraphicsEnvironment getLocalGraphicsEnvironment
+GraphicsEnvironment isHeadless
+Short toBinaryString
+Integer toBinaryString
+Long toBinaryString
+Short toUnsignedInt
+format
+getBytes
+valueOf
+codePointCount
+String substring
+String split
+String toCharArray
+String charAt
+lang String substring
+util regex Pattern quote
+lang String split
+util regex Pattern compile
+util Comparator compare
+util Collections sort
+lang Integer compare
+lang Double compare
+Comparator compare
+Collections sort
+Arrays sort
+Comparable compareTo
+util Collections emptyList
+lang String getBytes
+io File listFiles
+lang String valueOf
+String getBytes
+String split
+String valueOf
+System getProperty
+Class forName
+System setProperty
+ClassLoader findClass
+ClassLoader findLibrary
+sql DriverManager getConnection
+lang Class forName
+sql DatabaseMetaData getDriverVersion
+sql Connection setCatalog
+stop
+suspend
+currentThread
+interrupt
+Thread stop
+Thread currentThread
+Thread sleep
+Threadstop
+lang Thread yield
+util concurrent ExecutorService awaitTermination
+util concurrent ExecutorService invokeAll
+awt EventQueue invokeLater
+yield
+yieldWithinStealing
+sleep
+yieldWithinHorizon
+parseInt
+valueOf
+numberOfTrailingZeros
+numberOfLeadingZeros
+lang Integer parseInt
+util Arrays toString
+util Arrays stream
+util Arrays copyOf
+lang String split
+util regex Pattern quote
+util regex Pattern compile
+util regex Pattern splitAsStream
+split
+substring
+valueOf
+replaceAll
+lang System gc
+lang Object finalize
+util Arrays fill
+util Collections gc
+System gc
+Object finalize
+Thread sleep
+String intern
+Byte parseByte
+Integer parseInt
+Integer toString
+String format
+toString
+parseInt
+toHexString
+toBinaryString
+sort
+binarySearch
+asList
+deepEquals
+Arrays sort
+Collections sort
+Arrays equals
+Arrays binarySearch
+imageio ImageIO read
+net ssl HttpsURLConnection setDefaultSSLSocketFactory
+swing ImageIcon ImageIcon
+imageio ImageIO scanForPlugins
+read
+getReaderFileSuffixes
+scanForPlugins
+write
+Object clone
+System arraycopy
+Cloneable clone
+System clone
+clone
+clone ( ) ;
+clone ( )
+clone ( ) ; //
+util ArrayList add
+util Collections sort
+util ArrayList ArrayList
+util List add
+trimToSize
+add
+ArrayList
+ensureCapacity
+util Collections sort
+util Comparator compare
+util Arrays sort
+lang Integer parseInt
+sort
+reverseOrder
+binarySearch
+reverse
+Objects equals
+Optional ofNullable
+Collections sort
+Collection contains
+util Objects equals
+util Optional ofNullable
+lang String equals
+lang Comparable compareTo
+System exit
+Runtime addShutdownHook
+Thread sleep
+Thread stop
+lang System exit
+awt Desktop getDesktop
+awt EventQueue invokeLater
+lang Runtime addShutdownHook
+Collections sort
+List retainAll
+List addAll
+ArrayList addAll
+sort
+binarySearch
+addAll
+nCopies
+sort
+binarySearch
+reverseOrder
+sortedList
+util Collections sort
+lang Integer parseInt
+lang Integer valueOf
+util Comparator comparingInt
+concat
+valueOf
+format
+codePointAt
+String concat
+StringBuilder concat
+System lineSeparator
+StringBuilder toString
+invokeLater
+isEventDispatchThread
+invokeAndWait
+updateComponentTreeUI
+swing SwingUtilities invokeLater
+swing JFrame pack
+swing JDialog setDefaultCloseOperation
+swing JDialog JDialog
+net URL openConnection
+lang Thread sleep
+nio file Files walkFileTree
+io File listFiles
+forName
+getResourceAsStream
+isAssignableFrom
+getResource
+lang Runtime exec
+lang Process getInputStream
+lang System exit
+lang Process getErrorStream
+exec
+getRuntime
+addShutdownHook
+registerShutdownHook
+toString
+equals
+hashCode
+getClass
+lang String format
+lang Object toString
+util Arrays toString
+lang StringBuilder append
+lang String split
+util regex Pattern quote
+io BufferedReader readLine
+nio file Files lines
+split
+substring
+replaceAll
+valueOf
+DateFormat parse
+DateFormat format
+SimpleDateFormat parse
+DateFormat setLenient
+util Date toString
+text DateFormat parse
+text DateFormat format
+util Date getTime
+util Arrays asList
+util ArrayList ArrayList
+util Collections unmodifiableList
+util List add
+asList
+copyOf
+copyOfRange
+asList ( array )
+Class forName
+ClassLoader forName
+ClassLoader defineClass
+System loadClass
+lang Class forName
+lang ClassLoader forName
+net URLClassLoader newInstance
+lang System loadLibrary
+lang Long valueOf
+lang Long equals
+lang Long longValue
+lang Long compare
+Long valueOf
+Long equals
+Long longValue
+Long compare
+String startsWith
+String indexOf
+String substring
+String contains
+lang String startsWith
+lang String indexOf
+lang String contains
+lang String split
+TreeSet add
+Collections sort
+SortedSet add
+TreeSet TreeSet
+sort
+binarySearch
+addAll
+newSetFromMap
+lang Runtime exec
+lang System exit
+lang Process waitFor
+lang ProcessBuilder redirectOutput
+Runtime exec
+System exit
+ProcessBuilder redirectOutput
+System getProperty
+getDeclaredMethods
+isAssignableFrom
+forName
+getMethods
+Class getDeclaredMethods
+reflect Method invoke
+Class getMethod
+reflect AccessibleObject setAccessible
+String intern
+Character isJavaIdentifierPart
+System identityHashCode
+Character isHighSurrogate
+intern
+hashCode
+toLowerCase
+equals
+sort
+binarySearch
+reverseOrder
+sortedList
+Collections sort
+Arrays sort
+Comparator comparingInt
+Comparator comparing
+format
+substring
+replace
+valueOf
+lang Integer parseInt
+lang String format
+lang Math pow
+net URLEncoder encode
+File createTempFile
+RandomAccessFile createTempFile
+RandomAccessFile getChannel
+File createNewFile
+io File createTempFile
+lang System getProperty
+io FileOutputStream FileOutputStream
+nio file Files newOutputStream
+lang Thread sleep
+util concurrent Executors newSingleThreadExecutor
+util concurrent Executors newFixedThreadPool
+awt EventQueue invokeLater
+Thread sleep
+System currentTimeMillis
+Object wait
+System sleep
+Date equals
+Date getTime
+Date valueOf
+Date compareTo
+util Date equals
+lang Object equals
+lang System currentTimeMillis
+time LocalDate equals
+Math round
+Math floor
+Math ceil
+Integer parseInt
+lang Math round
+lang Math floor
+lang Math pow
+awt FontMetrics stringWidth
+intern
+isEmpty
+toLowerCase
+equalsIgnoreCase
+String intern
+Character isJavaIdentifierPart
+Character isLetterOrDigit
+Character isJavaIdentifierStart
+io File getParentFile
+nio file Files walkFileTree
+io File getParent
+nio file Files newDirectoryStream
+getParent
+getParentFile
+getCanonicalFile
+getCanonicalPath
+lang Integer valueOf
+lang Long equals
+lang Integer parseInt
+lang Long valueOf
+valueOf
+toHexString
+equals
+toBinaryString
+hashCode
+toString
+equals
+gethashCode
+lang System identityHashCode
+lang Object hashCode
+lang System gc
+util HashMap computeIfAbsent
+System gc
+Class forName
+Object toString
+Object finalize
+gc
+nanoTime
+ gc
+garbageCollect
+walkFileTree
+move
+copy
+newDirectoryStream
+io File listFiles
+nio file Files newDirectoryStream
+util zip ZipFile getInputStream
+nio file Files move
+Character getNumericValue
+String getChars
+String charAt
+String getBytes
+lang Character getNumericValue
+lang String getChars
+lang String charAt
+lang String getBytes
+split
+valueOf
+replaceAll
+getSplit
+lang String split
+util Scanner useDelimiter
+util Scanner next
+io BufferedReader readLine
+Collections unmodifiableSet
+concurrent ConcurrentHashMap removeEldestEntry
+Collection unmodifiableSet
+Collections unmodifiableList
+unmodifiableSet
+unmodifiableNavigableSet
+unmodifiableCollection
+newSetFromMap
+Collections sort
+Arrays sort
+List sort
+List indexOf
+sort
+binarySearch
+reverseOrder
+sortedList
+Optional ofNullable
+Objects equals
+Collections checkedList
+Collections emptyList
+util Optional ofNullable
+util Objects equals
+util Objects requireNonNull
+util Collections checkedList
+util List toArray
+util Arrays toString
+util Collections sort
+util Arrays copyOf
+toArray
+toCharArray
+toString
+subList
+registry LocateRegistry createRegistry
+LocateRegistry createRegistry
+server LocateRegistry createRegistry
+registry LocateRegistry getRegistry
+createRegistry
+getLocateRegistry
+getRegistry
+createLocateRegistry
+Arrays toString
+Arrays sort
+Arrays copyOf
+Arrays copyOfRange
+toString
+sort
+deepToString
+copyOfRange
+getPath
+getFile
+openStream
+toURI
+net URL getPath
+net URL getFile
+net URL openConnection
+nio file Paths get
+net InetAddress getAllByName
+lang InetAddress getAllByName
+net InetAddress getLocalHost
+util InetAddress getAllByName
+InetAddress getAllByName
+InetAddress getLocalHost
+InetAddress getAllByName
+InetAddress getByName
+FXCollections observableList
+FXCollections observableArrayList
+fxml doc-files introduction_to_fxml controller
+fxml doc-files introduction_to_fXMLLoader getController
+fxml doc-files introduction_to_fxml controller
+collections FXCollections observableArrayList
+beans binding Bindings stringValueAt
+event ListSelectionEvent getValueIsAdjusting
+lang System setOut
+lang Runtime exec
+lang ProcessBuilder redirectErrorStream
+lang ProcessBuilder redirectOutput
+System setOut
+ProcessBuilder redirectOutput
+ProcessBuilder redirectErrorStream
+Thread sleep
+FileWriter
+Files newBufferedWriter
+FileFile
+fileWriter
+FileWriter FileWriter
+FileOutputStream FileOutputStream
+BufferedWriter write
+PrintWriter write
+lang Thread currentThread
+awt EventQueue invokeLater
+util concurrent package-summary MemoryVisibility
+util concurrent Executors newFixedThreadPool
+Thread currentThread
+Thread sleep
+Thread getAllStackTraces
+Thread yield
+init
+getInstance
+doFinal
+setInitiator
+crypto Cipher init
+net ssl HttpsURLConnection setDefaultSSLSocketFactory
+xml bind DatatypeConverter parseHexBinary
+net ssl HttpsURLConnection setDefaultHostnameVerifier
+Future get
+Executors newFixedThreadPool
+ExecutorService invokeAll
+CompletableFuture supplyAsync
+util concurrent ExecutorService invokeAll
+lang Thread sleep
+util concurrent Future get
+util concurrent Executors newFixedThreadPool
+invokeLater
+updateComponentTreeUI
+invokeAndWait
+isEventDispatchThread
+swing SwingUtilities invokeLater
+swing JProgressBar setIndeterminate
+swing SwingUtilities updateComponentTreeUI
+swing SwingUtilities invokeAndWait
+Integer parseInt
+Double parseDouble
+String split
+Long parseLong
+lang Integer parseInt
+lang Double parseDouble
+lang Long parseLong
+lang Character isDigit
+util concurrent Executors newFixedThreadPool
+lang Thread sleep
+util concurrent Executors newSingleThreadExecutor
+util concurrent Executors newCachedThreadPool
+concurrent Executors newFixedThreadPool
+concurrent Executors newSingleThreadExecutor
+concurrent Executors newCachedThreadPool
+concurrent Executors defaultThreadFactory
+invokeLater
+updateComponentTreeUI
+getWindowAncestor
+getSystemLookAndFeelClassName
+swing AbstractButton setRolloverIcon
+swing UIManager put
+swing AbstractButton setIconImage
+swing UIManager setLookAndFeel
+UIManager put
+UIManager setLookAndFeel
+JOptionPane showMessageDialog
+JTabbedPane setPrototypeCellValue
+swing UIManager put
+swing UIManager setLookAndFeel
+swing JTabbedPane setPrototypeCellValue
+swing JTabbedPane setTabColor
+ImageIO read
+ImageIO getReaderFileSuffixes
+ImageIO getImageFileSuffixes
+ImageIO getImageReaderFileSuffixes
+imageio ImageIO read
+swing ImageIcon ImageIcon
+swing SwingUtilities invokeLater
+swing image ImageIcon ImageIcon
+subList
+indexOf
+contains
+get
+List indexOf
+stream IntStream range
+Collections indexOfSubList
+List subList
+lang System exit
+io BufferedReader readLine
+lang Thread sleep
+io BufferedReader close
+exit
+nanoTime
+gc
+arraycopy
+System gc
+Runtime freeMemory
+Runtime addShutdownHook
+Thread sleep
+gc
+garbageCollection
+nanoTime
+gcUncaughtExceptionHandler
+util Collections unmodifiableList
+util Collections synchronizedList
+util ArrayList trimToSize
+util ArrayList remove
+Collections unmodifiableList
+Collections synchronizedList
+ArrayList remove
+Collections unmodifiableList
+util Collections sort
+util List sort
+util Arrays sort
+util Comparator compare
+Collections sort
+Arrays sort
+List sort
+Comparator comparing
+Collections unmodifiableSet
+Collections unmodifiableList
+Collections unmodifiableCollection
+Collections unmodifiableMap
+util Collections unmodifiableSet
+util Collections unmodifiableList
+util Collections unmodifiableCollection
+util Collections unmodifiableMap
+getSource
+getExtendedKeyCodeForChar
+getModifiersEx
+getPointerInfo
+awt event MouseEvent getClickCount
+awt EventQueue invokeLater
+awt Component getLocationOnScreen
+awt EventQueue getCurrentEvent
+swing JComponent paintComponent
+swing JComponent paintImmediately
+imageio ImageIO read
+swing JComponent paintAll
+getPreferredSize
+setOpaque
+paintComponent
+paintImmediately
+Math pow
+System arraycopy
+Object equals
+String equals
+pow
+sqrt
+atan2
+random
+Thread sleep
+Class getResource
+String equals
+System exit
+sleep
+currentThread
+dumpStack
+yield
+time LocalDate now
+util Date getTime
+time Instant now
+util Calendar getInstance
+Instant now
+ZonedDateTime now
+LocalDate now
+temporal TemporalAdjusters nextOrSame
+util Arrays asList
+lang String split
+util Collections addAll
+util Collections sort
+asList
+asListasList
+toList
+asString
+System gc
+String substring
+Thread sleep
+Integer valueOf
+lang System gc
+util Collections synchronizedList
+util ArrayList trimToSize
+util Arrays copyOfRange
+gc
+nanoTime
+arraycopy
+ gc
+System gc
+String intern
+Integer valueOf
+Runtime freeMemory
+lang System nanoTime
+util concurrent ScheduledExecutorService scheduleAtFixedRate
+util concurrent Executors newFixedThreadPool
+util concurrent Executors newSingleThreadExecutor
+nanoTime
+currentTimeMillis
+nanoTimenanoTime
+nanotime
+lang System gc
+nio ByteBuffer allocateDirect
+lang Thread sleep
+nio ByteBuffer asIntBuffer
+gc
+nanoTime
+arraycopy
+currentTimeMillis
+Character toChars
+System console
+Character isHighSurrogate
+String getBytes
+io BufferedReader readLine
+lang Character isHighSurrogate
+lang Character toChars
+lang Character isJavaIdentifierPart
+Arrays asList
+regex Pattern quote
+stream Stream anyMatch
+regex Pattern compile
+lang String equals
+lang Integer parseInt
+util Optional ofNullable
+util Optional orElse
+lang System arraycopy
+util Arrays copyOf
+util Arrays copyOfRange
+nio ByteBuffer asCharBuffer
+arraycopy
+nanoTime
+"arraycopy , System arraycopy"
+array copy
+parseDouble
+valueOf
+longBitsToDouble
+getparseDouble
+lang Double parseDouble
+lang Double valueOf
+lang Double parseDouble
+util regex Pattern compile
+System arraycopy
+Buffer blockCopy
+Buffer BlockCopy
+Buffer blockcopy
+arraycopy
+nanoTime
+identityHashCode
+getProperty
+util concurrent Future get
+util concurrent FutureTask get
+lang Thread sleep
+util concurrent ExecutorService submit
+Future get
+FutureTask get
+CompletableFuture get
+CompletableFuture is
+getDeepestComponentAt
+getClosestComponentAt
+convertPointToScreen
+getLastAncestorOfClass
+swing SwingUtilities getDeepestComponentAt
+swing JRootPane getDeepestComponentAt
+swing JTree getDeepestComponentAt
+swing SwingUtilities deepToString
+util Collections shuffle
+util Collection iterator
+util Collection contains
+lang Math random
+Collections shuffle
+Collection iterator
+Collection contains
+stream Stream mapToInt
+fxml doc-files introduction_to_fxml controller
+scene control Labeled getChildren
+scene control Labeled contentDisplayProperty
+collections FXCollections observableArrayList
+control Labeled getChildren
+control Labeled contentDisplayProperty
+control TitledPane getToolTipText
+control TitledPane getLabelProperty
+asList
+copyOf
+toString
+copyOfRange
+util Collections sort
+util List get
+util Arrays asList
+util Arrays copyOf
+io ObjectInputStream readObject
+io ObjectInputStream readResolve
+io ObjectOutputStream readObject
+io ObjectOutputStream reset
+readObject
+readUnshared
+readClassDescriptor
+writeUnshared
+Collections synchronizedList
+concurrent ConcurrentHashMap putIfAbsent
+Collections synchronizedMap
+concurrent Executors newFixedThreadPool
+util Collections synchronizedList
+util concurrent ConcurrentHashMap putIfAbsent
+util Collections synchronizedMap
+util Collections newSetFromMap
+sort
+reverseOrder
+binarySearch
+synchronizedSortedSet
+util Collections sort
+util Comparator compare
+lang Integer compare
+lang String compareTo
+JTable regexFilter
+table DefaultTableModel getColumnClass
+table TableModel getColumnClass
+table AbstractTableModel getColumnName
+swing JTable regexFilter
+swing table DefaultTableModel getColumnClass
+swing table TableModel getColumnClass
+swing table AbstractTableModel getColumnName
+util Collections sort
+util Collections unmodifiableList
+util Collections unmodifiableMap
+util List toArray
+singleton
+emptyList
+sort
+unmodifiableList
+util Collections sort
+util Comparator comparing
+util Comparator compare
+util List sort
+Collections sort
+Comparator comparing
+List sort
+Arrays sort
+lang Thread sleep
+util concurrent Executors newFixedThreadPool
+util concurrent Semaphore acquireUninterruptibly
+util concurrent Executors newSingleThreadExecutor
+Thread sleep
+System currentTimeMillis
+System nanoTime
+Object wait
+Collections sort
+Collections max
+Collections binarySearch
+Arrays asList
+sort
+binarySearch
+max
+unmodifiableList
+util Collections sort
+util Collections shuffle
+util Arrays asList
+util Collection addAll
+sort
+shuffle
+synchronizedList
+max
+invokeLater
+updateComponentTreeUI
+convertPointToScreen
+windowForComponent
+SwingUtilities invokeLater
+JScrollPane setViewportView
+JScrollable getPreferredScrollableViewportSize
+JComponent scrollRectToVisible
+registry LocateRegistry createRegistry
+LocateRegistry createRegistry
+registry LocateRegistry open
+LocateRegistry open
+rmi registry LocateRegistry createRegistry
+rmi registry LocateRegistry open
+net URL openConnection
+rmi registry LocateRegistry openRegistry
+sql ResultSet last
+sql Statement last
+sql PreparedStatement last
+util Iterator next
+last
+isLast
+isBeforeFirst
+getLast
+lang Float compare
+lang Double compare
+lang String compareTo
+lang Math abs
+compare
+equals
+intBitsToFloat
+valueOf
+Path normalize
+Path toRealPath
+FileSystem getPathMatcher
+Paths get
+file Path normalize
+file Path toRealPath
+file Path resolve
+file Paths get
+String format
+String replace
+String replaceAll
+String String
+replace
+format
+replaceAll
+substring
+lang System nanoTime
+lang System getProperty
+lang Integer parseInt
+lang Class atof
+System getProperty
+Integer parseInt
+Class atof
+System nanoTime
+format
+valueOf
+replace
+getFormattedString
+String format
+Integer parseInt
+Math round
+Integer toString
+asList
+toString
+copyOf
+asIntList
+util Arrays asList
+util Collections sort
+util stream Collectors toList
+util stream IntStream range
+util Arrays asList
+util List add
+lang String valueOf
+util List get
+Arrays asList
+Arrays asList
+List add
+Arrays copyOf
+bind
+setLocalHost
+getLocalHost
+setSoTimeout
+net Socket bind
+net InetAddress getLocalHost
+net ServerSocket accept
+net ServerSocket bind
+Arrays asList
+List removeAll
+Collections sort
+Collection removeAll
+asList
+copyOfRange
+copyOf
+toString
+util List remove
+util ArrayList remove
+util Arrays asList
+util stream IntStream range
+List remove
+Arrays asList
+Arrays copyOfRange
+ArrayList remove
+frequency
+binarySearch
+sort
+indexOfSubList
+Collections frequency
+Collections binarySearch
+List contains
+Arrays asList
+max
+sort
+binarySearch
+frequency
+Collections max
+Collections sort
+Collections frequency
+Collections reverseOrder
+net URL openConnection
+net HttpURLConnection setInstanceFollowRedirects
+io BufferedReader readLine
+net HttpURLConnection getResponseCode
+openConnection
+setURLStreamHandlerFactory
+openStream
+setRequestProperty
+Collections sort
+Arrays asList
+Collections reverseOrder
+Arrays sort
+sort
+reverseOrder
+binarySearch
+sortedList
+clone
+"clone ( ) , newCopyOnWriteArray"
+clone ( ) ; return
+"clone ( ) , newCopyOnWriteArrayOf"
+Object clone
+System arraycopy
+reflect Proxy newProxyInstance
+clone Object clone
+util Arrays toString
+util List add
+util Arrays asList
+util ArrayList add
+Arrays toString
+List add
+ArrayList add
+Collection add
+swing JOptionPane showMessageDialog
+swing JList getSelectedValue
+swing text JTextComponent getSelectedText
+swing SwingUtilities invokeLater
+JOptionPane showMessageDialog
+JOptionPane showInputDialog
+SwingUtilities invokeLater
+text JTextComponent getSelectedText
+util List get
+lang Integer parseInt
+util Map get
+util List contains
+Integer parseInt
+Integer valueOf
+Long parseLong
+Long longValue
+Node getAttributes
+Node getAttributeNode
+Node getAttribute
+Node getAttributeNS
+dom Node getAttributes
+dom Element getAttributes
+dom Element getAttribute
+dom Node getAttributeNode
+lang String intern
+lang System identityHashCode
+lang Character isHighSurrogate
+lang Character isJavaIdentifierPart
+intern
+hashCode
+equals
+equalsIgnoreCase
+util concurrent Future get
+lang Thread setDefaultUncaughtExceptionHandler
+lang Callable call
+util Callable call
+concurrent Future get
+concurrent Callable call
+concurrent Executors newSingleThreadExecutor
+concurrent Executors newCachedThreadPool
+String split
+Math random
+System nanoTime
+System currentTimeMillis
+util Collections shuffle
+lang String split
+util Random nextInt
+util StringTokenizer hasMoreTokens
+split
+indexOf
+startsWith
+contains
+lang String split
+util StringTokenizer nextToken
+util StringTokenizer hasMoreTokens
+util StringTokenizer next
+lang String isEmpty
+util StringUtils isEmpty
+lang String isBlank
+lang Integer parseInt
+isEmpty
+isBlank
+trim
+valueOf
+Integer valueOf
+Integer parseInt
+Integer toString
+Integer intValue
+valueOf
+parseInt
+toString
+toBinaryString
+ToolTipManager sharedInstance
+ToolTipBase setToolTipText
+TooltipBase setToolTipText
+TextInputControl appendText
+control ToolTipManager sharedInstance
+Node getToolTipText
+Node getScene
+Node setUserData
+lang Class newInstance
+lang Object toString
+util Collections sort
+lang Object clone
+newInstance
+asSubclass
+forName
+isAssignableFrom
+asList
+copyOf
+copyOfRange
+deepToString
+util Collections sort
+util List get
+util List add
+util List set
+Collections unmodifiableSet
+Collections unmodifiableCollection
+Collections unmodifiableMap
+Iterator remove
+util Collections unmodifiableSet
+util Collections unmodifiableCollection
+util Iterator remove
+util Collection removeIf
+sort
+reverseOrder
+binarySearch
+emptySortedSet
+util Collections sort
+util Comparator compare
+util Comparator comparing
+lang Integer compare
+lang Math random
+util Random nextDouble
+math Math random
+util Collections shuffle
+random
+nextPowerOfTen
+pow
+nextGaussian
+exit
+gc
+getProperty
+arraycopy
+lang System exit
+lang Runtime addShutdownHook
+lang Runtime exec
+lang Runtime getRuntime
+security auth Subject doAs
+net ssl SSLSocket setDefaultSSLSocketFactory
+naming directory SearchControls setReturningAttributes
+xml bind DatatypeConverter parseHexBinary
+LdapContext reconnect
+LdapLdapContext reconnect
+SearchControls setReturningAttributes
+ldap LdapContext reconnect
+lang Math random
+util Collections shuffle
+util Random nextDouble
+util Math random
+random
+nextInt
+floor
+round
+pow
+"pow ( 2 , Math pow"
+"pow ( 10 , Math pow"
+"pow ( 2 , Mathpow"
+lang Math pow
+util Collections pow
+util Arrays copyOfRange
+util stream IntStream rangeClosed
+Double parseDouble
+Double valueOf
+Float valueOf
+Double toString
+parseDouble
+valueOf
+longBitsToDouble
+parseFloat
+lang String split
+util regex Matcher find
+util regex Pattern quote
+util regex Matcher findWithinHorizon
+regex Matcher find
+regex Pattern quote
+regex Matcher findWithinHorizon
+regex Pattern compile
+util Collections shuffle
+lang Math random
+util Random nextInt
+util Arrays fill
+shuffle
+random
+shuffle ( IntStream range
+shuffle ( IntStream rangeClosed
+Integer parseInt
+Byte parseByte
+Character getNumericValue
+String split
+parseByte
+valueOf
+decode
+intBitsToByte
+invokeLater
+isEventDispatchThread
+updateComponentTreeUI
+invokeAndWait
+JOptionPane showMessageDialog
+SwingUtilities invokeLater
+JOptionPane showInputDialog
+UIManager setLookAndFeel
+net Socket connect
+net ServerSocket connect
+net DatagramSocket connect
+net ServerSocket setSoTimeout
+connect
+isConnected
+setSoTimeout
+getLocalHost
+util TreeMap put
+util LinkedHashMap put
+util SortedMap put
+util Collections synchronizedMap
+TreeMap put
+TreeMap putIfAbsent
+NavigableMap subMap
+TreeMap get
+lang System exit
+lang Thread setDefaultUncaughtExceptionHandler
+util Scanner nextDouble
+io BufferedReader readLine
+System exit
+Thread setDefaultUncaughtExceptionHandler
+Throwable addSuppressed
+Throwable printStackTrace
+asList
+asList ( removeIf
+asListIf
+removeIf
+Arrays asList
+List removeIf
+Arrays copyOf
+ArrayList removeIf
+with
+of
+toZonedDateTime
+ZonedDateTime
+ZonedDateTime from
+ZonedDateTime parse
+ZonedDateTime toZonedDateTime
+ZonedDateTime of
+HashMap put
+Collections synchronizedMap
+concurrent ConcurrentHashMap putIfAbsent
+Map put
+util HashMap put
+lang System identityHashCode
+lang String hashCode
+util Map put
+util Collections sort
+util List get
+util ArrayList toString
+util ArrayList get
+IntStream range
+Collectors joining
+IntStream rangeClosed
+Collectors toSet
+lang String format
+lang String valueOf
+lang Character isJavaIdentifierPart
+util regex Pattern quote
+setString
+setClob
+setCharacterStream
+setObject
+Pattern quote
+Matcher replaceAll
+Matcher matches
+Matcher appendTail
+regex Pattern quote
+regex Matcher replaceAll
+regex Matcher matches
+regex Pattern compile
+Thread sleep
+Object wait
+System nanoTime
+Queue poll
+nanoTime
+arraycopy
+currentTimeMillis
+gc
+getTimeZoneOffset
+getInstance
+getDefault
+get
+util TimeZone getDefault
+util Date getTimezoneOffset
+util Date getTimeZoneOffset
+util Date toString
+equals
+intern
+valueOf
+toLowerCase
+lang String equals
+lang String valueOf
+lang String String
+lang String toString
+lang String getBytes
+lang String String
+lang Object toString
+util Arrays copyOf
+String getBytes
+Object toString
+String String
+System arraycopy
+exit
+setExitValue
+removeAllStackTraces
+addShutdownHook
+System exit
+Runtime addShutdownHook
+Throwable getSuppressed
+Thread sleep
+split
+substring
+getBytes
+StringSplit
+lang String split
+util StringTokenizer nextToken
+util StringTokenizer StringTokenizer
+util StringTokenizer hasMoreTokens
+lang String split
+util regex Pattern quote
+util regex Pattern split
+util String split
+String split
+Character isLetterOrDigit
+String substring
+StringSplit split
+split
+Tokenizer useDelimiter
+getBytes
+charAt
+String split
+StringTokenizer nextToken
+Character isWhitespace
+Integer parseInt
+util Collections sort
+util Vector Vector
+util Arrays sort
+util Vector elementAt
+Collections sort
+Arrays sort
+Vector elementAt
+Vector indexOfSubVector
+concurrent Executors newFixedThreadPool
+concurrent Executors newSingleThreadExecutor
+concurrent Executors defaultThreadFactory
+concurrent Executors newCachedThreadPool
+Executors newFixedThreadPool
+Executors defaultThreadFactory
+Executors newSingleThreadExecutor
+Executors newCachedThreadPool
+String format
+String valueOf
+Object toString
+System lineSeparator
+lang String format
+lang Object toString
+lang String valueOf
+lang System lineSeparator
+Arrays asList
+Collections sort
+Arrays copyOf
+ArrayList get
+asList
+copyOf
+toString
+copyOfRange
+shuffle
+newSetFromMap
+shuffle ( Collections shuffle
+synchronizedList
+lang Math random
+util Collections shuffle
+math Math random
+util Random nextDouble
+ceil
+ceiling
+ceil ( Math ceil
+ceil ( Math ceil
+lang Math ceil
+lang Math ceil
+math Math ceil
+lang Math floor
+asList
+stream
+toString
+copyOfRange
+util Arrays asList
+util stream Collectors toList
+util stream Collectors toCollection
+util stream Collectors toList
+equals
+contains
+equalsIgnoreCase
+startsWith
+String equals
+Thread sleep
+Integer parseInt
+Math random
+equals
+toString
+clone
+hashCode
+Thread sleep
+Object equals
+String equals
+Object toString
+lang String split
+util regex Pattern compile
+util regex Pattern quote
+util regex Matcher find
+String split
+Character isWhitespace
+Character getNumericValue
+Character isLetterOrDigit
+lang Class forName
+util Collections sort
+lang System loadLibrary
+util Collections unmodifiableMap
+forName
+getResourceAsStream
+getDeclaredMethods
+asSubclass
+lang String format
+lang Double toString
+lang Math pow
+lang Math round
+toString
+intBitsToDouble
+longBitsToDouble
+toHexString
+util Collections sort
+util Comparator comparing
+lang Integer compare
+lang Object equals
+Collections sort
+Arrays sort
+Comparator comparing
+List sort
+concurrent Executors newSingleThreadExecutor
+concurrent Executors newFixedThreadPool
+Collections synchronizedList
+concurrent Future get
+synchronizedList
+synchronizedMap
+newSetFromMap
+unmodifiableList
+sql ResultSet deleteRow
+sql ResultSet remove
+sql Statement executeBatch
+sql ResultSet delete
+executeBatch
+executeUpdate
+executeQuery
+executeLargeUpdate
+exec
+getRuntime
+addShutdownHook
+availableProcessors
+Runtime exec
+ProcessBuilder redirectOutput
+Runtime getRuntime
+Process waitFor
+format
+valueOf
+replace
+compareTo
+String format
+Math pow
+Integer parseInt
+Object equals
+String StringBuffer StringBuffer
+String StringBuffer toString
+String intern
+StringBuffer StringBuffer
+lang String StringBuffer StringBuffer
+lang String intern
+lang StringBuffer StringBuffer
+util StringBuffer StringBuffer
+Math abs
+Math pow
+Math log10
+Math floorMod
+abs
+addExact
+signum
+pow
+swing SwingUtilities invokeLater
+swing SpinnerNumberModel SpinnerNumberModel
+swing JSpinner getEditor
+swing JSpinner show
+SwingUtilities invokeLater
+JSpinner getEditor
+JOptionPane showInputDialog
+JOptionPane showMessageDialog
+sort
+binarySearch
+sortedList
+synchronizedList
+Collections sort
+List sort
+Arrays sort
+ArrayList sort
+lang System loadLibrary
+lang Class forName
+lang Math pow
+util Collections shuffle
+loadLibrary
+loadClass
+load
+setSecurityManager
+lang String equals
+lang Object equals
+util Objects equals
+lang Integer parseInt
+equals
+hashCode
+toString
+getClass
+exit
+ exit
+loadLibrary
+gc
+System exit
+Thread setDefaultUncaughtExceptionHandler
+Runtime addShutdownHook
+Thread sleep
+exit
+nanoTime
+gc
+arraycopy
+awt EventQueue invokeLater
+lang System exit
+lang Thread sleep
+awt Window dispose
+Collections synchronizedList
+Collections synchronizedCollection
+Collections synchronizedMap
+Collection add
+util Collections synchronizedList
+util Collections synchronizedCollection
+util Collection add
+util Collections synchronizedMap
+DriverManager getConnection
+Connection setCatalog
+DatabaseMetaData getDriverVersion
+DriverManager setLoginTimeout
+setLoginTimeout
+setConnectionTimeout
+setConnectionManager
+setloginTimeout
+lang Integer parseInt
+lang Long parseLong
+sql ResultSet getInt
+lang String valueOf
+Integer parseInt
+Long parseLong
+Double parseDouble
+String valueOf
+Class getName
+Class forName
+Class getSimpleName
+System loadLibrary
+lang Class getName
+lang Class forName
+lang Class getSimpleName
+lang System loadLibrary
+util Collections synchronizedList
+lang Thread sleep
+util concurrent Executors newFixedThreadPool
+util Collections newSetFromMap
+Collections synchronizedList
+concurrent Executors newFixedThreadPool
+Collections newSetFromMap
+concurrent ConcurrentHashMap computeIfAbsent
+String getBytes
+System arraycopy
+Object toString
+Integer toBinaryString
+lang String getBytes
+lang System arraycopy
+nio ByteBuffer wrap
+util Arrays copyOf
+Proxy newProxyInstance
+Constructor newInstance
+Proxy createProxy
+Proxy createProxyInstance
+newProxyInstance
+newInstance
+newInvocationHandler
+createInvocationHandler
+MulticastSocket setReuseAddress
+MulticastSocket accept
+MulticastSocket setMulticastSocketFactory
+MulticastSocket setMulticastSocket
+accept
+setReuseAddress
+getLocalAddress
+setMulticastSocket
+setOut
+exit
+setProperty
+setErr
+lang System setOut
+awt Desktop getDesktop
+io Console setOut
+io BufferedReader readLine
+sort
+reverseOrder
+binarySearch
+sortOrder
+Collections sort
+Arrays sort
+Comparator comparing
+Comparator compare
+locks ReentrantLock ReentrantLock
+package-summary MemoryVisibility
+locks ReentrantLock unlock
+ReentrantLock ReentrantLock
+isHeldByCurrentThread
+holdsLock
+tryLock
+unlock
+getLogger
+setLevel
+addLogger
+createLogger
+Logger getLogger
+LogManager getLogger
+logging Logger getLogger
+logging LogManager getLogger
+swing JOptionPane showOptionDialog
+swing JOptionPane showMessageDialog
+swing JOptionPane showInputDialog
+swing SwingUtilities invokeLater
+showOptionDialog
+showMessageDialog
+showInputDialog
+showConfirmDialog
+parseInt
+valueOf
+parseUnsignedInt
+toString
+lang Integer parseInt
+lang String endsWith
+lang Character isDigit
+util Scanner hasNextInt
+lang Thread sleep
+lang Thread yield
+util concurrent Executors newFixedThreadPool
+util concurrent Executors newSingleThreadExecutor
+Thread sleep
+Thread yield
+Thread stop
+Thread isAlive
+util concurrent CompletableFuture complete
+util concurrent CompletableFuture thenCompose
+util concurrent CompletableFuture runAsync
+util concurrent CompletableFuture thenAcceptAsync
+allOf
+complete
+thenAcceptAsync
+thenCompose
+Object toString
+String format
+System identityHashCode
+String valueOf
+lang Object toString
+lang String format
+util Arrays toString
+lang String valueOf
+String split
+String substring
+Math pow
+String replaceAll
+lang String split
+lang String substring
+util regex Pattern quote
+util regex Pattern compile
+util Collections shuffle
+lang Math random
+util Collection random
+util Collection iterator
+shuffle
+random
+binarySearch
+shuffleAndThen
+util Set replace
+util HashSet replace
+lang String replace
+util TreeSet replace
+equals
+clone
+replace
+hashCode
+SwingUtilities invokeLater
+SwingUtilities updateComponentTreeUI
+SwingUtilities convertPoint
+text JTextComponent setText
+invokeLater
+updateComponentTreeUI
+setTickStyle
+convertPointToScreen
+Thread sleep
+Object wait
+System currentTimeMillis
+Thread yield
+sleep
+yield
+currentThread
+join
+min
+max
+min ( ) ; //noinspection DoubleEqualityComparableToWithinHorizon
+min ( ) ; //noinspection DoubleEqualityComparableToRawLongBits
+util Collections min
+util Arrays asList
+util Collections max
+util List min
+Object equals
+System identityHashCode
+Object hashCode
+String hashCode
+lang Object equals
+lang Object hashCode
+lang System identityHashCode
+lang String hashCode
+sleep
+yield
+currentThread
+interrupted
+Thread sleep
+Thread yield
+System currentTimeMillis
+Object wait
+System gc
+Thread sleep
+Object finalize
+Runtime freeMemory
+gc
+garbageCollection
+nanoTime
+ gc
+nanoTime
+currentTimeMillis
+nanoTimenanoTime
+nanotime
+System nanoTime
+System currentTimeMillis
+Thread sleep
+Math random
+lang Thread sleep
+util concurrent Executors newSingleThreadExecutor
+util concurrent Executors newFixedThreadPool
+util concurrent ScheduledExecutorService scheduleAtFixedRate
+Thread sleep
+Object wait
+System currentTimeMillis
+System nanoTime
+String substring
+System arraycopy
+Character isLetterOrDigit
+StringBuilder deleteCharAt
+substring
+replaceFirst
+deleteCharAt
+replaceAll
+read
+scanForPlugins
+getReaderFileSuffixes
+getReaderImageFileSuffixes
+ImageIO read
+ImageIO getReaderFileSuffixes
+ImageIO scanForPlugins
+ImageIO write
+lang String split
+util Scanner next
+util Scanner nextLine
+lang Integer parseInt
+split
+replace
+substring
+valueOf
+JOptionPane showMessageDialog
+SwingUtilities invokeLater
+JOptionPane showOptionDialog
+JOptionPane showInputDialog
+showMessageDialog
+showOptionDialog
+showInputDialog
+showConfirmDialog
+JOptionPane showMessageDialog
+SwingUtilities invokeLater
+text JOptionPane showMessageDialog
+SwingUtilities invokeAndWait
+showMessageDialog
+showMessageDialogJOptionPane showMessageDialog
+ showMessageDialog
+showShowMessageDialog
+synchronizedList
+synchronizedVector
+newSetFromMap
+synchronizedMap
+Collections synchronizedList
+concurrent ConcurrentHashMap putIfAbsent
+concurrent ConcurrentHashMap computeIfAbsent
+concurrent ConcurrentHashMap removeEldestEntry
+exit
+loadLibrary
+setProperty
+getProperty
+lang System loadLibrary
+lang System getProperty
+lang System exit
+lang Class forName
+sql ResultSet getInt
+sql ResultSet getColumnCount
+sql ResultSetMetaData getColumnCount
+sql ResultSet getRowCount
+ResultSet getInt
+ResultSetMetaData getColumnCount
+ResultSet getColumnCount
+ResultSet getCount
+awt EventQueue invokeLater
+awt event MouseEvent getClickCount
+awt Component addMouseListener
+awt Toolkit getDefaultToolkit
+EventObject getSource
+event MouseEvent getClickCount
+EventQueue invokeLater
+concurrent ScheduledExecutorService scheduleAtFixedRate
+console
+setProperty
+setOut
+ console
+System console
+String split
+Thread sleep
+Integer parseInt
+exit
+nanoTime
+setProperty
+currentTimeMillis
+Thread sleep
+System exit
+Runtime addShutdownHook
+System currentTimeMillis
+lang Class forName
+awt Desktop getDesktop
+lang ClassLoader findClass
+lang System loadLibrary
+forName
+getResourceAsStream
+getDeclaredMethods
+getCanonicalName
+SwingUtilities invokeLater
+JOptionPane showMessageDialog
+SwingUtilities isEventDispatchThread
+JFrame setDefaultCloseOperation
+invokeLater
+isEventDispatchThread
+updateComponentTreeUI
+invokeAndWait
+control cell TextFieldTableCell forTableColumn
+Node lookupAll
+Node setUserData
+Node setOnDragOver
+cell TextFieldTableCell forTableColumn
+TableCellRenderer getTableCellRendererComponent
+TableCellRenderer getListCellRendererComponent
+TextInputControl cellFactoryProperty
+Collections shuffle
+Random nextInt
+Arrays fill
+Random nextBoolean
+util Collections shuffle
+util Random nextInt
+lang Math random
+lang System arraycopy
+util Collections emptyList
+util List isEmpty
+lang Collections emptyList
+lang System emptyList
+emptyList
+unmodifiableList
+emptyMap
+emptySet
+System exit
+Thread sleep
+Throwable addSuppressed
+Throwable getSuppressed
+exit
+nanoTime
+gc
+arraycopy
+lang Math pow
+lang Math random
+util Collections shuffle
+lang String equals
+shuffle
+max
+random
+frequency
+lang Object getClass
+lang Class getName
+lang Class getSimpleName
+lang Class forName
+Object getClass
+Class getName
+Class getSimpleName
+Class getClass
+io File createTempFile
+nio file Files newBufferedWriter
+nio file Files newDirectoryStream
+nio file Files newRandomAccessFile
+File createTempFile
+RandomAccessFile seek
+RandomAccessFile getChannel
+File createNewFile
+lang System setProperty
+lang System getProperty
+net URL setURLStreamHandlerFactory
+util Properties load
+System setProperty
+System getProperty
+Thread sleep
+System setProperty
+sort
+binarySearch
+reverseOrder
+reverse
+util Arrays sort
+util Collections sort
+lang Double compare
+lang String compareTo
+Arrays asList
+Collections unmodifiableList
+ArrayList ArrayList
+Collections checkedList
+asList
+copyOf
+getAsList
+asList ( )
+parseInt
+valueOf
+parseUnsignedInt
+numberOfTrailingZeros
+Integer parseInt
+Character getNumericValue
+String split
+Long parseLong
+File listFiles
+File getName
+File getCanonicalFile
+File exists
+listFiles
+getName
+getCanonicalFile
+canRead
+time format DateTimeFormatterBuilder parseCaseInsensitive
+time format DateTimeFormatterBuilder appendValueReduced
+text DateTimeFormatterBuilder parseCaseInsensitive
+text DateFormat setLenient
+format DateTimeFormatterBuilder parseCaseInsensitive
+format DateTimeFormatterBuilder appendValueReduced
+format DateTimeFormatterBuilder parseDefaulting
+OffsetDateTime parse
+lang Runtime getRuntime
+awt EventQueue invokeLater
+awt Toolkit getDefaultToolkit
+awt Desktop getDesktop
+getRuntime
+exec
+setDefaultUncaughtExceptionHandler
+mockRuntime
+swing SwingUtilities invokeLater
+swing table DefaultTableModel setValueAt
+swing JTable setAutoCreateRowSorter
+swing JTable setValueAt
+invokeLater
+updateComponentTreeUI
+isEventDispatchThread
+invokeAndWait
+remove
+remove ( ) ;
+hasNext
+removeIf
+util List remove
+util Iterator remove
+util ArrayList remove
+util Collections synchronizedList
+lang String equals
+lang Integer parseInt
+awt Desktop getDesktop
+lang Double parseDouble
+String equals
+Integer parseInt
+Double parseDouble
+String valueOf
+nio file Files move
+io File renameTo
+nio channels FileChannel move
+nio File renameTo
+file Files move
+channels FileChannel move
+files move
+channels FileChannel transferFrom
+parseInt
+parseUnsignedInt
+decodeUnsignedInt
+valueOf
+Integer parseInt
+Character getNumericValue
+Double parseDouble
+Long parseLong
+indexOf
+substring
+lastIndexOf
+startsWith
+String indexOf
+String lastIndexOf
+String substring
+Integer parseInt
+Collections sort
+Collection removeIf
+Arrays asList
+Collection iterator
+util Collection removeIf
+util Collections sort
+util Collection iterator
+util Arrays asList
+Collections unmodifiableList
+Collections synchronizedList
+Collections shuffle
+Collections unmodifiableList
+shuffle
+synchronizedList
+unmodifiableList
+emptyList
+lang Boolean valueOf
+lang Boolean parseBoolean
+util Arrays asList
+lang Boolean getBoolean
+valueOf
+parseBoolean
+booleanValue
+getBoolean
+lang Object clone
+util Collections unmodifiableSet
+util Collections unmodifiableList
+lang System arraycopy
+clone
+clone ( )
+clone ( ) ;
+cloneOf
+File renameTo
+File createTempFile
+File deleteOnExit
+File createNewFile
+deleteOnExit
+createNewFile
+createTempFile
+delete
+format
+replace
+valueOf
+replaceAll
+String format
+Integer parseInt
+Double parseDouble
+Character getNumericValue
+copy
+nCopies
+newSetFromMap
+unmodifiableList
+util Collections nCopies
+util Collections synchronizedList
+util Collections copy
+util Collections unmodifiableList
+min
+max
+abs
+pow
+Math max
+Math min
+Integer compare
+Integer parseInt
+currentTimeMillis
+nanoTime
+nanoTimenanoTime
+nanoTimeMillis
+System currentTimeMillis
+System nanoTime
+Thread sleep
+Thread yield
+LinkedHashMap containsValue
+Map containsValue
+LinkedHashMap contains
+Collections unmodifiableMap
+asList
+equals
+hashCode
+toString
+Class forName
+ClassLoader loadClass
+ClassLoader defineClass
+System loadLibrary
+forName
+getResourceAsStream
+getDeclaredMethods
+getCanonicalName
+sort
+binarySearch
+reverseOrder
+sortedList
+Collections sort
+Arrays sort
+List sort
+Comparator comparing
+Thread sleep
+System exit
+System currentTimeMillis
+System nanoTime
+sleep
+currentThread
+sleepUninterruptibly
+stop
+util LinkedHashMap subMap
+util Map subMap
+util concurrent ConcurrentHashMap subMap
+util Collections unmodifiableMap
+unmodifiableMap
+subMap
+synchronizedMap
+singletonMap
+getEnumConstants
+isAssignableFrom
+getGenericSuperclass
+cast
+lang Enum valueOf
+lang Class getEnumConstants
+lang Class isInstance
+util Collections sort
+ConcurrentHashMap putIfAbsent
+package-summary Weakly
+locks ReentrantLock ReentrantLock
+locks ReentrantLock tryLock
+concurrent ConcurrentHashMap putIfAbsent
+Collections synchronizedMap
+concurrent ConcurrentHashMap put
+concurrent ConcurrentHashMap computeIfAbsent
+sort
+binarySearch
+asList
+copyOfRange
+util Arrays sort
+util Collections sort
+util Arrays binarySearch
+util Arrays copyOfRange
+util Collections sort
+util Comparator compare
+util Collections shuffle
+lang Integer compare
+Collections sort
+Arrays sort
+Collections shuffle
+Comparator comparing
+lang String split
+util regex Pattern quote
+util Arrays asList
+util Collections sort
+String split
+Character getNumericValue
+Integer parseInt
+String substring
+unmodifiableList
+singleton
+sort
+unmodifiableNavigableList
+Collections unmodifiableList
+Collections sort
+Collections unmodifiableCollection
+Collections unmodifiableList
+lang String concat
+lang StringBuilder append
+lang StringBuilder StringBuilder
+lang StringBuilder toString
+String concat
+StringBuilder append
+System lineSeparator
+StringBuilder StringBuilder
+util Arrays fill
+lang String getBytes
+nio charset Charset forName
+nio ByteBuffer wrap
+fill
+copyOf
+toString
+copyOfRange
+image BufferedImage getRGB
+Image getRGB
+Color getHSBColor
+Color RGBtoHSB
+getRGB
+getRGB
+getHSBColor
+getHSB
+replace
+newBufferedReader
+replaceAll
+readAllLines
+Files copy
+Files replace
+Files newBufferedReader
+Files write
+util Arrays equals
+util Arrays asList
+util Objects equals
+util Collections emptyList
+Arrays equals
+Arrays asList
+Collections emptyList
+Objects equals
+Locale getDefault
+ResourceBundle getBundle
+Locale setDefault
+Locale getISOCountries
+util Locale getDefault
+lang String split
+lang Class getResource
+util Locale setDefault
+ImageIO read
+ImageIO write
+ImageIO getReaderFileSuffixes
+ImageIO scanForPlugins
+imageio ImageIO read
+swing ImageIcon ImageIcon
+xml bind DatatypeConverter parseBase
+imageio ImageIO getReaderFileSuffixes
+lang Object equals
+lang String equals
+util Objects equals
+lang Integer parseInt
+Object equals
+String equals
+Integer parseInt
+System identityHashCode
+format
+"format ( ""%s|%s|%s|%s|%s"" ,"
+"format ( ""%s|%s|%s|%s|%s|%s"
+"format ( ""%s|%s|%s|%s"" , format"
+lang String format
+lang System out
+io PrintStream printf
+lang System setOut
+unmodifiableMap
+singleton
+singletonMap
+emptyMap
+util Collections unmodifiableMap
+lang UnmodifiableMap removeEldestEntry
+util Collections unmodifiableList
+lang Collections unmodifiableMap
+util stream Collectors summingInt
+util stream Collectors averagingDouble
+util stream IntStream range
+util stream Stream mapToObj
+IntStream range
+Collectors summingInt
+IntStream rangeClosed
+Collectors collectingAndThen
+console
+setOut
+setConsole
+Console console
+System console
+Thread sleep
+Class newInstance
+Object toString
+Throwable printStackTrace
+Throwable getStackTrace
+Throwable fillInStackTrace
+Thread setDefaultUncaughtExceptionHandler
+lang Throwable getStackTrace
+lang Throwable printStackTrace
+lang Throwable fillInStackTrace
+lang Thread setDefaultUncaughtExceptionHandler
+lang String split
+util regex Pattern quote
+net URLConnection setURLStreamHandlerFactory
+lang String substring
+String split
+String substring
+Character isLetterOrDigit
+Character isJavaIdentifierPart
+getResourceAsStream
+getResource
+getDeclaredResourceAsStream
+getResourceResourceAsStream
+String split
+System getProperty
+ClassLoader getResourceAsStream
+Class getResource
+Collections sort
+stream Collectors groupingBy
+Arrays sort
+SortedList subList
+sort
+binarySearch
+sortedList
+singletonSortedList
+FlowLayout next
+EventQueue invokeLater
+Frame setResizable
+FlowLayout FlowLayout
+getDefaultToolkit
+getSystemLookAndFeelDefaults
+getSystemLookAndFeelClassName
+getSystemLookAndFeelDecorated
+Object wait
+System exit
+Thread currentThread
+System getProperties
+util concurrent locks ReentrantLock unlock
+lang Object wait
+util concurrent ConcurrentHashMap putIfAbsent
+util Collections synchronizedList
+split
+substring
+getSplit
+replace
+lang String split
+util Scanner next
+lang String substring
+util regex Pattern quote
+split
+replaceAll
+trim
+join
+String split
+Character isLetterOrDigit
+String trim
+String substring
+exec
+getRuntime
+addShutdownHook
+availableProcessors
+Runtime exec
+Runtime getRuntime
+System setOut
+ProcessBuilder redirectOutput
+util Collections sort
+lang String contains
+util Collections binarySearch
+util ArrayList contains
+exec
+getRuntime
+addShutdownHook
+availableProcessors
+Collections sort
+List sort
+Arrays sort
+Comparator comparing
+sort
+reverseOrder
+binarySearch
+sortedList
+Class forName
+Class newInstance
+Object getClass
+Object toString
+forName
+newInstance
+getDeclaredMethods
+getDeclaredMethod
+indexOf
+startsWith
+contains
+charAt
+lang String indexOf
+util Arrays asList
+util Arrays copyOfRange
+util regex Pattern quote
+Thread sleep
+System exit
+System setProperty
+Integer parseInt
+lang Thread sleep
+awt Desktop open
+awt Desktop browse
+awt Toolkit getDefaultToolkit
+util Arrays asList
+util Collections sort
+util ArrayList ArrayList
+util stream Collectors toCollection
+asList
+copyOf
+copyOfRange
+deepToString
+sort
+reverseOrder
+binarySearch
+synchronizedList
+util Collections sort
+lang String compareTo
+lang String compareToIgnoreCase
+util Comparator comparing
+ImageIO read
+ImageIO write
+ImageIO getReaderFileSuffixes
+ImageIO createImageOutputStream
+read
+write
+getReaderFileSuffixes
+scanForPlugins
+lang Class getDeclaredField
+lang reflect Field get
+lang reflect Modifier isStatic
+lang reflect Modifier FINAL
+Field get
+Modifier isStatic
+Field getDeclaredField
+Parameter isParityAdjusted
+sort
+binarySearch
+asList
+deepToString
+Arrays sort
+Collections sort
+Arrays asList
+Arrays binarySearch
+format
+valueOf
+Format
+getFormat
+String format
+String valueOf
+Object toString
+Integer toString
+nextInt
+nextDouble
+nextBoolean
+nextFloat
+Scanner next
+Arrays deepToString
+Scanner nextLine
+stream IntStream range
+swing SwingUtilities invokeLater
+swing SwingUtilities newSingleThreadExecutor
+swing SwingUtilities wait
+swing SwingUtilities newFixedThreadPool
+invokeLater
+isEventDispatchThread
+waitForLater
+newSingleThreadExecutor
+io BufferedReader readLine
+net Socket setSoTimeout
+net InetAddress getLocalHost
+net DatagramSocket receive
+readLine
+read
+lines
+ready
+swing JOptionPane showMessageDialog
+swing text JOptionPane showMessageDialog
+swing SwingUtilities invokeLater
+swing text JTextComponent showMessageDialog
+showMessageDialog
+showInputDialog
+showConfirmDialog
+showOptionDialog
+String split
+String substring
+Stringsplit split
+Integer parseInt
+lang String split
+util regex Pattern quote
+nio file Files readAllLines
+util regex Pattern compile
+lang Object clone
+lang System arraycopy
+util Collections unmodifiableMap
+util Collection clone
+Object clone
+System arraycopy
+System gc
+reflect AccessibleObject clone
+nanoTime
+currentTimeMillis
+gc
+setProperty
+lang Thread sleep
+net URL openConnection
+util logging LogManager getLogger
+lang System currentTimeMillis
+Arrays fill
+Arrays asList
+Arrays copyOf
+Collections emptyList
+fill
+copyOf
+asList
+empty
+parseInt
+valueOf
+intValue
+getInteger
+lang Integer parseInt
+util Arrays asList
+util regex Pattern compile
+lang String split
+Collections reverse
+List reverse
+LinkedList reverse
+Arrays asList
+util Collections reverse
+util List reverse
+util ArrayList reverse
+util Arrays asList
+Runtime exec
+Runtime getRuntime
+System getProperty
+Process getOutputStream
+lang Runtime exec
+lang Runtime getRuntime
+util concurrent Executors newFixedThreadPool
+util concurrent Executors newWorkStealingPool
+Object toString
+String format
+Object equals
+Integer parseInt
+util Collections sort
+lang Math pow
+lang String format
+lang Object toString
+lang System exit
+awt Desktop getDesktop
+util jar JarEntry exitValue
+lang Runtime addShutdownHook
+System exit
+Runtime addShutdownHook
+Throwable getSuppressed
+Runtime exec
+lang Thread sleep
+awt EventQueue invokeLater
+util concurrent Executors newSingleThreadExecutor
+util concurrent Executors newFixedThreadPool
+sleep
+suspend
+sleepUninterruptibly
+sleeper
+lang String getBytes
+util Base64 getEncoder
+lang Object toString
+util Base64 getDecoder
+String getBytes
+Object toString
+System setProperty
+String format
+SwingUtilities invokeLater
+JOptionPane showMessageDialog
+SwingUtilities updateComponentTreeUI
+JFrame setDefaultCloseOperation
+invokeLater
+updateComponentTreeUI
+getAncestorOfClass
+fillRect
+lang Math round
+math BigDecimal multiply
+lang Math pow
+math BigDecimal setScale
+BigDecimal multiply
+BigDecimal setScale
+BigDecimal valueOf
+BigDecimal add
+lang Object equals
+lang String equals
+util Objects equals
+util Arrays equals
+equals
+hashCode
+deepEquals
+getClass
+Collections max
+Collections binarySearch
+Collections min
+LinkedList get
+binarySearch
+max
+frequency
+min
+util Collections sort
+lang String split
+util Collections synchronizedList
+util stream Collectors groupingBy
+sort
+synchronizedList
+binarySearch
+unmodifiableList
+table TableCellRenderer getTableCellRendererComponent
+table DefaultTableCellRenderer getTableCellRendererComponent
+JTable setBorder
+SwingUtilities invokeLater
+put
+getLookAndFeelDefaults
+setLookAndFeel
+getLookAndFeel
+lang Math abs
+awt Toolkit getDefaultToolkit
+math Math abs
+util Math abs
+Math abs
+Mathabs
+Math asin
+Math Math abs
+Observable onComplete
+Observable onComplete
+concurrent Future get
+Observable onCompleted
+StreamSupport stream
+IntStream complete
+package-summary Observable onComplete
+Collectors toSet
+Thread sleep
+System currentTimeMillis
+System nanoTime
+Mono elapse
+util Mono elapse
+awt EventQueue invokeLater
+lang Thread sleep
+util concurrent ScheduledExecutorService scheduleAtFixedRate
+awt EventQueue invokeLater
+awt event MouseEvent getClickCount
+awt Toolkit getDefaultToolkit
+awt Component addMouseListener
+EventQueue invokeLater
+event MouseEvent getClickCount
+Component addMouseListener
+event InputEvent getClickCount
+lang Thread sleep
+awt EventQueue invokeLater
+awt event MouseEvent getClickCount
+awt FontMetrics stringWidth
+Thread sleep
+System currentTimeMillis
+System nanoTime
+Timer scheduleAtFixedRate
+Thread sleep
+System currentTimeMillis
+Object wait
+Runnable run
+sleep
+setDefaultUncaughtExceptionHandler
+sleepUninterruptibly
+setUncaughtExceptionHandler
+net ServerSocket accept
+net DatagramSocket receive
+net ServerSocket setSoTimeout
+io DataInputStream readFully
+ServerSocket accept
+InetAddress getLocalHost
+DatagramSocket receive
+ServerSocket setSoTimeout
+exec
+getRuntime
+addShutdownHook
+addRuntime
+lang Runtime exec
+sql DriverManager getConnection
+lang System setProperty
+sql DatabaseMetaData getDriverVersion
+xml sax ContentHandler characters
+xml parsers DocumentBuilder parse
+xml sax helpers DefaultHandler error
+xml parsers DocumentBuilderFactory newInstance
+newInstance
+newSAXParser
+newDefaultInstance
+getDefaultInstance
+Math pow
+Integer pow
+Double pow
+ Math pow
+lang Math pow
+math BigInteger pow
+util Math pow
+math Math pow
+SwingUtilities invokeLater
+SwingUtilities updateComponentTreeUI
+JFileChooser setFileSelectionMode
+text JTextComponent read
+swing SwingUtilities invokeLater
+swing SwingUtilities updateComponentTreeUI
+swing JFileChooser setFileSelectionMode
+swing JFileChooser showOpenDialog
+Random nextDouble
+Collections shuffle
+concurrent Random nextDouble
+concurrent ThreadLocalRandom current
+nextDouble
+nextFloat
+doubleToRawLongBits
+doubleToLongBits
+lang Object hashCode
+lang System identityHashCode
+lang String hashCode
+util Arrays hashCode
+hashCode
+equals
+toString
+getClass
+System gc
+Runtime freeMemory
+Class freeMemory
+Object freeMemory
+lang System gc
+util Collections max
+nio ByteBuffer allocateDirect
+util Collections unmodifiableMap
+Thread sleep
+System currentTimeMillis
+System nanoTime
+Timer scheduleAtFixedRate
+sleep
+yield
+interrupted
+currentThread
+file Files copy
+file Files newOutputStream
+channels FileChannel map
+channels FileChannel transferFrom
+nio file Files copy
+io FileInputStream FileInputStream
+io File createTempFile
+nio file Files newOutputStream
+Math pow
+Double valueOf
+ Math pow
+Double toString
+lang Math pow
+util Math pow
+math BigInteger pow
+math Math pow
+Map get
+HashMap get
+Map computeIfAbsent
+concurrent ConcurrentHashMap get
+util Map get
+util HashMap get
+util Map computeIfAbsent
+lang Integer parseInt
+System loadLibrary
+Runtime exec
+Class forName
+ClassLoader findLibrary
+lang System loadLibrary
+lang Runtime exec
+lang Class forName
+lang Thread currentThread
+sort
+binarySearch
+asList
+deepEquals
+util Arrays sort
+util Collections sort
+lang Integer compare
+util Comparator comparingInt
+Class forName
+Class newInstance
+Class asSubclass
+Class getDeclaredMethods
+lang Class forName
+awt Desktop getDesktop
+lang Class asSubclass
+io BufferedReader readLine
+SwingUtilities invokeLater
+SwingWorker run
+SwingWorker start
+JDialog setDefaultCloseOperation
+swing SwingUtilities invokeLater
+swing SwingUtilities isEventDispatchThread
+swing UIManager setLookAndFeel
+swing SwingUtilities invokeAndWait
+format
+valueOf
+concat
+replaceAll
+lang Boolean toString
+lang String format
+lang String valueOf
+util Arrays toString
+String intern
+String equals
+String toCharArray
+String contains
+intern
+hashCode
+equals
+compareTo
+Integer parseInt
+Long parseLong
+String split
+Character isLetterOrDigit
+lang Integer parseInt
+lang Long parseLong
+lang Double parseDouble
+lang String split
+Arrays copyOf
+Arrays copyOfRange
+Collections copy
+stream IntStream range
+util Arrays copyOf
+lang System arraycopy
+util Arrays copyOfRange
+util Collections copy
+System currentTimeMillis
+System nanoTime
+Thread sleep
+System getProperty
+lang System currentTimeMillis
+lang System nanoTime
+awt EventQueue invokeLater
+util Calendar getInstance
+toString
+valueOf
+toBinaryString
+parseInt
+Math pow
+Math plus
+Math addExact
+Math abs
+SpinnerNumberModel
+getValueAt
+getSelectedValuesList
+getMaximumItemCount
+swing SpinnerNumberModel SpinnerNumberModel
+swing SwingUtilities invokeLater
+swing JSpinner setPrototypeCellValue
+swing JSpinner setPrototypeDisplayValue
+Thread sleep
+System exit
+Thread stop
+Threadsleep
+sleep
+stop
+interrupt
+suspend
+Integer parseInt
+Integer valueOf
+Math pow
+Integer toString
+parseInt
+toString
+valueOf
+toBinaryString
+util Collections shuffle
+lang Math random
+lang Enum ordinal
+lang System currentTimeMillis
+shuffle
+newSetFromMap
+frequency
+ shuffle
+Duration parse
+Period parse
+LocalDateTime parse
+ZoneId systemDefault
+time Duration parse
+util Duration parse
+lang String split
+lang Duration parse
+asList
+copyOf
+copyOfRange
+getAsList
+Arrays asList
+Collections unmodifiableList
+Collections synchronizedList
+ArrayList ArrayList
+lang String split
+lang String substring
+lang String trim
+util regex Pattern quote
+String substring
+String split
+String trim
+String format
+Arrays asList
+Arrays copyOf
+Collections unmodifiableList
+List add
+asList
+copyOf
+asListasList
+asList ( T )
+sort
+reverseOrder
+binarySearch
+sortOrder
+Collections sort
+Arrays sort
+Date getTime
+Comparator comparing
+util List size
+util Collections frequency
+util Collections max
+util stream Collectors groupingBy
+Collections frequency
+List size
+Collections max
+stream Collectors groupingBy
+Pattern compile
+Matcher compile
+Matcher group
+Pattern quote
+util regex Pattern compile
+lang String split
+lang String intern
+util regex Pattern quote
+min
+max
+abs
+floor
+Math min
+Integer parseInt
+Math max
+Integer min
+util Iterable size
+util Iterator size
+util List size
+util Collection size
+getSpliterator
+hitEnd
+getActualMaximum
+getSize
+util concurrent ExecutorService invokeAll
+util concurrent ExecutorService awaitTermination
+lang Thread yield
+util concurrent Executors newFixedThreadPool
+Executors newFixedThreadPool
+ExecutorService invokeAll
+Executors newSingleThreadExecutor
+Executors newWorkStealingPool
+System currentTimeMillis
+System getProperty
+System nanoTime
+System getProperties
+lang System currentTimeMillis
+util Calendar getInstance
+util TimeZone getAvailableIDs
+util Date getTime
+String format
+System currentTimeMillis
+System getProperty
+Object toString
+util TimeZone setDefault
+lang String format
+util TimeZone getDefault
+time format DateTimeFormatter ofPattern
+util List contains
+util ArrayList contains
+util Collections indexOfSubList
+util stream Collectors groupingBy
+asList
+binarySearch
+equals
+deepEquals
+lang String split
+util regex Pattern quote
+lang String trim
+util Scanner useDelimiter
+split
+trim
+replaceAll
+substring
+lang Class forName
+sql DriverManager getConnection
+sql Connection setCatalog
+sql Connection createStatement
+Class forName
+System setProperty
+String getBytes
+Runtime exec
+LinkedList add
+Collections sort
+List add
+Arrays asList
+sort
+addAll
+singleton
+linkedList
+util List toArray
+util Arrays toString
+util Map values
+util Map entrySet
+List toArray
+Arrays toString
+Collections toArray
+Collection toArray
+exit
+gc
+ exit
+setExit
+lang System exit
+awt EventQueue invokeLater
+lang Runtime addShutdownHook
+lang Runtime exec
+lang Thread sleep
+util Timer scheduleAtFixedRate
+util concurrent ScheduledExecutorService scheduleAtFixedRate
+lang System currentTimeMillis
+sleep
+currentThread
+suspend
+interrupted
+invoke
+getParameterTypes
+getGenericReturnType
+getGenericParameterTypes
+Method invoke
+Proxy newProxyInstance
+Field get
+AccessibleObject setAccessible
+exit
+gc
+setOut
+getProperty
+System exit
+Thread sleep
+Runtime addShutdownHook
+Throwable printStackTrace
+compile
+quote
+matches
+matcher
+regex Pattern compile
+regex Pattern quote
+regex Pattern pattern
+regex Pattern Pattern
+Collections frequency
+concurrent Executors newFixedThreadPool
+concurrent PriorityBlockingQueue poll
+concurrent Executors newWorkStealingPool
+util Collections frequency
+lang System nanoTime
+lang Integer parseInt
+lang Math random
+add
+addFirst
+offerFirst
+addfirst
+util Deque addFirst
+util Collections synchronizedList
+util Collections sort
+util ArrayList add
+regex Pattern quote
+regex Matcher group
+regex Matcher find
+regex Pattern compile
+Pattern quote
+Pattern compile
+Matcher find
+Matcher group
+util Collections sort
+util Comparator comparing
+util Arrays sort
+util Comparator compare
+Collections sort
+Arrays sort
+Comparator comparing
+List sort
+get
+entrySet
+Entry getValue
+getEntry
+util Map get
+util Map Entry getValue
+util HashMap get
+util Collections unmodifiableMap
+String format
+Object toString
+System lineSeparator
+System getProperty
+lang String format
+util Formatter syntax
+lang Object toString
+lang System lineSeparator
+util Arrays asList
+lang String valueOf
+util List add
+lang System arraycopy
+asList
+copyOf
+asCharSequence
+asSubList
+Thread sleep
+System currentTimeMillis
+System nanoTime
+Object wait
+lang Thread sleep
+util concurrent Executors newFixedThreadPool
+util concurrent Executors newSingleThreadExecutor
+util concurrent Semaphore acquireUninterruptibly
+Runtime setShutdownHook
+Runtime addShutdownHook
+System exit
+Runtime getRuntime
+lang Runtime setShutdownHook
+lang Runtime addShutdownHook
+lang Runtime getRuntime
+lang System exit
+trim
+replace
+substring
+replaceAll
+lang String trim
+lang String substring
+util regex Pattern quote
+lang String replaceAll
+Arrays asList
+Arrays equals
+Arrays toString
+Arrays binarySearch
+util Arrays asList
+util Arrays toString
+util Arrays binarySearch
+util Arrays equals
+lang System setOut
+io BufferedReader readLine
+io PrintStream println
+lang System setErr
+System setOut
+Thread sleep
+System setErr
+Object toString
+lang Class cast
+lang Object getClass
+lang Class asSubclass
+lang String valueOf
+Class cast
+Object getClass
+Class asSubclass
+reflect Method invoke
+sleep
+setDefaultUncaughtExceptionHandler
+suspend
+setUncaughtExceptionHandler
+Thread sleep
+System currentTimeMillis
+Object wait
+Runnable run
+lang String format
+lang String valueOf
+lang Integer toString
+lang Math pow
+String format
+Integer toString
+Integer toHexString
+String valueOf
+indexOf
+startsWith
+substring
+replaceAll
+lang Character isWhitespace
+lang String indexOf
+util Scanner useDelimiter
+lang String substring
+getEncoded
+getBytes
+toByteArray
+getCertificateChain
+KeyManagerFactory getDefaultAlgorithm
+KeyStore getCertificate
+KeyManagerFactory getInstance
+KeyManagerFactory getCertificate
+util Arrays sort
+util Collections sort
+lang Integer parseInt
+lang String compareTo
+sort
+binarySearch
+asList
+reverseOrder
+lang Object hashCode
+lang System identityHashCode
+lang String hashCode
+util Arrays hashCode
+hashCode
+equals
+toString
+getClass
+CardLayout next
+Toolkit getDefaultToolkit
+EventQueue invokeLater
+event ComponentEvent getComponent
+switchLayout
+show
+switchTo
+switchView
+join
+currentThread
+getAllStackTraces
+yield
+Thread join
+Thread currentThread
+Thread yield
+Thread sleep
+net URLConnection getContentLength
+net URL openConnection
+net URLConnection setFollowRedirects
+net URLConnection getInputStream
+toString
+equals
+getBytes
+getClass
+lang Double parseDouble
+lang Integer parseInt
+text NumberFormat getCurrencyInstance
+lang String equals
+BigDecimal compareTo
+BigDecimal valueOf
+BigDecimal BigDecimal
+BigDecimal movePointRight
+Class isInstance
+Class forName
+Class isAssignableFrom
+Class newInstance
+forName
+isInstance
+asSubclass
+isAssignableFrom
+toString
+deepToString
+asList
+copyOfRange
+Arrays toString
+Arrays deepToString
+Arrays stream
+stream Collectors joining
+Runtime exec
+System getProperty
+String format
+System setProperty
+lang Runtime exec
+lang System getProperty
+lang String format
+lang Integer parseInt
+parseInt
+toString
+valueOf
+toBinaryString
+lang Integer parseInt
+lang String split
+util Scanner nextInt
+util Scanner nextLine
+util logging Logger getLogger
+util concurrent Executors newSingleThreadExecutor
+util concurrent package-summary MemoryVisibility
+util concurrent Executors newSingleThreadScheduledExecutor
+Logger getLogger
+LogManager getLogger
+logging Logger getLogger
+AbstractLogManager getLogger
+lang String replace
+util regex Pattern quote
+util regex Matcher appendReplacement
+lang String replaceAll
+replace
+format
+replaceAll
+replaceFirst
+subList
+listIterator
+get
+retainAll
+util stream IntStream range
+util List get
+util List subList
+util List listIterator
+Collections sort
+Arrays sort
+List sort
+Comparator comparing
+util Collections sort
+util List sort
+util Comparator compare
+util Arrays sort
+io File exists
+nio file Files newDirectoryStream
+io File listFiles
+io File getCanonicalFile
+File exists
+File listFiles
+File mkdirs
+File getCanonicalFile
+lang Class forName
+awt Desktop getDesktop
+lang ClassLoader findClass
+net URLClassLoader findClass
+forName
+getDeclaredMethods
+getResourceAsStream
+getCanonicalName
+fxml doc-files introduction_to_fxml controller
+application Platform runLater
+application Platform open
+fxml doc-files introduction_to_fxml custom
+show
+showAndWait
+open
+setAlwaysOnTop
+Integer parseInt
+Double parseDouble
+Long parseLong
+Math pow
+parseInt
+valueOf
+numberOfTrailingZeros
+numberOfLeadingZeros
+Date toString
+Date Date
+Date parse
+Date getTime
+util Date toString
+util Date Date
+lang String split
+text DateFormat parse
+isNaN
+valueOf
+parseDouble
+toString
+Double valueOf
+Double parseDouble
+Double NaN
+Double isNaN
+Collection isEmpty
+Collections emptyList
+Collections isEmpty
+Arrays asList
+util Collection isEmpty
+util Collections emptyList
+util Collections isEmpty
+util List isEmpty
+ImageIO read
+ImageIO scanForPlugins
+ImageIO getReaderFileSuffixes
+ImageIO getImageInputStream
+read
+scanForPlugins
+getReaderFileSuffixes
+getReaderFileTypes
+sleep
+sleepUninterruptibly
+currentThread
+ sleep
+lang Thread sleep
+util concurrent ScheduledExecutorService scheduleAtFixedRate
+util concurrent ScheduledExecutorService scheduleWithFixedDelay
+util concurrent Executors newFixedThreadPool
+contains
+split
+indexOf
+compareTo
+Object equals
+Object hashCode
+Comparable compareTo
+System arraycopy
+format
+valueOf
+Format format
+getFormattedString
+String format
+String valueOf
+StringBuilder replace
+Object toString
+newInstance
+getMethod
+getDeclaredMethod
+asSubclass
+lang Class getMethod
+lang Class getDeclaredMethod
+lang Class newInstance
+lang Class getDeclaredMethods
+sort
+newSetFromMap
+synchronizedList
+unmodifiableList
+util Collections sort
+util Collections synchronizedList
+util Collections newSetFromMap
+util Collections synchronizedSortedSet
+BigDecimal divide
+BigDecimal movePointRight
+BigInteger divide
+BigDecimal movePointLeft
+math BigDecimal divide
+math BigDecimal setScale
+math BigDecimal round
+math BigDecimal movePointLeft
+sort
+reverseOrder
+binarySearch
+synchronizedList
+util Collections sort
+lang Integer compare
+util Comparator comparing
+util Comparator compare
+getDefaultMidiSystemId
+getDefaultMidiDeviceInfo
+getDefaultMidiSystemMidiSystem
+getDefaultMidiSystem
+MidiSystem getSequencer
+MidiSystem getMidiDeviceInfo
+MidiDevice getMidiDeviceInfo
+midi MidiSystem getSequencer
+lang Math pow
+awt Window pack
+lang Integer parseInt
+awt Container add
+Math pow
+Integer parseInt
+String equals
+Math floor
+String split
+Character getNumericValue
+String replaceAll
+String substring
+lang String split
+util Arrays asList
+lang String replaceAll
+lang Character isHighSurrogate
+AccessibleObject setAccessible
+AccessibleField setAccessible
+AccessibleClass setAccessible
+AccessibleObject setAccessible
+setAccessible
+getAccessibleObject
+getDeclaredField
+getAccessibleClass
+sort
+binarySearch
+reverseOrder
+sortedList
+Collections sort
+Arrays sort
+Arrays asList
+Comparator comparing
+forName
+getDeclaredMethods
+getMethod
+getDeclaredMethod
+lang Class forName
+lang Class getMethod
+lang Class getDeclaredMethods
+lang Class getName
+ByteBuffer asCharBuffer
+ByteBuffer wrap
+ByteBuffer allocate
+charset Charset defaultCharset
+allocate
+allocateDirect
+asCharBuffer
+wrap
+lang System exit
+lang Thread sleep
+util concurrent package-summary MemoryVisibility
+util concurrent Future get
+exit
+nanoTime
+gc
+setOut
+getCaretPosition
+getClosest
+getParent
+focusTraversableProperty
+control TextInputControl appendText
+doc-files introduction_to_fxml controller
+Node caretCountProperty
+control TextInputControl caretCountProperty
+SwingUtilities invokeLater
+JSplitPane propertyChange
+PropertyChangeListener propertyChange
+PropertyChangeEvent getValueIsAdjusting
+swing JSplitPane propertyChange
+swing SwingUtilities invokeLater
+swing PropertyChangeListener propertyChange
+swing propertyChangeListener propertyChange
+lang Thread sleep
+lang System currentTimeMillis
+lang System nanoTime
+util concurrent ScheduledExecutorService scheduleAtFixedRate
+sleep
+yield
+currentThread
+interrupted
+InetAddress getByName
+InetAddress getLocalHost
+ServerSocket ServerSocket
+ServerSocket accept
+net ServerSocket ServerSocket
+net Socket bind
+net InetAddress getLocalHost
+net URL setURLStreamHandlerFactory
+range
+rangeClosed
+rangeInt
+rangeClose
+util stream IntStream range
+lang Math min
+util List subList
+lang Math pow
+charAt
+indexOf
+substring
+split
+lang Character isWhitespace
+util Scanner next
+lang String indexOf
+io BufferedReader read
+sql ResultSet getObject
+lang Integer parseInt
+lang Long parseLong
+lang Double parseDouble
+getConnection
+getDatabaseProductName
+registerDriver
+findConnection
+hashCode
+toString
+equals
+getClass
+lang Object hashCode
+lang System identityHashCode
+lang String hashCode
+util Arrays hashCode
+awt Toolkit getDefaultToolkit
+awt Toolkit getImage
+awt TrayIcon setImage
+awt Image getScaledInstance
+TrayIcon setImage
+Toolkit getDefaultToolkit
+Graphics drawImage
+Image getScaledInstance
+System gc
+Runtime freeMemory
+Thread sleep
+Runtime exec
+gc
+garbageCollection
+nanoTime
+garbageCollector
+util Collections sort
+util Arrays sort
+lang String compareTo
+util Comparator compare
+sort
+reverseOrder
+binarySearch
+reverse
+lang System console
+lang String getBytes
+io Console readLine
+lang Thread sleep
+System console
+Class getResourceAsStream
+Thread sleep
+Integer parseInt
+io BufferedReader close
+io Reader close
+nio channels FileChannel close
+io Closeable close
+BufferedReader close
+InputStream close
+FileInputStream close
+Reader close
+util Collections sort
+util Comparator comparing
+util Comparator compare
+util Arrays sort
+sort
+reverseOrder
+binarySearch
+sortedList
+compile
+matches
+quote
+splitAsStream
+regex Pattern compile
+regex Pattern quote
+regex Matcher matches
+regex Pattern matches
+join
+getAllStackTraces
+currentThread
+sleep
+lang Thread join
+util concurrent package-summary MemoryVisibility
+util Collections synchronizedList
+util Collections synchronizedMap
+Arrays asList
+stream Collectors toList
+Collections synchronizedList
+Collections singletonList
+asList
+copyOf
+stream
+toList
+newInstance
+createContext
+getDefaultInstance
+getContextClassLoader
+xml bind JAXBContext newInstance
+xml bind JAXBContextFactory newInstance
+xml bind JAXBContext forName
+xml bind JAXBContext createContext
+add
+remove
+retainAll
+removeAll
+LinkedHashSet add
+Set add
+TreeSet add
+LinkedHashMap removeEldestEntry
+lang String matches
+lang Integer parseInt
+util regex Pattern quote
+lang Character isDigit
+parseInt
+toString
+valueOf
+toHexString
+net DatagramSocket receive
+io BufferedReader readLine
+net ServerSocket accept
+net Socket close
+BufferedReader readLine
+DataInputStream readLine
+PrintWriter println
+InputStream available
+System getProperty
+ClassLoader getResourceAsStream
+Class getResourceAsStream
+ClassLoader getResource
+util Properties load
+lang Class getResourceAsStream
+lang System getProperty
+lang ClassLoader getResourceAsStream
+sort
+binarySearch
+reverseOrder
+reverse
+util Collections sort
+lang Object hashCode
+util Comparator comparing
+lang Object equals
+lang Integer parseInt
+lang Long parseLong
+lang Double parseDouble
+lang Character getNumericValue
+parseInt
+valueOf
+numberOfLeadingZeros
+numberOfTrailingZeros
+SwingUtilities invokeLater
+SwingUtilities windowForComponent
+SwingUtilities getWindowAncestor
+SwingUtilities updateComponentTreeUI
+swing SwingUtilities invokeLater
+swing SwingUtilities getWindowAncestor
+swing SwingUtilities windowForComponent
+swing SwingUtilities updateComponentTreeUI
+gc
+garbageCollection
+nanoTime
+gc ( )
+System gc
+Thread sleep
+Object finalize
+Object wait
+Object equals
+String equals
+System arraycopy
+Comparable compareTo
+lang Object equals
+util Objects equals
+util Objects deepEquals
+util List equals
+exit
+exitOnExit
+ exit
+setExitValue
+awt Toolkit getDefaultToolkit
+awt EventQueue invokeLater
+awt Desktop getDesktop
+awt Desktop exit
+getInputStream
+waitFor
+getOutputStream
+exitValue
+awt EventQueue invokeLater
+lang System exit
+awt Desktop getDesktop
+lang System setOut
+Arrays fill
+regex Pattern quote
+Scanner next
+Scanner findWithinHorizon
+lang String replaceAll
+lang Character isHighSurrogate
+lang StringBuilder deleteCharAt
+lang String substring
+valueOf
+substring
+split
+format
+lang Integer parseInt
+lang String valueOf
+lang Long parseLong
+lang Double parseDouble
+of
+flatMap
+collectingAndThen
+collect
+stream Collectors groupingBy
+stream Collectors counting
+stream Collectors collectingAndThen
+Collectors groupingBy
+Math round
+Math pow
+Math floorMod
+String format
+lang Math round
+lang Math pow
+lang Math floorMod
+lang Double toString
+nanoTime
+gc
+currentTimeMillis
+identityHashCode
+Math pow
+System nanoTime
+Integer parseInt
+Double parseDouble
+regex Pattern quote
+regex Pattern splitAsStream
+regex Matcher find
+regex Pattern compile
+quote
+splitAsStream
+compile
+split
+swing SwingUtilities invokeLater
+swing ImageIcon setImageObserver
+swing ImageIcon paintImmediately
+swing JComponent paintImmediately
+read
+scanForPlugins
+readAllLines
+readAllBytes
+Integer parseInt
+Byte parseByte
+Character getNumericValue
+Character toBinaryString
+lang Integer parseInt
+lang Character getNumericValue
+lang String format
+nio charset Charset forName
+Collections sort
+ArrayList ArrayList
+Collections shuffle
+ArrayList add
+util ArrayList ArrayList
+util Collections sort
+util ArrayList add
+util Collections shuffle
+replaceAll
+replaceFirst
+quoteReplacement
+appendReplacement
+util regex Matcher replaceAll
+lang String replaceAll
+util regex Pattern quote
+util regex Matcher appendReplacement
+lang System arraycopy
+util Arrays fill
+nio ByteBuffer allocate
+nio ByteBuffer asCharBuffer
+System arraycopy
+String getBytes
+Integer toBinaryString
+Integer valueOf
+util Collections sort
+lang Integer compare
+util Comparator compare
+util Comparator comparing
+compareTo
+compareToIgnoreCase
+compare
+thenComparing
+lang String substring
+lang String replaceAll
+lang String format
+util regex Matcher replaceAll
+String substring
+String replaceAll
+String format
+String replace
+awt Desktop getDesktop
+lang String equals
+awt EventQueue invokeLater
+lang Object equals
+ordinal
+getDeclaringClass
+valueOf
+name
+time LocalDate now
+util concurrent atomic AtomicInteger incrementAndGet
+time Instant ofEpochMilli
+util concurrent atomic AtomicLong get
+systemDefault
+of
+getAvailableZoneIds
+availableZoneIds
+InputStreamReader InputStreamReader
+InputStreamInputStream InputStreamReader
+BufferedReader readLine
+FileInputStream InputStreamReader
+io InputStreamReader InputStreamReader
+nio file Files newBufferedReader
+nio file Files newInputStream
+net URLConnection setSoTimeout
+Integer parseInt
+Double parseDouble
+Long parseLong
+String split
+parseInt
+valueOf
+toBinaryString
+toString
+Collections frequency
+List size
+ArrayList size
+Collection size
+util ArrayList size
+util List size
+util Collections frequency
+util Collection size
+Math random
+System currentTimeMillis
+String format
+System nanoTime
+random
+nextInt
+pow
+nextGaussian
+toString
+subList
+get
+toArray
+Arrays toString
+regex Pattern quote
+regex Pattern compile
+regex Pattern splitAsStream
+swing UIManager setLookAndFeel
+swing UIManager put
+swing UIManager getLookAndFeelDefaults
+swing UIManager getSystemLookAndFeelClassName
+setLookAndFeel
+getLookAndFeelDefaults
+getSystemLookAndFeelClassName
+getLookAndFeel
+xml parsers DocumentBuilder parse
+xml bind JAXBContext newInstance
+xml transform stream StreamSource setSystemId
+xml bind JAXBContextFactory createContext
+parse
+setNamespaceAware
+setFeature
+newDocument
+invokeLater
+isEventDispatchThread
+getAncestorOfClass
+invokeAndWait
+swing SwingUtilities invokeLater
+swing JOptionPane showMessageDialog
+swing JDialog setDefaultCloseOperation
+swing SwingUtilities isEventDispatchThread
+Class isInstance
+Class isAssignableFrom
+Object getClass
+reflect Proxy newProxyInstance
+isInstance
+isAssignableFrom
+asSubclass
+forName
+Integer parseInt
+String valueOf
+Integer valueOf
+String format
+toString
+parseInt
+valueOf
+numberOfTrailingZeros
+next
+nextInt
+hasNextInt
+hasNextLine
+Scanner next
+Scanner useDelimiter
+Scanner nextDouble
+Scanner hasNextInt
+remove
+clear
+trimToSize
+removeAll
+lang System gc
+io File createTempFile
+util Iterator remove
+io ObjectOutputStream reset
+lang Math pow
+lang Double toString
+lang Math min
+lang Integer toString
+Math pow
+Integer toString
+Integer valueOf
+Double toString
+load
+getProperty
+loadProperty
+loadFromProperty
+Arrays asList
+Collections sort
+regex Pattern compile
+Scanner findWithinHorizon
+startsWith
+equals
+compareTo
+contains
+reflect Method invoke
+Class getMethods
+reflect Proxy newProxyInstance
+Object equals
+System exit
+Process destroy
+Thread sleep
+Runtime exec
+destroy
+waitFor
+exitValue
+getInputStream
+lang Class cast
+util Collections sort
+lang String valueOf
+lang String intern
+Class cast
+reflect Proxy newProxyInstance
+reflect Method invoke
+Integer valueOf
+invokeLater
+updateComponentTreeUI
+isEventDispatchThread
+invokeAndWait
+SwingUtilities invokeLater
+JComponent repaint
+JComponent paintImmediately
+JRootPane setContentPane
+net URL getFileExtension
+nio file Files probeContentType
+net URI getFileExtension
+net URL getFile
+URL getFileExtension
+URL getPath
+URL getFile
+URL getScheme
+Runtime exec
+System exit
+System gc
+System getProperty
+lang System exit
+lang Runtime exec
+lang System gc
+io File setExecutable
+toString
+hashCode
+getClass
+toHexString
+Object toString
+System identityHashCode
+String hashCode
+Integer toString
+Collections sort
+Arrays sort
+Comparator compare
+Arrays equals
+util Collections sort
+lang Integer compare
+lang String equals
+lang String compareTo
+String equals
+String valueOf
+String format
+Object toString
+valueOf
+equals
+format
+toLowerCase
+System arraycopy
+System nanoTime
+Math pow
+String split
+util Arrays copyOf
+lang System arraycopy
+util Arrays copyOfRange
+util Arrays deepToString
+between
+ofMillis
+ofSeconds
+atZone
+Instant ofEpochMilli
+Instant now
+LocalDateTime atZone
+LocalDateTime now
+util stream Collectors toMap
+util Collectors toMap
+util function Function identity
+util Map getOrDefault
+stream
+asList
+stream Collectors toMap
+stream Stream toMap
+lang Class getEnumConstants
+lang Class forName
+lang Enum valueOf
+lang Class isAssignableFrom
+Class isAssignableFrom
+reflect Field getGenericType
+reflect Field getType
+reflect ParameterizedType getActualTypeArguments
+Collections sort
+Arrays sort
+stream Collectors groupingBy
+List sort
+sort
+retainAll
+size
+iterator
+util Collections sort
+util List contains
+util stream Stream filter
+util ArrayList contains
+Collections sort
+List contains
+Arrays asList
+stream Stream anyMatch
+lang Object equals
+lang String equals
+util Objects equals
+util Arrays equals
+Object equals
+String equals
+System currentTimeMillis
+System identityHashCode
+Thread currentThread
+Thread sleep
+System exit
+Runnable run
+defineClass
+getResourceAsStream
+defineResource
+getSystemClassLoader
+util Collections shuffle
+lang Math random
+util Random nextDouble
+util Random nextBoolean
+floorKey
+ceilingKey
+floorEntry
+keySet
+Calendar getInstance
+Calendar get
+Date getTime
+concurrent ScheduledExecutorService scheduleAtFixedRate
+lang System currentTimeMillis
+lang System nanoTime
+util Calendar getInstance
+time ZoneId systemDefault
+String split
+String replaceAll
+String matches
+String contains
+util regex Pattern compile
+lang String split
+util regex Pattern quote
+util regex Matcher group
+gc
+exit
+addShutdownHook
+nanoTime
+System gc
+Object finalize
+Throwable addSuppressed
+Throwable finalize
+System arraycopy
+String equals
+reflect Array newInstance
+String split
+arraycopy
+nanoTime
+getProperty
+setProperty
+lang Integer parseInt
+lang Byte parseByte
+lang Integer numberOfLeadingZeros
+lang Byte parseInt
+Integer parseInt
+Byte parseByte
+Integer numberOfLeadingZeros
+Integer valueOf
+newInstance
+isInstance
+isAssignableFrom
+getSerializable
+io ObjectOutputStream writeObject
+io ObjectOutputStream reset
+io ObjectOutputStream writeUnshared
+io ObjectInputStream readObject
+String split
+String indexOf
+Integer parseInt
+String lastIndexOf
+lang String split
+util regex Pattern compile
+util regex Matcher find
+util regex Pattern quote
+UUID randomUUID
+Scanner next
+concurrent Future get
+regex Pattern compile
+getDecoder
+getEncoder
+getMimeEncoder
+getBase64
+getDeclaredField
+getParameterClass
+getName
+getDeclaredParameter
+Class isAssignableFrom
+reflect Parameter getGenericType
+reflect Parameter getType
+Class getGenericSuperclass
+System gc
+Runtime maxMemory
+Runtime totalMemory
+Integer MAX
+lang System gc
+nio ByteBuffer allocateDirect
+util concurrent ConcurrentHashMap computeIfAbsent
+nio ByteBuffer asIntBuffer
+lang String split
+util regex Pattern compile
+util regex Pattern quote
+util regex Pattern splitAsStream
+Pattern compile
+Pattern quote
+Pattern splitAsStream
+Matcher find
+lang Class getResourceAsStream
+lang Runtime exec
+lang System exit
+util jar JarFile getManifest
+waitFor
+getInputStream
+exitValue
+getErrorStream
+Class cast
+reflect Method invoke
+reflect Field getGenericType
+reflect Parameter getGenericType
+lang Class cast
+util Optional ofNullable
+util Collections emptyList
+util List toArray
+getBytes
+toUpperCase
+valueOf
+toLowerCase
+lang String charAt
+util Arrays toString
+lang StringBuilder reverse
+lang Character getNumericValue
+lang ProcessBuilder ProcessBuilder
+lang Runtime exec
+lang ProcessBuilder directory
+lang System getProperty
+Runtime exec
+ProcessBuilder ProcessBuilder
+ProcessBuilder directory
+System getProperty
+available
+read
+readLine
+ready
+omg CORBA portable InputStream read
+omg CORBA portable InputStream available
+w3c dom Node getParentNode
+xml sax ContentHandler read
+lang Class cast
+lang reflect Field getGenericType
+lang Class getGenericSuperclass
+util Collections emptyList
+Collections emptyList
+Collections checkedList
+Collections sort
+Collections max
+Matcher appendReplacement
+Matcher quoteReplacement
+Matcher appendTail
+Pattern quote
+quote
+compile
+matcher
+splitAsStream
+File getParentFile
+File getParent
+File getCanonicalFile
+File mkdirs
+getParent
+getParentFile
+getCanonicalFile
+listRoots
+Scanner hasNextDouble
+Scanner hasNextInt
+Collections sort
+Scanner nextDouble
+hasNextInt
+hasNextDouble
+nextInt
+findWithinHorizon
+getInstance
+JANUARY
+get
+getActualMaximum
+lang Class cast
+lang String valueOf
+lang Object getClass
+lang Integer parseInt
+io File getName
+nio file Files newDirectoryStream
+lang System currentTimeMillis
+io File renameTo
+System currentTimeMillis
+System getProperty
+Thread sleep
+System nanoTime
+synchronizedList
+newSetFromMap
+synchronizedSortedSet
+synchronizedSet
+util Iterator remove
+lang System gc
+util Collections synchronizedList
+util Map entrySet
+valueOf
+parseFloat
+floatToRawLongBits
+intBitsToFloat
+util Stack pop
+lang Thread sleep
+awt EventQueue invokeLater
+util List toArray
+getProperty
+exit
+setOut
+getProperties
+lang System getProperty
+lang Runtime exec
+io File listFiles
+nio file Paths get
+JFileChooser getCurrentDirectory
+JFileChooser getSelectedDirectory
+SwingUtilities invokeLater
+JOptionPane showInputDialog
+swing JFileChooser getCurrentDirectory
+swing JFileChooser getSelectedDirectory
+swing JOptionPane showInputDialog
+swing JFileChooser setCurrentDirectory
+Throwable fillInStackTrace
+Throwable getStackTrace
+Throwable printStackTrace
+Thread currentThread
+lang Throwable fillInStackTrace
+lang Thread currentThread
+lang Throwable getStackTrace
+util Arrays copyOfRange
+getComponentAtPoint
+getComponentAt
+addMouseListener
+getComponents
+awt Component getLocationOnScreen
+awt event MouseEvent getClickCount
+awt EventQueue invokeLater
+awt MouseInfo getPointerInfo
+URL openConnection
+URLConnection setFixedLengthStreamingMode
+InetAddress getLocalHost
+URL openStream
+setSoTimeout
+getInputStream
+isClosed
+close
+newBufferedWriter
+write
+newOutputStream
+copy
+Files write
+Files copy
+Files newBufferedWriter
+Files newOutputStream
+Object equals
+Object hashCode
+String equals
+System identityHashCode
+equals
+hashCode
+isPresent
+toString
+hashCode
+equals
+clone
+getClass
+Object hashCode
+Object equals
+System identityHashCode
+String hashCode
+BigDecimal
+valueOf
+divide
+doubleValue
+math BigDecimal valueOf
+math BigDecimal BigDecimal
+math BigDecimal multiply
+math BigDecimal movePointLeft
+update
+updateValue
+notifyObservers
+setChanged
+concurrent Future get
+concurrent Executor execute
+concurrent Task updateValue
+concurrent Observer updateValue
+toString
+toHexString
+toBinaryString
+valueOf
+String format
+Integer toString
+Byte toString
+Integer toHexString
+JFileChooser showOpenDialog
+JFileChooser setDefaultCloseOperation
+JDialog setDefaultCloseOperation
+JOptionPane showMessageDialog
+swing JFileChooser showOpenDialog
+swing JDialog setDefaultCloseOperation
+swing JFileChooser setDefaultCloseOperation
+swing JFileChooser close
+Class getResourceAsStream
+ClassLoader getResourceAsStream
+String split
+Class getResource
+getNumericValue
+toLowerCase
+toChars
+isWhitespace
+toString
+valueOf
+parseInt
+intValue
+lang Object getClass
+lang Class cast
+lang String valueOf
+lang Class isInstance
+String charAt
+Character getNumericValue
+String hashCode
+Character toChars
+reverse
+toString
+deleteCharAt
+getCharAt
+swing SwingUtilities invokeLater
+swing SwingUtilities updateComponentTreeUI
+swing UIManager setLookAndFeel
+swing JOptionPane showMessageDialog
+invokeLater
+updateComponentTreeUI
+invokeAndWait
+isEventDispatchThread
+Collections sort
+stream Collectors summingInt
+Arrays sort
+stream Collectors groupingBy
+util Collections sort
+util stream Collectors summingInt
+util stream Collectors groupingBy
+util Arrays sort
+nio ByteBuffer asCharBuffer
+net URL openStream
+io BufferedReader read
+io InputStream read
+ByteArrayInputStream ByteArrayInputStream
+BufferedReader read
+DataInputStream readFully
+ByteArrayInputStream toByteArray
+PrintWriter PrintWriter
+PrintWriter flush
+PrintWriter close
+PrintWriter print
+flush
+write
+close
+PrintWriter
+lang System gc
+util concurrent package-summary MemoryVisibility
+lang Thread yield
+lang Thread sleep
+wait
+finalize
+gc
+hashCode
+isAssignableFrom
+forName
+asSubclass
+getCanonicalName
+Object equals
+Class isAssignableFrom
+Comparable compareTo
+Class isInstance
+Thread sleep
+Object wait
+Thread yield
+Thread currentThread
+sleep
+yield
+join
+currentThread
+stream Stream distinct
+stream Collectors groupingBy
+stream IntStream range
+stream Stream allMatch
+IntStream range
+Collectors groupingBy
+Stream distinct
+Collectors toSet
+forName
+getSimpleName
+getResourceAsStream
+getCanonicalName
+System getProperty
+Class getResource
+Class forName
+Class isAssignableFrom
+GridBagLayout
+GridBagConstraints
+GridLayout
+gridLinesVisible
+awt Toolkit getDefaultToolkit
+awt Component setTransferHandler
+awt Image getScaledInstance
+awt EventQueue invokeLater
+readLine
+lines
+nextLine
+read
+PrintWriter println
+PrintStream println
+File exists
+PrintWriter write
+Class getResourceAsStream
+System getProperty
+ClassLoader getResourceAsStream
+System getProperties
+getProperty
+getProperties
+setProperty
+loadLibrary
+System getProperty
+System setProperty
+Integer parseInt
+System setSecurityManager
+compareTo
+hashCode
+compareToIgnoreCase
+equals
+next
+nextInt
+nextLine
+hasNextInt
+lang Character isLetter
+lang Character isLetterOrDigit
+lang Character isDigit
+lang Character isWhitespace
+awt image BufferedImage setRGB
+awt Image setRGB
+awt Image getScaledInstance
+lang Math pow
+Integer parseInt
+Math pow
+String valueOf
+System arraycopy
+copy
+move
+copyTo
+readAllLines
+io File renameTo
+nio file Files copy
+awt Desktop getDesktop
+lang System getProperty
+addNotify
+paintImmediately
+setIgnoreRepaint
+paint
+lang Thread sleep
+awt EventQueue invokeLater
+util concurrent Future get
+awt Component paintImmediately
+util Collections unmodifiableMap
+lang Object toString
+util Collections singleton
+util Collections synchronizedMap
+elements
+elementAt
+get
+size
+synchronizedList
+synchronizedSortedSet
+synchronizedMap
+synchronizedSet
+Collections synchronizedList
+concurrent Future get
+concurrent Executors newFixedThreadPool
+concurrent locks ReentrantLock unlock
+showMessageDialog
+showInputDialog
+showOptionDialog
+showConfirmDialog
+JComponent paintComponent
+JOptionPane showMessageDialog
+SwingUtilities invokeLater
+SwingUtilities convertPoint
+Collections sort
+List equals
+Arrays asList
+Arrays equals
+sort
+binarySearch
+max
+unmodifiableList
+toString
+valueOf
+toHexString
+numberOfTrailingZeros
+Integer toString
+String format
+Integer valueOf
+Math pow
+doClick
+setActionCommand
+setClickCountToStart
+requestFocus
+swing SwingUtilities invokeLater
+swing AbstractButton doClick
+swing SwingUtilities convertPointFromScreen
+swing JComponent requestFocus
+lang Enum valueOf
+lang Class forName
+lang Class getFields
+lang Class newInstance
+allOf
+noneOf
+of
+getAllOf
+String split
+Class getResource
+System setProperty
+Class getResourceAsStream
+lang String split
+lang System setProperty
+util Properties load
+net URL setURLStreamHandlerFactory
+lang Class forName
+lang Class getDeclaredMethods
+lang reflect Field get
+lang reflect Method invoke
+forName
+getDeclaredMethods
+getDeclaredConstructor
+getDeclaredMethod
+lang Class isAssignableFrom
+lang Class getComponentType
+lang Class isInstance
+lang Class getGenericSuperclass
+getGenericReturnType
+getParameterTypes
+getReturnType
+getGenericParameterTypes
+util Collections synchronizedList
+lang Thread sleep
+lang Thread currentThread
+util concurrent package-summary MemoryVisibility
+get
+putIfAbsent
+put
+computeIfAbsent
+nextInt
+next
+nextLine
+hasNextInt
+lang String equals
+util List get
+util Collections shuffle
+lang Integer parseInt
+io InputStream markSupported
+io InputStream available
+io InputStream close
+io FileInputStream close
+toString
+append
+trimToSize
+deleteCharAt
+Integer valueOf
+Math pow
+Double valueOf
+Integer toString
+valueOf
+toString
+parseDouble
+doubleToRawLongBits
+lang String split
+util regex Pattern quote
+util regex Pattern compile
+util regex Matcher find
+split
+substring
+startsWith
+replaceAll
+Collections unmodifiableSet
+stream Collectors toList
+TreeSet add
+Collections unmodifiableList
+util Collections unmodifiableSet
+util Set add
+util stream Collectors toList
+util ImmutableSet add
+lang String format
+lang String valueOf
+util Arrays toString
+lang Integer parseInt
+String format
+String valueOf
+Integer parseInt
+System exit
+Math pow
+String format
+Double toString
+Integer toString
+lang Math pow
+lang String format
+util stream IntStream range
+util stream IntStream rangeClosed
+Charset defaultCharset
+Charset forName
+Charset availableCharsets
+Charset decode
+forName
+defaultCharset
+isSupported
+encode
+lang String matches
+util regex Pattern quote
+lang String contains
+util regex Matcher find
+String matches
+String contains
+String split
+Integer parseInt
+io ObjectInputStream readObject
+io ObjectOutputStream readObject
+io ObjectInputStream readClassDescriptor
+io DataInputStream readObject
+readObject
+readClassDescriptor
+readUnshared
+readFully
+util concurrent Executors newFixedThreadPool
+util Collections synchronizedList
+util concurrent Executors newSingleThreadExecutor
+lang Object wait
+println
+printf
+checkError
+PrintStream
+get
+computeIfAbsent
+put
+values
+concurrent Executors newFixedThreadPool
+concurrent ThreadPoolExecutor allowCoreThreadTimeOut
+concurrent ExecutorService awaitTermination
+concurrent Executors newCachedThreadPool
+lang Class isAssignableFrom
+lang Class isInstance
+lang Class forName
+lang Class cast
+getPropertyEditor
+getPropertyEditorClass
+getProperty
+getBeanInfo
+Class forName
+Class asSubclass
+reflect Field getType
+Object getClass
+forName
+asSubclass
+getDeclaredClass
+getDeclaredConstructor
+lang String valueOf
+lang Integer valueOf
+lang Class cast
+lang Long valueOf
+valueOf
+parseDouble
+toString
+intBitsToDouble
+sleep
+currentThread
+join
+getAllStackTraces
+Thread sleep
+Thread currentThread
+Thread start
+Thread join
+readLine
+read
+ready
+lines
+BufferedReader readLine
+PrintWriter write
+BufferedWriter write
+PrintWriter println
+parseLong
+toString
+valueOf
+longValue
+lang String split
+lang Integer parseInt
+lang Character getNumericValue
+util regex Matcher group
+String matches
+String replaceAll
+Character isLetterOrDigit
+Integer parseInt
+util regex Pattern quote
+lang String matches
+util regex Matcher matches
+util regex Pattern compile
+lang Integer parseInt
+sql Statement executeBatch
+lang String equals
+lang String format
+Integer parseInt
+String equals
+String split
+String format
+printf
+format
+println
+print
+lang String format
+lang System setOut
+lang System out
+util Formatter syntax
+System currentTimeMillis
+System nanoTime
+Thread sleep
+Timer scheduleAtFixedRate
+sleep
+interrupt
+currentThread
+interrupted
+lang Class forName
+util concurrent Future get
+applet Applet getCodeBase
+util concurrent ConcurrentHashMap computeIfAbsent
+openStream
+openConnection
+setURLStreamHandlerFactory
+getQuery
+fxml doc-files introduction_to_fxml controller
+scene doc-files introduction_to_fxml controller
+collections FXCollections observableArrayList
+beans binding Bindings stringValueAt
+control FloatField contentDisplayProperty
+Node pickOnBoundsProperty
+Node setUserData
+Node getComponents
+io BufferedReader readLine
+nio file Files newBufferedReader
+nio file Files newInputStream
+io BufferedReader lines
+BufferedReader lines
+InputStreamReader InputStreamReader
+FileInputStream InputStreamReader
+BufferedReader readLine
+getYear
+getTime
+setYear
+getFullYear
+util Calendar get
+time Year now
+util GregorianCalendar GregorianCalendar
+util Calendar set
+util Arrays asList
+lang Integer parseInt
+lang String equals
+lang Math pow
+nextInt
+next
+nextLine
+nextDouble
+IntStream range
+IntStream rangeClosed
+IntStream rotate
+Stream mapToInt
+Arrays stream
+Arrays copyOfRange
+Arrays asList
+Collections rotate
+io ObjectOutputStream reset
+io ObjectOutputStream writeObject
+lang Class forName
+lang System gc
+forName
+newInstance
+getDeclaredMethods
+isAssignableFrom
+valueOf
+split
+format
+getBytes
+System arraycopy
+reflect Array newInstance
+reflect Array get
+String valueOf
+getISOCountries
+getDefault
+getAvailableLocales
+setDefault
+util Locale getISOCountries
+util Locale getDefault
+util Locale getAvailableLocales
+util Locale getCountry
+add
+get
+trimToSize
+toArray
+lang String split
+util Arrays toString
+lang System arraycopy
+util Arrays copyOf
+sleep
+currentThread
+yield
+getAllStackTraces
+Object equals
+System gc
+Integer parseInt
+reflect Method invoke
+util Collections sort
+util Collections synchronizedList
+util List subList
+util List add
+asList
+toString
+copyOf
+copyOfRange
+hashCode
+identityHashCode
+valueOf
+toHexString
+System currentTimeMillis
+String hashCode
+System nanoTime
+Math random
+format
+valueOf
+compareTo
+getBytes
+Double toString
+String format
+Math pow
+Math round
+lang Thread setDefaultUncaughtExceptionHandler
+lang Throwable printStackTrace
+lang System exit
+lang Integer parseInt
+printStackTrace
+initCause
+addSuppressed
+fillInStackTrace
+getSelectedFile
+setFileFilter
+getSelectedFileExtension
+showOpenDialog
+swing JFileChooser setFileSelectionMode
+swing JFileChooser setFileExtension
+swing JFileChooser setFileFilter
+swing JFileChooser getSelectedFile
+Future get
+package-summary MemoryVisibility
+BlockingQueue offer
+Executors newFixedThreadPool
+thenCompose
+allOf
+whenComplete
+get
+lang String format
+util regex Matcher appendReplacement
+lang String valueOf
+util regex Matcher group
+toString
+asList
+fill
+deepToString
+util Date getTime
+util Date toString
+util Date Date
+lang System currentTimeMillis
+now
+parse
+atStartOfDay
+toString
+Instant parse
+LocalDateTime parse
+LocalDate parse
+OffsetDateTime parse
+parse
+ofEpochMilli
+toString
+now
+security KeyStore getPrivateKey
+security Signature sign
+security KeyFactory generatePublic
+security KeyStore getInstance
+getEncoded
+getPrivate
+getInstance
+getSigners
+unmodifiableList
+synchronizedList
+singletonList
+sort
+Collections unmodifiableMap
+Collections unmodifiableList
+Collections unmodifiableList
+List get
+time LocalDate plus
+time format DateTimeFormatter ofPattern
+util Calendar MONTH
+time LocalDate now
+temporal TemporalAdjusters nextOrSame
+LocalDate parse
+LocalDate plus
+YearMonth now
+util Date getTime
+util Calendar add
+time LocalDate now
+lang System currentTimeMillis
+Calendar add
+Date getTime
+Calendar getInstance
+Calendar get
+String intern
+String String
+System gc
+Integer parseInt
+lang String intern
+util Collections unmodifiableMap
+lang String String
+lang Integer parseInt
+AudioSystem getAudioInputStream
+AudioSystem getAudioFileTypes
+DataLine Info getAudioFileTypes
+DataLine Info getAudioInputStream
+getAudioInputStream
+getDataLine
+getAudioFileTypes
+getClip
+util stream Collectors joining
+nio file Files write
+io File renameTo
+util stream Stream concat
+FileWriter
+Files newBufferedWriter
+FileFile
+fileWriter
+lang String intern
+lang String equals
+lang String format
+lang String substring
+String format
+String equals
+String intern
+String substring
+InputStream read
+InputStreamReader InputStreamReader
+InputStream available
+InputStream markSupported
+CORBA portable InputStream read
+CORBA portable InputStream available
+CORBA portable OutputStream write
+CORBA portable InputStream skip
+Executors newFixedThreadPool
+package-summary MemoryVisibility
+ExecutorService awaitTermination
+Executors newSingleThreadExecutor
+util concurrent Executors newFixedThreadPool
+lang Thread sleep
+util concurrent ExecutorService awaitTermination
+util concurrent Executors newSingleThreadExecutor
+Collections sort
+Arrays asList
+List indexOf
+Arrays sort
+asList
+toString
+sort
+copyOfRange
+String equals
+Integer parseInt
+System getProperty
+Character isWhitespace
+util Scanner hasNext
+util Scanner hasNextInt
+util Scanner close
+util Scanner next
+Arrays copyOf
+Arrays copyOfRange
+Collections shuffle
+Arrays fill
+lang Integer toHexString
+lang Math pow
+util Arrays copyOf
+lang System arraycopy
+lang System getProperty
+nio file Files copy
+io File createTempFile
+lang Runtime exec
+createTempFile
+getCanonicalFile
+listFiles
+getCanonicalPath
+contains
+retainAll
+hashCode
+iterator
+util Set contains
+util HashSet contains
+util Collection contains
+lang Object equals
+format
+equals
+valueOf
+getBytes
+String equals
+Thread sleep
+String valueOf
+System exit
+forName
+asSubclass
+newInstance
+getSimpleName
+lang Class forName
+lang Object getClass
+lang Thread sleep
+lang Class newInstance
+io BufferedReader close
+io InputStream available
+io InputStreamReader close
+io InputStream markSupported
+InputStreamReader
+close
+markSupported
+InputStreamInputStream
+lang Math pow
+lang Double parseDouble
+awt Color getHSBColor
+lang Math abs
+equals
+asList
+binarySearch
+deepEquals
+Thread sleep
+Math min
+System arraycopy
+System exit
+random
+min
+max
+floor
+Collections sort
+Arrays asList
+Collections shuffle
+Collection addAll
+emptyList
+sort
+emptySet
+unmodifiableList
+Object toString
+String getBytes
+System getProperty
+System setProperty
+toString
+hashCode
+getClass
+equals
+concurrent Executors newFixedThreadPool
+concurrent Executors newSingleThreadExecutor
+concurrent Future get
+concurrent ExecutorService invokeAll
+newFixedThreadPool
+newSingleThreadExecutor
+newWorkStealingPool
+newCachedThreadPool
+Runtime exec
+System exit
+System getProperty
+ProcessBuilder directory
+lang Runtime exec
+util concurrent Executors newCachedThreadPool
+util concurrent Executors newWorkStealingPool
+util concurrent Executors newSingleThreadExecutor
+Collections sort
+stream Collectors groupingBy
+Arrays stream
+Arrays sort
+util stream Collectors groupingBy
+util Collections sort
+lang String split
+util Arrays stream
+util zip ZipEntry getMethod
+nio file Files probeContentType
+util zip ZipEntry getCodeSigners
+lang String replaceAll
+replace
+getBytes
+substring
+split
+dispose
+setAlwaysOnTop
+isShowing
+setDefaultCloseOperation
+Window dispose
+EventQueue invokeLater
+Desktop getDesktop
+event WindowListener windowClosed
+lang String matches
+lang Character isLetterOrDigit
+lang String contains
+util regex Pattern quote
+String matches
+String contains
+Character isLetterOrDigit
+Character isWhitespace
+ArrayList add
+ArrayList remove
+List add
+Arrays copyOfRange
+add
+trimToSize
+remove
+get
+stream Stream concat
+stream Stream flatMap
+stream Collectors joining
+stream Stream of
+util stream Stream concat
+util stream Stream flatMap
+util stream Collectors joining
+lang String split
+regex Matcher find
+regex Matcher group
+regex Pattern compile
+regex Matcher groupCount
+lang String split
+util regex Matcher group
+util regex Matcher find
+util regex Pattern compile
+io File getParentFile
+nio file Path toFile
+io File getParent
+nio file Files walkFileTree
+split
+startsWith
+endsWith
+getCanonicalPath
+setOutParameter
+setFetchSize
+setParameter
+setNull
+sql PreparedStatement setNull
+sql PreparedStatement setFetchSize
+sql Connection setCatalog
+sql PreparedStatement setArray
+lang String split
+util regex Pattern quote
+util regex Pattern compile
+lang String matches
+Pattern compile
+Matcher matches
+Pattern quote
+Matcher find
+util Scanner next
+lang Integer parseInt
+util Scanner nextLine
+util Scanner Scanner
+Scanner nextLine
+Scanner next
+Scanner Scanner
+Scanner hasNextInt
+Connection close
+Statement close
+DriverManager getConnection
+DatabaseMetaData getExportedKeys
+getConnection
+close
+createConnection
+registerDriver
+util List remove
+util ArrayList remove
+util Collections sort
+util Arrays asList
+asList
+copyOfRange
+toString
+deepToString
+sleep
+currentThread
+yield
+join
+util Collections unmodifiableMap
+util Collections unmodifiableSet
+lang System arraycopy
+lang System gc
+String getBytes
+Integer parseInt
+System setProperty
+System setIn
+lang String getBytes
+lang Integer parseInt
+lang System setProperty
+lang Integer toBinaryString
+Math pow
+Math max
+Math min
+Math sin
+awt geom AffineTransform getScaleInstance
+awt Point2D setShape
+awt GraphicsEnvironment getLocalGraphicsEnvironment
+lang Math pow
+Applet getCodeBase
+Applet getGraphics
+SwingUtilities invokeLater
+Applet createGraphics
+awt EventQueue invokeLater
+awt Toolkit getDefaultToolkit
+awt GraphicsEnvironment getScreenDevices
+awt Desktop getDesktop
+HashMap get
+HashMap put
+Map getOrDefault
+Map get
+get
+put
+computeIfAbsent
+containsKey
+valueOf
+set
+bitSet
+or
+lang Integer toBinaryString
+util BitSet set
+lang Long toBinaryString
+util BitSet valueOf
+Arrays stream
+Arrays toString
+Arrays deepToString
+Arrays asList
+toString
+stream
+deepToString
+asList
+Transparency
+getScaledInstance
+RGBtoHSB
+createInterleavedRaster
+BufferedImage getRGB
+BufferedImage setRGB
+BufferedImage getRotateInstance
+BufferedImage getRescale
+Thread currentThread
+Thread sleep
+Thread start
+Thread yield
+util concurrent Executors newSingleThreadExecutor
+util concurrent ExecutorService newSingleThreadExecutor
+util concurrent ForkJoinPool commonPool
+util concurrent ThreadPoolExecutor newSingleThreadExecutor
+util Optional ofNullable
+util Optional map
+util Optional of
+util Optional orElseThrow
+of
+ofNullable
+map
+orElseThrow
+Class getResource
+ClassLoader getResource
+String equals
+Runtime getRuntime
+nio file Files newBufferedReader
+awt Desktop getDesktop
+lang Class getResource
+nio file Files copy
+System gc
+String substring
+System arraycopy
+StringBuffer deleteCharAt
+gc
+arraycopy
+nanoTime
+identityHashCode
+BigInteger longValue
+BigInteger valueOf
+BigInteger compareTo
+BigInteger isProbablePrime
+lang Integer valueOf
+lang Math pow
+lang Integer compareUnsigned
+lang Integer parseInt
+Arrays asList
+Arrays stream
+Arrays sort
+Arrays equals
+contains
+containsAll
+retainAll
+size
+stream Collectors toMap
+stream Collectors groupingBy
+Collections unmodifiableMap
+Collections sort
+entrySet
+values
+merge
+computeIfAbsent
+gc
+nanoTime
+getProperty
+arraycopy
+nio file Files readAllLines
+io File listFiles
+lang String split
+lang Class getResourceAsStream
+parseInt
+toBinaryString
+valueOf
+toString
+util Scanner nextLine
+lang String split
+util Scanner nextInt
+util Scanner next
+lang Object hashCode
+lang Object equals
+util HashMap put
+lang String hashCode
+put
+putIfAbsent
+putAll
+equals
+format
+hashCode
+valueOf
+intern
+String format
+String valueOf
+String String
+String equals
+sql Connection close
+sql Connection createStatement
+sql DriverManager getConnection
+sql Connection setCatalog
+forName
+isAssignableFrom
+getResourceAsStream
+getDeclaredMethods
+awt event MouseEvent getClickCount
+awt EventQueue invokeLater
+awt Toolkit getDefaultToolkit
+awt Component addMouseListener
+event MouseEvent getClickCount
+MouseInfo getPointerInfo
+EventQueue invokeLater
+Toolkit getDefaultToolkit
+ArrayList add
+Arrays asList
+List add
+ArrayList contains
+asList
+copyOfRange
+copyOf
+addAll
+Cipher init
+Cipher getInstance
+Cipher doFinal
+Cipher wrap
+init
+getInstance
+wrap
+getMaxAllowedKeyLength
+getTimeInMillis
+getTime
+get
+getInstance
+util Date getTime
+lang System currentTimeMillis
+time ZonedDateTime now
+time Instant truncatedTo
+readLine
+readFully
+readInt
+readChar
+io BufferedReader readLine
+net Socket setSoTimeout
+net DatagramSocket receive
+net ServerSocket accept
+time Duration parse
+lang String split
+lang System currentTimeMillis
+lang Long parseLong
+parse
+ofMillis
+milliseconds
+toMillis
+swing SwingUtilities invokeLater
+swing SwingUtilities updateComponentTreeUI
+swing JOptionPane showMessageDialog
+swing SpinnerNumberModel SpinnerNumberModel
+invokeLater
+updateComponentTreeUI
+invokeAndWait
+convertPointToScreen
+util Arrays copyOf
+util Arrays toString
+util List toArray
+util Collections sort
+Arrays copyOf
+Collections sort
+Arrays toString
+List toArray
+lang Math pow
+math BigInteger modInverse
+math BigDecimal modInverse
+math BigDecimal remainder
+BigInteger modInverse
+BigInteger mod
+BigInteger remainder
+BigDecimal modInverse
+format
+valueOf
+split
+getBytes
+lang String format
+util Formatter syntax
+lang String split
+io BufferedReader readLine
+lang Integer parseInt
+lang System console
+lang System in
+lang System lineSeparator
+Console readPassword
+Console readLine
+BufferedReader readLine
+ConsoleReader readLine
+SwingUtilities invokeLater
+JTextArea setLineWrap
+text JTextComponent read
+JTextArea setLineBreak
+getCaretPosition
+isLineBreaking
+isWhitespace
+getWhitespace
+regex Pattern quote
+regex Matcher find
+regex Matcher matches
+regex Matcher group
+find
+matches
+lookingAt
+useAnchoringBounds
+forName
+isAssignableFrom
+getDeclaredMethods
+getMethods
+util Collections sort
+lang reflect Method invoke
+lang Thread sleep
+lang Math min
+lang String format
+util regex Pattern compile
+util regex Pattern quote
+util Locale getDefault
+String format
+System getProperty
+Thread sleep
+System setOut
+sql DriverManager getConnection
+lang Class forName
+sql Driver acceptsURL
+sql DatabaseMetaData getDriverVersion
+DriverManager getConnection
+Driver acceptsURL
+DatabaseMetaData getDriverVersion
+Connection setCatalog
+RandomAccessFile seek
+RandomAccessFile readLine
+RandomAccessFile getChannel
+RandomAccessFile RandomAccessFile
+io RandomAccessFile seek
+nio channels FileChannel open
+io RandomAccessFile getChannel
+io RandomAccessFile readLine
+BigInteger toByteArray
+BigInteger BigInteger
+BigInteger decode
+BigInteger valueOf
+math BigInteger toByteArray
+math BigInteger BigInteger
+math BigInteger valueOf
+math BigInteger decode
+read
+FileInputStream
+available
+readLine
+net URL openConnection
+io BufferedReader readLine
+net URL getFile
+io File createTempFile
+atan2
+acos
+toDegrees
+asin
+util Collections sort
+lang Math atan2
+lang Math acos
+util Arrays sort
+String getBytes
+String format
+String hashCode
+System currentTimeMillis
+toString
+toHexString
+hashCode
+toBinaryString
+insertString
+parse
+setContentHandler
+setTextContent
+xml bind JAXBContext newInstance
+xml parsers DocumentBuilder parse
+xml bind DatatypeConverter parseHexBinary
+xml transform stream StreamSource setSystemId
+BigInteger compareTo
+BigInteger multiply
+BigInteger toString
+BigInteger scale
+divide
+valueOf
+toByteArray
+toString
+System arraycopy
+Object equals
+String replaceAll
+Object clone
+util Arrays copyOfRange
+util Arrays copyOf
+lang System arraycopy
+util Collections copy
+of
+collect
+concat
+flatMap
+stream Collectors toList
+stream Stream collect
+stream Collectors toMap
+stream Collector of
+util concurrent CountDownLatch await
+lang Object wait
+util concurrent CountDownLatch CountDownLatch
+util concurrent CountDownLatchawait
+sleep
+yield
+setDefaultUncaughtExceptionHandler
+currentThread
+Optional ofNullable
+Objects requireNonNull
+Objects equals
+Long valueOf
+requireNonNull
+equals
+isNull
+checkNotNull
+Collections shuffle
+Arrays asList
+Arrays shuffle
+Arrays sort
+util Collections shuffle
+util Arrays asList
+nio file Files readAllLines
+util Arrays shuffle
+file Files newBufferedWriter
+file Files write
+file Files copy
+file Files newWriter
+Files write
+Files newBufferedWriter
+Files copy
+FilesWriter FileWriter
+Class getResourceAsStream
+ClassLoader getResourceAsStream
+System getProperty
+ClassLoader getResource
+getProperty
+getProperties
+setProperty
+getenv
+util Collections synchronizedList
+util Collections newSetFromMap
+util Collections synchronizedMap
+lang System arraycopy
+package-summary MemoryVisibility
+BlockingQueue drainTo
+LinkedBlockingQueue drainTo
+Executors newFixedThreadPool
+getColumnClass
+getTableHeader
+getHeader
+addTableHeader
+swing table DefaultTableModel getColumnClass
+swing table DefaultTableModel addRow
+swing JTable getColumnClass
+swing table TableModel getColumnClass
+SwingUtilities invokeLater
+JOptionPane showMessageDialog
+JOptionPane showInputDialog
+JOptionPane showOptionDialog
+paintComponent
+getContentPane
+paint
+getPreferredSize
+util Arrays copyOf
+lang System arraycopy
+util ArrayList trimToSize
+util Collections synchronizedList
+System arraycopy
+Integer valueOf
+Integer intValue
+Integer intValue
+io PrintWriter PrintWriter
+io PrintWriter flush
+lang System gc
+io PrintWriter close
+PrintWriter PrintWriter
+PrintWriter flush
+PrintWriter close
+FileWriter PrintWriter
+lang Class newInstance
+lang Object equals
+lang Object toString
+lang Class forName
+createTempFile
+listFiles
+getCanonicalFile
+exists
+getKeyStroke
+handleKeyPress
+handleKeyEvent
+onTransferComplete
+swing KeyStroke getKeyStroke
+swing JComponent getInputMap
+swing SwingUtilities invokeLater
+swing JComponent requestFocus
+parse
+ofEpochMilli
+now
+atZone
+Instant parse
+Instant ofEpochMilli
+LocalDateTime parse
+Instant EPOCH
+Collections sort
+LinkedList get
+LinkedList add
+List add
+util Collections sort
+util LinkedList add
+util LinkedList get
+util LinkedList LinkedList
+time Duration between
+time Duration ofYears
+lang Math round
+util Duration between
+Duration years
+Duration ofYears
+Duration between
+Duration year
+String getBytes
+System exit
+System getProperty
+Integer parseInt
+exit
+setProperty
+gc
+nanoTime
+nextInt
+hasNextInt
+nextLine
+findWithinHorizon
+Scanner hasNextInt
+Scanner next
+regex Pattern compile
+Scanner Scanner
+sort
+newSetFromMap
+unmodifiableList
+singleton
+lang Object toString
+lang Class isAssignableFrom
+util Collections sort
+lang String format
+util Collections binarySearch
+util Arrays binarySearch
+util Collections sort
+util Arrays sort
+arraycopy
+binarySearch
+nanoTime
+identityHashCode
+util Collections sort
+util Collections unmodifiableList
+util ArrayList trimToSize
+util Collections synchronizedList
+Collections sort
+ArrayList trimToSize
+Collections shuffle
+Arrays asList
+Map getOrDefault
+Collections unmodifiableMap
+Map computeIfAbsent
+HashMap computeIfAbsent
+util Map getOrDefault
+util Map computeIfAbsent
+util HashMap put
+util HashMap getOrDefault
+interrupt
+stop
+setUncaughtExceptionHandler
+currentThread
+lang Thread currentThread
+lang Thread stop
+util concurrent Executors newFixedThreadPool
+lang Thread interrupt
+String contains
+String matches
+String split
+String startsWith
+contains
+matches
+containsAll
+startsWith
+lang System currentTimeMillis
+util Date getTime
+time Instant ofEpochMilli
+time format DateTimeFormatter ofPattern
+DateFormat parse
+SimpleDateFormat parse
+DateFormat setLenient
+DateFormat format
+lang System currentTimeMillis
+lang System nanoTime
+util Timer scheduleAtFixedRate
+util concurrent ScheduledExecutorService scheduleAtFixedRate
+concurrent ScheduledExecutorService scheduleAtFixedRate
+concurrent ScheduledThreadPoolExecutor scheduleAtFixedRate
+concurrent TimeUnit SECONDS
+Timer schedule
+BigInteger
+valueOf
+longValue
+toByteArray
+BigInteger toString
+BigInteger toByteArray
+BigInteger unscaledValue
+BigInteger valueOf
+Arrays hashCode
+Arrays equals
+Deque hashCode
+Collections synchronizedList
+util Arrays hashCode
+util ArrayList hashCode
+util Arrays equals
+lang Object equals
+UTC
+getAvailableZoneIds
+of
+systemDefault
+Instant parse
+Instant ofEpochMilli
+LocalDateTime parse
+OffsetDateTime parse
+System currentTimeMillis
+String split
+String format
+Integer parseInt
+toString
+parseLong
+valueOf
+toHexString
+Throwable addSuppressed
+Throwable printStackTrace
+Throwable initCause
+Thread setDefaultUncaughtExceptionHandler
+lang Throwable addSuppressed
+lang Exception Exception
+lang Throwable printStackTrace
+lang Exception append
+lang String split
+io BufferedReader readLine
+util Scanner useDelimiter
+util Scanner Scanner
+split
+getBytes
+trim
+valueOf
+lang Thread sleep
+lang System currentTimeMillis
+net URL openConnection
+util concurrent Executors newSingleThreadExecutor
+URL openConnection
+InetAddress getLocalHost
+Socket setSoTimeout
+HttpSession setDefaultSSLSocketFactory
+swing SwingUtilities invokeLater
+imageio ImageIO read
+swing SwingUtilities updateComponentTreeUI
+swing SpinnerNumberModel SpinnerNumberModel
+setEnabled
+setActionCommand
+setDisabledIcon
+setRolloverIcon
+SOURCE
+SOURCES
+SOURCE_DECLARATION
+SOURCE_TYPE
+Integer parseInt
+Thread sleep
+Class forName
+Object equals
+sort
+synchronizedList
+unmodifiableList
+emptyList
+Collections unmodifiableMap
+Collections sort
+Collections synchronizedList
+Arrays asList
+Runtime exec
+System exit
+Process waitFor
+ProcessBuilder directory
+lang Runtime exec
+lang System exit
+util concurrent Executors newWorkStealingPool
+util concurrent Executors newFixedThreadPool
+asList
+toString
+copyOf
+copyOfRange
+util Arrays asList
+util Collections sort
+lang String split
+nio file Files readAllLines
+net InetAddress getLocalHost
+net Socket bind
+net InetAddress bind
+net DatagramSocket bind
+ServerSocket
+accept
+serverSocket
+bind
+random
+abs
+pow
+sqrt
+Math random
+Math abs
+Math pow
+Math log
+util Collections sort
+lang String format
+util stream Stream generate
+lang System identityHashCode
+format
+hashCode
+join
+concat
+util HashMap put
+util Map put
+util HashMap get
+lang Integer parseInt
+toString
+asList
+hashCode
+equals
+lang Object toString
+lang String intern
+lang String format
+lang Integer parseInt
+get
+put
+computeIfAbsent
+containsKey
+util Hashtable toString
+util HashMap toString
+lang Object toString
+util Map toString
+deepToString
+toString
+hashCode
+asList
+lang String split
+util StringTokenizer nextToken
+util StringTokenizer hasMoreTokens
+text StringTokenizer nextToken
+nextToken
+nextElement
+getNextToken
+getCurrentToken
+util Collections shuffle
+util Random nextInt
+util Map getOrDefault
+lang Math random
+Collections shuffle
+Random nextInt
+concurrent ConcurrentHashMap putIfAbsent
+stream IntStream range
+lang Class forName
+awt event EventQueue invokeLater
+awt event ComponentEvent getComponent
+util Class forName
+forName
+asSubclass
+getCanonicalName
+getDeclaredMethods
+lang String split
+io BufferedReader readLine
+nio file Files readAllLines
+util Scanner nextLine
+String split
+System getProperty
+Object toString
+Integer parseInt
+get
+getInstance
+getActualMaximum
+toString
+Calendar getInstance
+Locale getDefault
+Calendar MONTH
+Calendar get
+sort
+emptyList
+max
+unmodifiableList
+lang Class isInstance
+lang Class isAssignableFrom
+util Collections sort
+util Arrays asList
+String replaceAll
+String replace
+String format
+String replaceFirst
+replace
+replaceAll
+replaceFirst
+format
+store
+load
+setStore
+addProvider
+KeyStore store
+KeyStore load
+KeyManagerFactory store
+KeyManagerFactory load
+Collections max
+Collections sort
+Collections checkedList
+stream IntStream range
+lang Integer parseInt
+lang Math pow
+lang Integer valueOf
+lang Math floor
+lang System nanoTime
+lang Thread sleep
+util concurrent Future get
+lang System currentTimeMillis
+System nanoTime
+Thread sleep
+System currentTimeMillis
+Math pow
+Integer valueOf
+Integer toString
+System arraycopy
+Integer intValue
+lang Integer valueOf
+util Arrays toString
+lang Integer toString
+util Arrays asList
+BigInteger multiply
+BigInteger pow
+BigInteger modInverse
+BigInteger divide
+divide
+pow
+multiply
+divideUnsigned
+lang System gc
+util concurrent package-summary MemoryVisibility
+nio ByteBuffer allocateDirect
+lang Object finalize
+System gc
+Object finalize
+Thread sleep
+Runtime freeMemory
+format
+substring
+split
+replaceAll
+lang String format
+lang String substring
+lang String split
+util Formatter syntax
+Collections sort
+Map Entry comparingByValue
+Comparator comparing
+Arrays sort
+util Collections sort
+util Map Entry comparingByValue
+util TreeMap TreeMap
+util Comparator compare
+util regex Matcher matches
+util regex Pattern compile
+lang Character isDigit
+lang String matches
+String matches
+Integer parseInt
+Character isDigit
+Character isLetterOrDigit
+lang Math substring
+lang String substring
+lang String indexOf
+util regex Pattern quote
+String substring
+Math substring
+String indexOf
+String startsWith
+NumberFormat getNumberInstance
+SimpleDateFormat parse
+DecimalFormat setRoundingMode
+NumberFormat parse
+getNumberInstance
+getInstance
+getCurrencyInstance
+setNumberInstance
+Thread setDefaultUncaughtExceptionHandler
+Throwable initCause
+Throwable addSuppressed
+Throwable getCause
+lang Thread setDefaultUncaughtExceptionHandler
+lang Runtime addShutdownHook
+lang Class forName
+lang System exit
+lang String hashCode
+lang String getBytes
+lang System currentTimeMillis
+security MessageDigest getInstance
+String hashCode
+String getBytes
+System currentTimeMillis
+String format
+getGenericReturnType
+getDeclaringClass
+getReturnType
+getParameterAnnotations
+lang Class isAssignableFrom
+lang Object getClass
+lang Class forName
+lang Class getDeclaredMethods
+nextLine
+hasNextLine
+close
+findInLine
+io BufferedReader readLine
+util Scanner nextLine
+lang String trim
+lang String split
+replaceAll
+replaceFirst
+appendReplacement
+replace
+Matcher replaceAll
+Pattern quote
+Matcher appendReplacement
+Pattern compile
+gc
+deleteOnExit
+delete
+exit
+System gc
+Runtime exec
+File deleteOnExit
+File delete
+util Optional empty
+util Optional allocate
+util Optional of
+util Optional get
+System gc
+Integer valueOf
+Math pow
+Double empty
+util stream IntStream range
+util stream Collectors toList
+util stream Collectors groupingBy
+util stream Collectors toMap
+stream IntStream range
+stream Collectors toList
+stream Collectors groupingBy
+stream Stream mapToInt
+Runtime exec
+ProcessBuilder redirectOutput
+System setOut
+Runtime getRuntime
+lang Runtime exec
+lang ProcessBuilder redirectOutput
+lang Process getInputStream
+lang System setOut
+util Collections singleton
+util Collections unmodifiableMap
+util Collections sort
+util Collections singletonMap
+nanoTime
+currentTimeMillis
+identityHashCode
+gc
+File mkdirs
+File mkdir
+File getParentFile
+File createNewFile
+mkdirs
+mkdir
+getCanonicalFile
+createNewDirectory
+String replace
+String replaceAll
+String format
+StringBuilder replace
+replace
+format
+replaceAll
+valueOf
+Thread sleep
+System currentTimeMillis
+System nanoTime
+System loadLibrary
+sleep
+setDefaultUncaughtExceptionHandler
+getDefaultUncaughtExceptionHandler
+currentThread
+net URL setURLStreamHandlerFactory
+net DatagramSocket connect
+net Socket setSoTimeout
+net InetAddress getLocalHost
+Socket setSoTimeout
+InetAddress getLocalHost
+ServerSocket accept
+URL setURLStreamHandlerFactory
+Integer parseInt
+Long parseLong
+Math pow
+String contains
+parseLong
+toString
+longValue
+valueOf
+put
+setLookAndFeel
+getLookAndFeelDefaults
+getSystemLookAndFeelDefaults
+swing SwingUtilities invokeLater
+swing Scrollable getPreferredScrollableViewportSize
+swing JList setPrototypeCellValue
+swing JScrollPane setViewportView
+exec
+getRuntime
+addShutdownHook
+findRuntime
+lang Runtime exec
+io File listFiles
+nio file Files newInputStream
+lang System getProperty
+emptyMap
+synchronizedMap
+newSetFromMap
+unmodifiableMap
+util Hashtable clear
+lang System gc
+util Hashtable put
+lang Object finalize
+Font deriveFont
+FontMetrics stringWidth
+GraphicsEnvironment getLocalGraphicsEnvironment
+Toolkit getDefaultToolkit
+stringWidth
+getHeight
+stringHeight
+charHeight
+PrintWriter
+checkError
+write
+print
+io PrintWriter PrintWriter
+lang String getBytes
+lang System lineSeparator
+lang System getProperty
