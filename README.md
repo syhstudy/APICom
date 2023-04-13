@@ -7,4 +7,4 @@ Just run "metrics.py" to get the paper results.
 
 Just run "run.py" to rerun the experiment.
 
-![image](https://user-images.githubusercontent.com/93321396/231674056-e488921a-914c-4bfa-94d7-b6a6944ca69b.png)
+![image](https://user-images.githubusercontent.com/93321396/231674707-93212488-fa21-4a86-8294-7768ea3ccafa.png)
